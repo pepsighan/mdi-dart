@@ -1,8 +1,8 @@
 name: mdi
-description: A new Flutter package project.
-version: 0.0.1
-author:
-homepage:
+description: Material Design Icons for Flutter.
+version: 0.1.0
+author: Sharad Chand <sharad@sharadchand.com>
+homepage: https://github.com/csharad/mdi-dart
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
@@ -11,5 +11,8 @@ dependencies:
   flutter:
     sdk: flutter
 
-# The following section is specific to Flutter.
 flutter:
+  fonts:
+    - family: Material Design Icons
+      fonts:
+        - asset: fonts/materialdesignicons-webfont.ttf
