@@ -1,6 +1,7 @@
 # Material Design Icons for Flutter
 
-Material Design Icons generated using `mdi/fonts` SVG font.
+Material Design Icons generated using `mdi/fonts` SVG font provided by
+[materialdesignicons.com](https://materialdesignicons.com).
 
 ### Install
 
