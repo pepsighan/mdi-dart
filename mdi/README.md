@@ -22,3 +22,14 @@ class AccessPointButton extends StatelessWidget {
   }
 }
 ```
+
+### Naming
+
+The icon names provided via `Mdi` are camel-cased variants of the original name.
+
+##### Exceptions:
+
+1. null -> nullIcon
+2. switch -> switchIcon
+3. sync -> syncIcon
+4. factory -> factoryIcon
