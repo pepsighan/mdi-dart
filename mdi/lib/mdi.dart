@@ -1401,7 +1401,7 @@ class Mdi {
   static const facebookBox = IconData(0xF20D, fontFamily: fontFamily, fontPackage: packageName);
   static const facebookMessenger = IconData(0xF20E, fontFamily: fontFamily, fontPackage: packageName);
   static const facebookWorkplace = IconData(0xFB16, fontFamily: fontFamily, fontPackage: packageName);
-  static const factory = IconData(0xF20F, fontFamily: fontFamily, fontPackage: packageName);
+  static const factoryIcon = IconData(0xF20F, fontFamily: fontFamily, fontPackage: packageName);
   static const fan = IconData(0xF210, fontFamily: fontFamily, fontPackage: packageName);
   static const fanOff = IconData(0xF81C, fontFamily: fontFamily, fontPackage: packageName);
   static const fastForward = IconData(0xF211, fontFamily: fontFamily, fontPackage: packageName);
@@ -2308,7 +2308,7 @@ class Mdi {
   static const npmVariant = IconData(0xF98E, fontFamily: fontFamily, fontPackage: packageName);
   static const npmVariantOutline = IconData(0xF98F, fontFamily: fontFamily, fontPackage: packageName);
   static const nuke = IconData(0xF6A3, fontFamily: fontFamily, fontPackage: packageName);
-  static const null = IconData(0xF7E1, fontFamily: fontFamily, fontPackage: packageName);
+  static const nullIcon = IconData(0xF7E1, fontFamily: fontFamily, fontPackage: packageName);
   static const numeric = IconData(0xF3A0, fontFamily: fontFamily, fontPackage: packageName);
   static const numeric0 = IconData(0x30, fontFamily: fontFamily, fontPackage: packageName);
   static const numeric0Box = IconData(0xF3A1, fontFamily: fontFamily, fontPackage: packageName);
@@ -3031,11 +3031,11 @@ class Mdi {
   static const swapVerticalBold = IconData(0xFBAA, fontFamily: fontFamily, fontPackage: packageName);
   static const swapVerticalVariant = IconData(0xF8C1, fontFamily: fontFamily, fontPackage: packageName);
   static const swim = IconData(0xF4E3, fontFamily: fontFamily, fontPackage: packageName);
-  static const switch = IconData(0xF4E4, fontFamily: fontFamily, fontPackage: packageName);
+  static const switchIcon = IconData(0xF4E4, fontFamily: fontFamily, fontPackage: packageName);
   static const sword = IconData(0xF4E5, fontFamily: fontFamily, fontPackage: packageName);
   static const swordCross = IconData(0xF786, fontFamily: fontFamily, fontPackage: packageName);
   static const symfony = IconData(0xFAE5, fontFamily: fontFamily, fontPackage: packageName);
-  static const sync = IconData(0xF4E6, fontFamily: fontFamily, fontPackage: packageName);
+  static const syncIcon = IconData(0xF4E6, fontFamily: fontFamily, fontPackage: packageName);
   static const syncAlert = IconData(0xF4E7, fontFamily: fontFamily, fontPackage: packageName);
   static const syncOff = IconData(0xF4E8, fontFamily: fontFamily, fontPackage: packageName);
   static const tab = IconData(0xF4E9, fontFamily: fontFamily, fontPackage: packageName);

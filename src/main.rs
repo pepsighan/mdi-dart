@@ -26,7 +26,7 @@ class Mdi {
                 ref attributes,
                 ..
             }) if local_name == "glyph" => {
-                let icon_name = &attributes
+                let mut icon_name = attributes
                     .iter()
                     .find(|attr| attr.name.local_name == "glyph-name")
                     .unwrap()
@@ -41,6 +41,12 @@ class Mdi {
                     .chars()
                     .next()
                     .unwrap() as u32;
+
+                let is_keyword =
+                    ["null", "switch", "sync", "factory"].contains(&icon_name.as_str());
+                if is_keyword {
+                    icon_name.push_str("Icon");
+                }
 
                 mdi_content.push_str(&format!(
                     "  static const {} = IconData(0x{:X}, fontFamily: fontFamily, fontPackage: packageName);\n",
