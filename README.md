@@ -33,3 +33,15 @@ The icon names provided via `Mdi` are camel-cased variants of the original name.
 2. switch -> switchIcon
 3. sync -> syncIcon
 4. factory -> factoryIcon
+
+### Want to help?
+
+If you find the icons are outdated or there are bugs to be fixed, just submit a PR.
+
+Also, to generate icon glue-code locally you will be required to
+[install Rust & Cargo](https://www.rust-lang.org/tools/install).
+If you already have Rust, run the following on terminal:
+
+```
+$ cargo run
+```
