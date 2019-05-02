@@ -11,12 +11,17 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Column(
-        children: <Widget>[
-          // Use the camel-cased form of icon name.
-          Icon(Mdi.bell),
-          Text('Ring'),
-        ],
+      home: Scaffold(
+        body: Center(
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: <Widget>[
+              Icon(Mdi.bell),
+              Text('Ring'),
+            ],
+          ),
+        ),
       ),
     );
   }
