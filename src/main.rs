@@ -12,8 +12,14 @@ fn main() {
 
 import 'package:flutter/widgets.dart';
 
-const fontFamily = "Material Design Icons";
-const packageName = "mdi";
+const _fontFamily = "Material Design Icons";
+const _packageName = "mdi";
+
+/// A const wrapper for [IconData].
+class MdiIconData extends IconData {
+  const MdiIconData(int codePoint)
+      : super(codePoint, fontFamily: _fontFamily, fontPackage: _packageName);
+}
 
 class Mdi {
 "#
@@ -49,7 +55,7 @@ class Mdi {
                 }
 
                 mdi_content.push_str(&format!(
-                    "  static const {} = IconData(0x{:X}, fontFamily: fontFamily, fontPackage: packageName);\n",
+                    "  static const {} = MdiIconData(0x{:X});\n",
                     icon_name, unicode,
                 ));
             }
