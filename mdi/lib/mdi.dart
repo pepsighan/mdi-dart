@@ -11,6 +11,8 @@ class MdiIconData extends IconData {
       : super(codePoint, fontFamily: _fontFamily, fontPackage: _packageName);
 }
 
+/// Mdi is a collection of icons provided by 
+/// [Material Design Icons](https://materialdesignicons.com/).
 class Mdi {
   static const accessPoint = MdiIconData(0xF002);
   static const accessPointNetwork = MdiIconData(0xF003);
