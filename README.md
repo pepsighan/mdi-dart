@@ -25,7 +25,7 @@ class AccessPointButton extends StatelessWidget {
 
 ### Naming
 
-The icon names provided via `Mdi` are camel-cased variants of the original name.
+The icon names provided via `Mdi` are camelCased variants of the original name.
 
 ##### Exceptions:
 
