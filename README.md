@@ -1,6 +1,6 @@
 # Material Design Icons for Flutter
 
-Material Design Icons generated using `mdi/fonts` SVG font provided by
+Material Design Icons generated using `@mdi/util` provided by
 [materialdesignicons.com](https://materialdesignicons.com).
 
 ### Install
@@ -38,10 +38,9 @@ The icon names provided via `Mdi` are camelCased variants of the original name.
 
 If you find the icons are outdated or there are bugs to be fixed, just submit a PR.
 
-Also, to generate icon glue-code locally you will be required to
-[install Rust & Cargo](https://www.rust-lang.org/tools/install).
-If you already have Rust, run the following on terminal:
+To update the icon base and regenerate newer bindings to it, do the following:
 
 ```
-$ cargo run
+$ yarn upgrade
+$ yarn build
 ```
