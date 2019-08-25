@@ -8,7 +8,6 @@ yarn-error.log*
 
 # Miscellaneous
 *.class
-*.lock
 *.log
 *.pyc
 *.swp
