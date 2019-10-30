@@ -6,7 +6,7 @@ Material Design Icons generated using `mdi/fonts` SVG font provided by
 ### Install
 
 ```yaml
-mdi: 0.2.0
+mdi: 0.2.2
 ```
 
 ### Usage

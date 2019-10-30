@@ -1,3 +1,6 @@
+## [0.2.2] - 2019-10-29
+- Updated Material Design Icons to `v4.5.95`.
+
 ## [0.2.1] - 2019-08-25
 
 - Changed the dart code generator from rust to javascript because of `@mdi/util` library.
