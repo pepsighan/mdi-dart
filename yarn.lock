@@ -3,9 +3,9 @@
 
 
 "@mdi/svg@^4.0.96":
-  version "4.1.95"
-  resolved "https://registry.yarnpkg.com/@mdi/svg/-/svg-4.1.95.tgz#6ffb3d77463b04bf2adfbf47b805edaac02d1d69"
-  integrity sha512-lgt5hW2f6m1xMdymbctBsVt7BI97O5OTKoLC6i4UOdHEQeTQq1E1CMgsUYSGhuENjoas0bi0ISqNBMddIpF/Ig==
+  version "4.5.95"
+  resolved "https://registry.yarnpkg.com/@mdi/svg/-/svg-4.5.95.tgz#b02ea5ac4e118abdf64fee7af59c7807617f32bd"
+  integrity sha512-CwIV4cc6GB4qcNI8Z/5KSf51rONTQnB6dgF6Uji0Ns9eANzQQ14/cPvCFgJ42xNm+ivw+VXaQ5Ed9y/zcK/iXQ==
 
 "@mdi/util@^0.3.0":
   version "0.3.0"
