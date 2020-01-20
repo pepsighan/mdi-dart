@@ -6,7 +6,7 @@ Material Design Icons generated using `@mdi/util` provided by
 ### Install
 
 ```yaml
-mdi: 0.2.2
+mdi: ^1.0.0
 ```
 
 ### Usage
