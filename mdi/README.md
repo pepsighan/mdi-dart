@@ -3,12 +3,6 @@
 Material Design Icons generated using `mdi/fonts` SVG font provided by
 [materialdesignicons.com](https://materialdesignicons.com).
 
-### Install
-
-```yaml
-mdi: 0.2.2
-```
-
 ### Usage
 
 ```dart
