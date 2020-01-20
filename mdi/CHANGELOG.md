@@ -1,4 +1,9 @@
+## [1.0.0] - 2020-01-10
+
+- Updated Material Design Icons to `v4.8.95`.
+
 ## [0.2.2] - 2019-10-29
+
 - Updated Material Design Icons to `v4.5.95`.
 
 ## [0.2.1] - 2019-08-25
