@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@mdi/svg@^4.0.96":
-  version "4.8.95"
-  resolved "https://registry.yarnpkg.com/@mdi/svg/-/svg-4.8.95.tgz#a48c3cb027bca12a3aa73ad3ef686d0284251109"
-  integrity sha512-jG+e5B8Y3/vlGWtpKHvDXUCl/evd782GQ4x2Zfpdi6oexZELy+euaXfZNKlqWGUbXVAxqSHyBo6nyAsn60UB5A==
+"@mdi/svg@^5.0.45":
+  version "5.0.45"
+  resolved "https://registry.yarnpkg.com/@mdi/svg/-/svg-5.0.45.tgz#4544b114419effd5e1373bf1f07d567c27f44818"
+  integrity sha512-JAsxPV2Um/AxZluJxNnxqgrByQT3wj7f0V0YJI632qUwiU6EDmG1D43FMHlLS5oEPjYB4meiyF4/mPDXqfICSw==
 
 "@mdi/util@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@mdi/util/-/util-0.3.0.tgz#87a4f729c9ed3f60736538bf09ae2d14164ebf6f"
-  integrity sha512-vBldUQB5aqoDXDgvWBCrPAkdJGKsZW2mXolpyEbZbocXEQswxyLMgKu/IHMpgbHn9KWiS87c5cs/pEgnPLR5kw==
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/@mdi/util/-/util-0.3.2.tgz#8964f14ad86f9a355042824553958cc01a94886f"
+  integrity sha512-0ICbKIcsI+OYSqz6SWsYVJA6+kM+irQQiwYGBtJlq0a0sI0JrB2bCrc4S/xVfexqwa1EG8dlSY/ohsQllEXnyQ==
