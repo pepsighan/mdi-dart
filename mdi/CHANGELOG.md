@@ -1,4 +1,4 @@
-## [2.0.0] - date
+## [2.0.0] - 2020-03-27
 
 - Updated the Material Design Icons to `v5.0.45`.
 
