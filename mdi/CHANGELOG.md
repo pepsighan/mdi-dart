@@ -1,3 +1,8 @@
+## [3.0.0] - 2020-05-25
+
+- Update the Material Design Icons to `v5.3.45`.
+- Bumping to major release because code generation led to removal of older icons.
+
 ## [2.0.0] - 2020-03-27
 
 - Updated the Material Design Icons to `v5.0.45`.
