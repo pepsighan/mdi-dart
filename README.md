@@ -1,12 +1,15 @@
 # Material Design Icons for Flutter
 
-Material Design Icons generated using `@mdi/util` provided by
-[materialdesignicons.com](https://materialdesignicons.com).
+![pub version](https://badgen.net/pub/v/mdi) ![likes](https://badgen.net/pub/likes/mdi) ![sdk version](https://badgen.net/pub/sdk-version/mdi) ![platform](https://badgen.net/pub/flutter-platform/mdi) ![license](https://badgen.net/pub/license/mdi)
 
-### Install
+Material Design Icons generated using `@mdi/util` provided by [materialdesignicons.com](https://materialdesignicons.com).
+
+### Installation
+Add this to your package's pubspec.yaml file:
 
 ```yaml
-mdi: ^1.0.0
+dependencies:
+  mdi: ^3.0.0
 ```
 
 ### Usage
@@ -25,7 +28,7 @@ class AccessPointButton extends StatelessWidget {
 
 ### Naming
 
-The icon names provided via `Mdi` are camelCased variants of the original name.
+The icon names provided via `Mdi` are camel-cased variants of the original name.
 
 ##### Exceptions:
 
@@ -34,13 +37,6 @@ The icon names provided via `Mdi` are camelCased variants of the original name.
 3. sync -> syncIcon
 4. factory -> factoryIcon
 
-### Want to help?
+### Contributing
 
-If you find the icons are outdated or there are bugs to be fixed, just submit a PR.
-
-To update the icon base and regenerate newer bindings to it, do the following:
-
-```
-$ yarn upgrade
-$ yarn build
-```
+If you want to contribute to this project, you may easily create issues and send PRs. Please take note that your code contributions will be applicable under MIT license unless specified otherwise.
