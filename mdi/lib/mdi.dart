@@ -1,4 +1,4 @@
-// Material Design Icons v5.3.45
+// Material Design Icons v5.4.55
 
 library mdi;
 
@@ -23,8 +23,13 @@ class Mdi {
   static const abugidaDevanagari = MdiIconData(0xF132A);
   static const abugidaThai = MdiIconData(0xF132B);
   static const accessPoint = MdiIconData(0xF0003);
+  static const accessPointCheck = MdiIconData(0xF1538);
+  static const accessPointMinus = MdiIconData(0xF1539);
   static const accessPointNetwork = MdiIconData(0xF0002);
   static const accessPointNetworkOff = MdiIconData(0xF0BE1);
+  static const accessPointOff = MdiIconData(0xF1511);
+  static const accessPointPlus = MdiIconData(0xF153A);
+  static const accessPointRemove = MdiIconData(0xF153B);
   static const account = MdiIconData(0xF0004);
   static const accountAlert = MdiIconData(0xF0005);
   static const accountAlertOutline = MdiIconData(0xF0B50);
@@ -90,6 +95,8 @@ class Mdi {
   static const accountPlusOutline = MdiIconData(0xF0801);
   static const accountQuestion = MdiIconData(0xF0B59);
   static const accountQuestionOutline = MdiIconData(0xF0B5A);
+  static const accountReactivate = MdiIconData(0xF152B);
+  static const accountReactivateOutline = MdiIconData(0xF152C);
   static const accountRemove = MdiIconData(0xF0015);
   static const accountRemoveOutline = MdiIconData(0xF0AED);
   static const accountSearch = MdiIconData(0xF0016);
@@ -100,6 +107,7 @@ class Mdi {
   static const accountStarOutline = MdiIconData(0xF0BE8);
   static const accountSupervisor = MdiIconData(0xF0A8B);
   static const accountSupervisorCircle = MdiIconData(0xF0A8C);
+  static const accountSupervisorCircleOutline = MdiIconData(0xF14EC);
   static const accountSupervisorOutline = MdiIconData(0xF112D);
   static const accountSwitch = MdiIconData(0xF0019);
   static const accountSwitchOutline = MdiIconData(0xF04CB);
@@ -361,6 +369,8 @@ class Mdi {
   static const appsBox = MdiIconData(0xF0D46);
   static const arch = MdiIconData(0xF08C7);
   static const archive = MdiIconData(0xF003C);
+  static const archiveAlert = MdiIconData(0xF14FD);
+  static const archiveAlertOutline = MdiIconData(0xF14FE);
   static const archiveArrowDown = MdiIconData(0xF1259);
   static const archiveArrowDownOutline = MdiIconData(0xF125A);
   static const archiveArrowUp = MdiIconData(0xF125B);
@@ -573,7 +583,15 @@ class Mdi {
   static const bash = MdiIconData(0xF1183);
   static const basket = MdiIconData(0xF0076);
   static const basketFill = MdiIconData(0xF0077);
+  static const basketMinus = MdiIconData(0xF1523);
+  static const basketMinusOutline = MdiIconData(0xF1524);
+  static const basketOff = MdiIconData(0xF1525);
+  static const basketOffOutline = MdiIconData(0xF1526);
   static const basketOutline = MdiIconData(0xF1181);
+  static const basketPlus = MdiIconData(0xF1527);
+  static const basketPlusOutline = MdiIconData(0xF1528);
+  static const basketRemove = MdiIconData(0xF1529);
+  static const basketRemoveOutline = MdiIconData(0xF152A);
   static const basketUnfill = MdiIconData(0xF0078);
   static const basketball = MdiIconData(0xF0806);
   static const basketballHoop = MdiIconData(0xF0C3B);
@@ -677,6 +695,7 @@ class Mdi {
   static const beeFlower = MdiIconData(0xF0FA2);
   static const beehiveOffOutline = MdiIconData(0xF13ED);
   static const beehiveOutline = MdiIconData(0xF10CE);
+  static const beekeeper = MdiIconData(0xF14E2);
   static const beer = MdiIconData(0xF0098);
   static const beerOutline = MdiIconData(0xF130C);
   static const bell = MdiIconData(0xF009A);
@@ -743,6 +762,8 @@ class Mdi {
   static const bookAccount = MdiIconData(0xF13AD);
   static const bookAccountOutline = MdiIconData(0xF13AE);
   static const bookAlphabet = MdiIconData(0xF061D);
+  static const bookCheck = MdiIconData(0xF14F3);
+  static const bookCheckOutline = MdiIconData(0xF14F4);
   static const bookCross = MdiIconData(0xF00A2);
   static const bookInformationVariant = MdiIconData(0xF106F);
   static const bookLock = MdiIconData(0xF079A);
@@ -754,9 +775,10 @@ class Mdi {
   static const bookMultipleOutline = MdiIconData(0xF0436);
   static const bookMusic = MdiIconData(0xF0067);
   static const bookOpen = MdiIconData(0xF00BD);
+  static const bookOpenBlankVariant = MdiIconData(0xF00BE);
   static const bookOpenOutline = MdiIconData(0xF0B63);
   static const bookOpenPageVariant = MdiIconData(0xF05DA);
-  static const bookOpenVariant = MdiIconData(0xF00BE);
+  static const bookOpenVariant = MdiIconData(0xF14F7);
   static const bookOutline = MdiIconData(0xF0B64);
   static const bookPlay = MdiIconData(0xF0E82);
   static const bookPlayOutline = MdiIconData(0xF0E83);
@@ -1033,12 +1055,14 @@ class Mdi {
   static const carHatchback = MdiIconData(0xF07A9);
   static const carInfo = MdiIconData(0xF11BE);
   static const carKey = MdiIconData(0xF0B6D);
+  static const carLiftedPickup = MdiIconData(0xF152D);
   static const carLightDimmed = MdiIconData(0xF0C4A);
   static const carLightFog = MdiIconData(0xF0C4B);
   static const carLightHigh = MdiIconData(0xF0C4C);
   static const carLimousine = MdiIconData(0xF08CD);
   static const carMultiple = MdiIconData(0xF0B6E);
   static const carOff = MdiIconData(0xF0E1C);
+  static const carOutline = MdiIconData(0xF14ED);
   static const carParkingLights = MdiIconData(0xF0D63);
   static const carPickup = MdiIconData(0xF07AA);
   static const carSeat = MdiIconData(0xF0FA4);
@@ -1100,6 +1124,9 @@ class Mdi {
   static const caseSensitiveAlt = MdiIconData(0xF0113);
   static const cash = MdiIconData(0xF0114);
   static const cash100 = MdiIconData(0xF0115);
+  static const cashCheck = MdiIconData(0xF14EE);
+  static const cashLock = MdiIconData(0xF14EA);
+  static const cashLockOpen = MdiIconData(0xF14EB);
   static const cashMarker = MdiIconData(0xF0DB8);
   static const cashMinus = MdiIconData(0xF1260);
   static const cashMultiple = MdiIconData(0xF0116);
@@ -1158,6 +1185,9 @@ class Mdi {
   static const chartBarStacked = MdiIconData(0xF076A);
   static const chartBellCurve = MdiIconData(0xF0C50);
   static const chartBellCurveCumulative = MdiIconData(0xF0FA7);
+  static const chartBox = MdiIconData(0xF154D);
+  static const chartBoxOutline = MdiIconData(0xF154E);
+  static const chartBoxPlusOutline = MdiIconData(0xF154F);
   static const chartBubble = MdiIconData(0xF05E3);
   static const chartDonut = MdiIconData(0xF07AF);
   static const chartDonutVariant = MdiIconData(0xF07B0);
@@ -1318,6 +1348,8 @@ class Mdi {
   static const clipboardCheckMultiple = MdiIconData(0xF1263);
   static const clipboardCheckMultipleOutline = MdiIconData(0xF1264);
   static const clipboardCheckOutline = MdiIconData(0xF08A8);
+  static const clipboardEdit = MdiIconData(0xF14E5);
+  static const clipboardEditOutline = MdiIconData(0xF14E6);
   static const clipboardFile = MdiIconData(0xF1265);
   static const clipboardFileOutline = MdiIconData(0xF1266);
   static const clipboardFlow = MdiIconData(0xF06C8);
@@ -1635,6 +1667,7 @@ class Mdi {
   static const currencyJpy = MdiIconData(0xF07BC);
   static const currencyKrw = MdiIconData(0xF07BD);
   static const currencyKzt = MdiIconData(0xF0865);
+  static const currencyMnt = MdiIconData(0xF1512);
   static const currencyNgn = MdiIconData(0xF01B0);
   static const currencyPhp = MdiIconData(0xF09E6);
   static const currencyRial = MdiIconData(0xF0E9C);
@@ -1657,6 +1690,12 @@ class Mdi {
   static const cursorMove = MdiIconData(0xF01BE);
   static const cursorPointer = MdiIconData(0xF01BD);
   static const cursorText = MdiIconData(0xF05E7);
+  static const dataMatrix = MdiIconData(0xF153C);
+  static const dataMatrixEdit = MdiIconData(0xF153D);
+  static const dataMatrixMinus = MdiIconData(0xF153E);
+  static const dataMatrixPlus = MdiIconData(0xF153F);
+  static const dataMatrixRemove = MdiIconData(0xF1540);
+  static const dataMatrixScan = MdiIconData(0xF1541);
   static const database = MdiIconData(0xF01BC);
   static const databaseCheck = MdiIconData(0xF0AA9);
   static const databaseEdit = MdiIconData(0xF0B86);
@@ -1786,6 +1825,7 @@ class Mdi {
   static const dockBottom = MdiIconData(0xF10A9);
   static const dockLeft = MdiIconData(0xF10AA);
   static const dockRight = MdiIconData(0xF10AB);
+  static const dockTop = MdiIconData(0xF1513);
   static const dockWindow = MdiIconData(0xF10AC);
   static const docker = MdiIconData(0xF0868);
   static const doctor = MdiIconData(0xF0A42);
@@ -1969,6 +2009,12 @@ class Mdi {
   static const ethernet = MdiIconData(0xF0200);
   static const ethernetCable = MdiIconData(0xF0201);
   static const ethernetCableOff = MdiIconData(0xF0202);
+  static const evPlugCcs1 = MdiIconData(0xF1519);
+  static const evPlugCcs2 = MdiIconData(0xF151A);
+  static const evPlugChademo = MdiIconData(0xF151B);
+  static const evPlugTesla = MdiIconData(0xF151C);
+  static const evPlugType1 = MdiIconData(0xF151D);
+  static const evPlugType2 = MdiIconData(0xF151E);
   static const evStation = MdiIconData(0xF05F1);
   static const evernote = MdiIconData(0xF0204);
   static const excavator = MdiIconData(0xF1025);
@@ -2013,6 +2059,7 @@ class Mdi {
   static const faceWoman = MdiIconData(0xF1077);
   static const faceWomanOutline = MdiIconData(0xF1078);
   static const facebook = MdiIconData(0xF020C);
+  static const facebookGaming = MdiIconData(0xF07DD);
   static const facebookMessenger = MdiIconData(0xF020E);
   static const facebookWorkplace = MdiIconData(0xF0B31);
   static const factoryIcon = MdiIconData(0xF020F);
@@ -2070,6 +2117,8 @@ class Mdi {
   static const fileDocument = MdiIconData(0xF0219);
   static const fileDocumentEdit = MdiIconData(0xF0DC8);
   static const fileDocumentEditOutline = MdiIconData(0xF0DC9);
+  static const fileDocumentMultiple = MdiIconData(0xF1517);
+  static const fileDocumentMultipleOutline = MdiIconData(0xF1518);
   static const fileDocumentOutline = MdiIconData(0xF09EE);
   static const fileDownload = MdiIconData(0xF0965);
   static const fileDownloadOutline = MdiIconData(0xF0966);
@@ -2168,6 +2217,8 @@ class Mdi {
   static const filterMenuOutline = MdiIconData(0xF10E6);
   static const filterMinus = MdiIconData(0xF0EEE);
   static const filterMinusOutline = MdiIconData(0xF0EEF);
+  static const filterOff = MdiIconData(0xF14EF);
+  static const filterOffOutline = MdiIconData(0xF14F0);
   static const filterOutline = MdiIconData(0xF0233);
   static const filterPlus = MdiIconData(0xF0EF0);
   static const filterPlusOutline = MdiIconData(0xF0EF1);
@@ -2444,6 +2495,7 @@ class Mdi {
   static const formatTextRotationUp = MdiIconData(0xF0FBE);
   static const formatTextRotationVertical = MdiIconData(0xF0FBF);
   static const formatTextVariant = MdiIconData(0xF0E32);
+  static const formatTextVariantOutline = MdiIconData(0xF150F);
   static const formatTextWrappingClip = MdiIconData(0xF0D0E);
   static const formatTextWrappingOverflow = MdiIconData(0xF0D0F);
   static const formatTextWrappingWrap = MdiIconData(0xF0D10);
@@ -2637,6 +2689,7 @@ class Mdi {
   static const graph = MdiIconData(0xF1049);
   static const graphOutline = MdiIconData(0xF104A);
   static const graphql = MdiIconData(0xF0877);
+  static const grass = MdiIconData(0xF1510);
   static const graveStone = MdiIconData(0xF0BA2);
   static const greasePencil = MdiIconData(0xF0648);
   static const greaterThan = MdiIconData(0xF096D);
@@ -2840,6 +2893,7 @@ class Mdi {
   static const human = MdiIconData(0xF02E6);
   static const humanBabyChangingTable = MdiIconData(0xF138B);
   static const humanChild = MdiIconData(0xF02E7);
+  static const humanEdit = MdiIconData(0xF14E8);
   static const humanFemale = MdiIconData(0xF0649);
   static const humanFemaleBoy = MdiIconData(0xF0A59);
   static const humanFemaleFemale = MdiIconData(0xF0A5A);
@@ -3374,7 +3428,6 @@ class Mdi {
   static const mirror = MdiIconData(0xF11FD);
   static const mixedMartialArts = MdiIconData(0xF0D8F);
   static const mixedReality = MdiIconData(0xF087F);
-  static const mixer = MdiIconData(0xF07DD);
   static const molecule = MdiIconData(0xF0BAC);
   static const moleculeCo = MdiIconData(0xF12FE);
   static const moleculeCo2 = MdiIconData(0xF07E4);
@@ -3528,6 +3581,10 @@ class Mdi {
   static const noteText = MdiIconData(0xF039E);
   static const noteTextOutline = MdiIconData(0xF11D7);
   static const notebook = MdiIconData(0xF082E);
+  static const notebookCheck = MdiIconData(0xF14F5);
+  static const notebookCheckOutline = MdiIconData(0xF14F6);
+  static const notebookEdit = MdiIconData(0xF14E7);
+  static const notebookEditOutline = MdiIconData(0xF14E9);
   static const notebookMultiple = MdiIconData(0xF0E55);
   static const notebookOutline = MdiIconData(0xF0EBF);
   static const notificationClearAll = MdiIconData(0xF039F);
@@ -3634,6 +3691,9 @@ class Mdi {
   static const odnoklassniki = MdiIconData(0xF03C5);
   static const offer = MdiIconData(0xF121B);
   static const officeBuilding = MdiIconData(0xF0991);
+  static const officeBuildingMarker = MdiIconData(0xF1520);
+  static const officeBuildingMarkerOutline = MdiIconData(0xF1521);
+  static const officeBuildingOutline = MdiIconData(0xF151F);
   static const oil = MdiIconData(0xF03C7);
   static const oilLamp = MdiIconData(0xF0F19);
   static const oilLevel = MdiIconData(0xF1053);
@@ -3812,6 +3872,8 @@ class Mdi {
   static const phonePausedOutline = MdiIconData(0xF119A);
   static const phonePlus = MdiIconData(0xF0659);
   static const phonePlusOutline = MdiIconData(0xF119B);
+  static const phoneRemove = MdiIconData(0xF152F);
+  static const phoneRemoveOutline = MdiIconData(0xF1530);
   static const phoneReturn = MdiIconData(0xF082F);
   static const phoneReturnOutline = MdiIconData(0xF119C);
   static const phoneRing = MdiIconData(0xF11AB);
@@ -3941,6 +4003,7 @@ class Mdi {
   static const powerSocketDe = MdiIconData(0xF1107);
   static const powerSocketEu = MdiIconData(0xF07E7);
   static const powerSocketFr = MdiIconData(0xF1108);
+  static const powerSocketIt = MdiIconData(0xF14FF);
   static const powerSocketJp = MdiIconData(0xF1109);
   static const powerSocketUk = MdiIconData(0xF07E8);
   static const powerSocketUs = MdiIconData(0xF07E9);
@@ -3971,6 +4034,7 @@ class Mdi {
   static const progressClock = MdiIconData(0xF0996);
   static const progressClose = MdiIconData(0xF110A);
   static const progressDownload = MdiIconData(0xF0997);
+  static const progressQuestion = MdiIconData(0xF1522);
   static const progressUpload = MdiIconData(0xF0998);
   static const progressWrench = MdiIconData(0xF0CBD);
   static const projector = MdiIconData(0xF042E);
@@ -4035,6 +4099,7 @@ class Mdi {
   static const radius = MdiIconData(0xF0CC0);
   static const radiusOutline = MdiIconData(0xF0CC1);
   static const railroadLight = MdiIconData(0xF0F1E);
+  static const rake = MdiIconData(0xF1544);
   static const raspberryPi = MdiIconData(0xF043F);
   static const rayEnd = MdiIconData(0xF0440);
   static const rayEndArrow = MdiIconData(0xF0441);
@@ -4336,6 +4401,7 @@ class Mdi {
   static const shapePolygonPlus = MdiIconData(0xF065E);
   static const shapeRectanglePlus = MdiIconData(0xF065F);
   static const shapeSquarePlus = MdiIconData(0xF0660);
+  static const shapeSquareRoundedPlus = MdiIconData(0xF14FA);
   static const share = MdiIconData(0xF0496);
   static const shareAll = MdiIconData(0xF11F4);
   static const shareAllOutline = MdiIconData(0xF11F5);
@@ -4344,6 +4410,7 @@ class Mdi {
   static const shareOffOutline = MdiIconData(0xF0F24);
   static const shareOutline = MdiIconData(0xF0932);
   static const shareVariant = MdiIconData(0xF0497);
+  static const shareVariantOutline = MdiIconData(0xF1514);
   static const sheep = MdiIconData(0xF0CC6);
   static const shield = MdiIconData(0xF0498);
   static const shieldAccount = MdiIconData(0xF088F);
@@ -4395,6 +4462,7 @@ class Mdi {
   static const shoppingMusic = MdiIconData(0xF049B);
   static const shoppingOutline = MdiIconData(0xF11D5);
   static const shoppingSearch = MdiIconData(0xF0F84);
+  static const shore = MdiIconData(0xF14F9);
   static const shovel = MdiIconData(0xF0710);
   static const shovelOff = MdiIconData(0xF0711);
   static const shower = MdiIconData(0xF09A0);
@@ -4411,6 +4479,7 @@ class Mdi {
   static const signDirectionMinus = MdiIconData(0xF1000);
   static const signDirectionPlus = MdiIconData(0xF0FDC);
   static const signDirectionRemove = MdiIconData(0xF0FDD);
+  static const signPole = MdiIconData(0xF14F8);
   static const signRealEstate = MdiIconData(0xF1118);
   static const signText = MdiIconData(0xF0782);
   static const signal = MdiIconData(0xF04A2);
@@ -4499,11 +4568,13 @@ class Mdi {
   static const smokingOff = MdiIconData(0xF04B5);
   static const smokingPipe = MdiIconData(0xF140D);
   static const smokingPipeOff = MdiIconData(0xF1428);
+  static const snake = MdiIconData(0xF150E);
   static const snapchat = MdiIconData(0xF04B6);
   static const snowboard = MdiIconData(0xF1307);
   static const snowflake = MdiIconData(0xF0717);
   static const snowflakeAlert = MdiIconData(0xF0F29);
   static const snowflakeMelt = MdiIconData(0xF12CB);
+  static const snowflakeOff = MdiIconData(0xF14E3);
   static const snowflakeVariant = MdiIconData(0xF0F2A);
   static const snowman = MdiIconData(0xF04B7);
   static const soccer = MdiIconData(0xF04B8);
@@ -4526,6 +4597,12 @@ class Mdi {
   static const sortBoolAscendingVariant = MdiIconData(0xF1386);
   static const sortBoolDescending = MdiIconData(0xF1387);
   static const sortBoolDescendingVariant = MdiIconData(0xF1388);
+  static const sortCalendarAscending = MdiIconData(0xF1547);
+  static const sortCalendarDescending = MdiIconData(0xF1548);
+  static const sortClockAscending = MdiIconData(0xF1549);
+  static const sortClockAscendingOutline = MdiIconData(0xF154A);
+  static const sortClockDescending = MdiIconData(0xF154B);
+  static const sortClockDescendingOutline = MdiIconData(0xF154C);
   static const sortDescending = MdiIconData(0xF04BD);
   static const sortNumericAscending = MdiIconData(0xF1389);
   static const sortNumericAscendingVariant = MdiIconData(0xF090D);
@@ -4564,6 +4641,7 @@ class Mdi {
   static const spaceInvaders = MdiIconData(0xF0BC9);
   static const spaceStation = MdiIconData(0xF1383);
   static const spade = MdiIconData(0xF0E65);
+  static const sparkles = MdiIconData(0xF1545);
   static const speaker = MdiIconData(0xF04C3);
   static const speakerBluetooth = MdiIconData(0xF09A2);
   static const speakerMultiple = MdiIconData(0xF0D38);
@@ -4576,6 +4654,7 @@ class Mdi {
   static const spider = MdiIconData(0xF11EA);
   static const spiderThread = MdiIconData(0xF11EB);
   static const spiderWeb = MdiIconData(0xF0BCA);
+  static const spiritLevel = MdiIconData(0xF14F1);
   static const spoonSugar = MdiIconData(0xF1429);
   static const spotify = MdiIconData(0xF04C7);
   static const spotlight = MdiIconData(0xF04C8);
@@ -4587,6 +4666,7 @@ class Mdi {
   static const sprout = MdiIconData(0xF0E66);
   static const sproutOutline = MdiIconData(0xF0E67);
   static const square = MdiIconData(0xF0764);
+  static const squareCircle = MdiIconData(0xF1500);
   static const squareEditOutline = MdiIconData(0xF090C);
   static const squareMedium = MdiIconData(0xF0A13);
   static const squareMediumOutline = MdiIconData(0xF0A14);
@@ -4595,6 +4675,8 @@ class Mdi {
   static const squareOutline = MdiIconData(0xF0763);
   static const squareRoot = MdiIconData(0xF0784);
   static const squareRootBox = MdiIconData(0xF09A3);
+  static const squareRounded = MdiIconData(0xF14FB);
+  static const squareRoundedOutline = MdiIconData(0xF14FC);
   static const squareSmall = MdiIconData(0xF0A15);
   static const squareWave = MdiIconData(0xF147B);
   static const squeegee = MdiIconData(0xF0AE1);
@@ -4698,6 +4780,7 @@ class Mdi {
   static const syllabaryHiragana = MdiIconData(0xF1334);
   static const syllabaryKatakana = MdiIconData(0xF1335);
   static const syllabaryKatakanaHalfwidth = MdiIconData(0xF1336);
+  static const symbol = MdiIconData(0xF1501);
   static const symfony = MdiIconData(0xF0AE6);
   static const syncIcon = MdiIconData(0xF04E6);
   static const syncAlert = MdiIconData(0xF04E7);
@@ -4851,6 +4934,7 @@ class Mdi {
   static const thermometerLines = MdiIconData(0xF0510);
   static const thermometerLow = MdiIconData(0xF10C3);
   static const thermometerMinus = MdiIconData(0xF0E04);
+  static const thermometerOff = MdiIconData(0xF1531);
   static const thermometerPlus = MdiIconData(0xF0E05);
   static const thermostat = MdiIconData(0xF0393);
   static const thermostatBox = MdiIconData(0xF0891);
@@ -4874,13 +4958,19 @@ class Mdi {
   static const timeline = MdiIconData(0xF0BD1);
   static const timelineAlert = MdiIconData(0xF0F95);
   static const timelineAlertOutline = MdiIconData(0xF0F98);
+  static const timelineCheck = MdiIconData(0xF1532);
+  static const timelineCheckOutline = MdiIconData(0xF1533);
   static const timelineClock = MdiIconData(0xF11FB);
   static const timelineClockOutline = MdiIconData(0xF11FC);
   static const timelineHelp = MdiIconData(0xF0F99);
   static const timelineHelpOutline = MdiIconData(0xF0F9A);
+  static const timelineMinus = MdiIconData(0xF1534);
+  static const timelineMinusOutline = MdiIconData(0xF1535);
   static const timelineOutline = MdiIconData(0xF0BD2);
   static const timelinePlus = MdiIconData(0xF0F96);
   static const timelinePlusOutline = MdiIconData(0xF0F97);
+  static const timelineRemove = MdiIconData(0xF1536);
+  static const timelineRemoveOutline = MdiIconData(0xF1537);
   static const timelineText = MdiIconData(0xF0BD3);
   static const timelineTextOutline = MdiIconData(0xF0BD4);
   static const timer = MdiIconData(0xF13AB);
@@ -4959,8 +5049,10 @@ class Mdi {
   static const transferRight = MdiIconData(0xF0530);
   static const transferUp = MdiIconData(0xF0DA3);
   static const transitConnection = MdiIconData(0xF0D3C);
+  static const transitConnectionHorizontal = MdiIconData(0xF1546);
   static const transitConnectionVariant = MdiIconData(0xF0D3D);
   static const transitDetour = MdiIconData(0xF0F8B);
+  static const transitSkip = MdiIconData(0xF1515);
   static const transitTransfer = MdiIconData(0xF06AE);
   static const transition = MdiIconData(0xF0915);
   static const transitionMasked = MdiIconData(0xF0916);
@@ -5010,7 +5102,9 @@ class Mdi {
   static const tumbleDryerAlert = MdiIconData(0xF11BA);
   static const tumbleDryerOff = MdiIconData(0xF11BB);
   static const tune = MdiIconData(0xF062E);
+  static const tuneVariant = MdiIconData(0xF1542);
   static const tuneVertical = MdiIconData(0xF066A);
+  static const tuneVerticalVariant = MdiIconData(0xF1543);
   static const turnstile = MdiIconData(0xF0CD5);
   static const turnstileOutline = MdiIconData(0xF0CD6);
   static const turtle = MdiIconData(0xF0CD7);
@@ -5104,6 +5198,7 @@ class Mdi {
   static const videoBoxOff = MdiIconData(0xF00FE);
   static const videoCheck = MdiIconData(0xF1069);
   static const videoCheckOutline = MdiIconData(0xF106A);
+  static const videoHighDefinition = MdiIconData(0xF152E);
   static const videoImage = MdiIconData(0xF091A);
   static const videoInputAntenna = MdiIconData(0xF083F);
   static const videoInputComponent = MdiIconData(0xF0840);
@@ -5218,15 +5313,27 @@ class Mdi {
   static const watchVibrate = MdiIconData(0xF06B1);
   static const watchVibrateOff = MdiIconData(0xF0CDA);
   static const water = MdiIconData(0xF058C);
+  static const waterAlert = MdiIconData(0xF1502);
+  static const waterAlertOutline = MdiIconData(0xF1503);
   static const waterBoiler = MdiIconData(0xF0F92);
   static const waterBoilerAlert = MdiIconData(0xF11B3);
   static const waterBoilerOff = MdiIconData(0xF11B4);
+  static const waterCheck = MdiIconData(0xF1504);
+  static const waterCheckOutline = MdiIconData(0xF1505);
+  static const waterMinus = MdiIconData(0xF1506);
+  static const waterMinusOutline = MdiIconData(0xF1507);
   static const waterOff = MdiIconData(0xF058D);
+  static const waterOffOutline = MdiIconData(0xF1508);
   static const waterOutline = MdiIconData(0xF0E0A);
   static const waterPercent = MdiIconData(0xF058E);
+  static const waterPercentAlert = MdiIconData(0xF1509);
+  static const waterPlus = MdiIconData(0xF150A);
+  static const waterPlusOutline = MdiIconData(0xF150B);
   static const waterPolo = MdiIconData(0xF12A0);
   static const waterPump = MdiIconData(0xF058F);
   static const waterPumpOff = MdiIconData(0xF0F93);
+  static const waterRemove = MdiIconData(0xF150C);
+  static const waterRemoveOutline = MdiIconData(0xF150D);
   static const waterWell = MdiIconData(0xF106B);
   static const waterWellOutline = MdiIconData(0xF106C);
   static const wateringCan = MdiIconData(0xF1481);
@@ -5259,6 +5366,7 @@ class Mdi {
   static const weatherSnowyRainy = MdiIconData(0xF067F);
   static const weatherSunny = MdiIconData(0xF0599);
   static const weatherSunnyAlert = MdiIconData(0xF0F37);
+  static const weatherSunnyOff = MdiIconData(0xF14E4);
   static const weatherSunset = MdiIconData(0xF059A);
   static const weatherSunsetDown = MdiIconData(0xF059B);
   static const weatherSunsetUp = MdiIconData(0xF059C);
@@ -5279,6 +5387,7 @@ class Mdi {
   static const weightLifter = MdiIconData(0xF115D);
   static const weightPound = MdiIconData(0xF09B5);
   static const whatsapp = MdiIconData(0xF05A3);
+  static const wheelBarrow = MdiIconData(0xF14F2);
   static const wheelchairAccessibility = MdiIconData(0xF05A4);
   static const whistle = MdiIconData(0xF09B6);
   static const whistleOutline = MdiIconData(0xF12BC);
@@ -5344,6 +5453,7 @@ class Mdi {
   static const youtubeStudio = MdiIconData(0xF0847);
   static const youtubeSubscription = MdiIconData(0xF0D40);
   static const youtubeTv = MdiIconData(0xF0448);
+  static const yurt = MdiIconData(0xF1516);
   static const zWave = MdiIconData(0xF0AEA);
   static const zend = MdiIconData(0xF0AEB);
   static const zigbee = MdiIconData(0xF0D41);
