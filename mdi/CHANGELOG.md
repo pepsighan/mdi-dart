@@ -1,3 +1,8 @@
+## [4.0.0] - 2020-08-08
+
+- Update the Material Design Icons to `v5.4.55`.
+- Bumping to major release because `mixer` icon was removed causing breaking change.
+
 ## [3.0.0] - 2020-05-25
 
 - Update the Material Design Icons to `v5.3.45`.
