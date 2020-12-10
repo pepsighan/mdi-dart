@@ -5,11 +5,12 @@
 Material Design Icons generated using `@mdi/util` provided by [materialdesignicons.com](https://materialdesignicons.com).
 
 ### Installation
+
 Add this to your package's pubspec.yaml file:
 
 ```yaml
 dependencies:
-  mdi: ^3.0.0
+  mdi: ^5.0.0-nullsafety.0
 ```
 
 ### Usage
