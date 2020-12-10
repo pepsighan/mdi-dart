@@ -1,3 +1,8 @@
+## [5.0.0-nullsafety.0] - 2020-12-10
+
+- Updated the package to be nullsafe.
+- Updated the Material Design Icons to `v5.8.55`.
+
 ## [4.0.0] - 2020-08-08
 
 - Update the Material Design Icons to `v5.4.55`.
