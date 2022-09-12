@@ -1,4 +1,4 @@
-// Material Design Icons v5.8.55
+// Material Design Icons v7.0.96
 
 library mdi;
 
@@ -18,6 +18,9 @@ class MdiIconData extends IconData {
 class Mdi {
   /// Icon for ab-testing.
   static const abTesting = MdiIconData(0xF01C9);
+
+  /// Icon for abacus.
+  static const abacus = MdiIconData(0xF16E0);
 
   /// Icon for abjad-arabic.
   static const abjadArabic = MdiIconData(0xF1328);
@@ -64,6 +67,12 @@ class Mdi {
   /// Icon for account-alert-outline.
   static const accountAlertOutline = MdiIconData(0xF0B50);
 
+  /// Icon for account-arrow-down.
+  static const accountArrowDown = MdiIconData(0xF1868);
+
+  /// Icon for account-arrow-down-outline.
+  static const accountArrowDownOutline = MdiIconData(0xF1869);
+
   /// Icon for account-arrow-left.
   static const accountArrowLeft = MdiIconData(0xF0B51);
 
@@ -75,6 +84,18 @@ class Mdi {
 
   /// Icon for account-arrow-right-outline.
   static const accountArrowRightOutline = MdiIconData(0xF0B54);
+
+  /// Icon for account-arrow-up.
+  static const accountArrowUp = MdiIconData(0xF1867);
+
+  /// Icon for account-arrow-up-outline.
+  static const accountArrowUpOutline = MdiIconData(0xF186A);
+
+  /// Icon for account-badge.
+  static const accountBadge = MdiIconData(0xF1B0A);
+
+  /// Icon for account-badge-outline.
+  static const accountBadgeOutline = MdiIconData(0xF1B0B);
 
   /// Icon for account-box.
   static const accountBox = MdiIconData(0xF0006);
@@ -93,6 +114,12 @@ class Mdi {
 
   /// Icon for account-cancel-outline.
   static const accountCancelOutline = MdiIconData(0xF12E0);
+
+  /// Icon for account-card.
+  static const accountCard = MdiIconData(0xF1BA4);
+
+  /// Icon for account-card-outline.
+  static const accountCardOutline = MdiIconData(0xF1BA5);
 
   /// Icon for account-cash.
   static const accountCash = MdiIconData(0xF1097);
@@ -142,6 +169,15 @@ class Mdi {
   /// Icon for account-cowboy-hat.
   static const accountCowboyHat = MdiIconData(0xF0E9B);
 
+  /// Icon for account-cowboy-hat-outline.
+  static const accountCowboyHatOutline = MdiIconData(0xF17F3);
+
+  /// Icon for account-credit-card.
+  static const accountCreditCard = MdiIconData(0xF1BA6);
+
+  /// Icon for account-credit-card-outline.
+  static const accountCreditCardOutline = MdiIconData(0xF1BA7);
+
   /// Icon for account-details.
   static const accountDetails = MdiIconData(0xF0631);
 
@@ -154,6 +190,18 @@ class Mdi {
   /// Icon for account-edit-outline.
   static const accountEditOutline = MdiIconData(0xF0FFB);
 
+  /// Icon for account-eye.
+  static const accountEye = MdiIconData(0xF0420);
+
+  /// Icon for account-eye-outline.
+  static const accountEyeOutline = MdiIconData(0xF127B);
+
+  /// Icon for account-filter.
+  static const accountFilter = MdiIconData(0xF0936);
+
+  /// Icon for account-filter-outline.
+  static const accountFilterOutline = MdiIconData(0xF0F9D);
+
   /// Icon for account-group.
   static const accountGroup = MdiIconData(0xF0849);
 
@@ -163,11 +211,20 @@ class Mdi {
   /// Icon for account-hard-hat.
   static const accountHardHat = MdiIconData(0xF05B5);
 
+  /// Icon for account-hard-hat-outline.
+  static const accountHardHatOutline = MdiIconData(0xF1A1F);
+
   /// Icon for account-heart.
   static const accountHeart = MdiIconData(0xF0899);
 
   /// Icon for account-heart-outline.
   static const accountHeartOutline = MdiIconData(0xF0BE3);
+
+  /// Icon for account-injury.
+  static const accountInjury = MdiIconData(0xF1815);
+
+  /// Icon for account-injury-outline.
+  static const accountInjuryOutline = MdiIconData(0xF1816);
 
   /// Icon for account-key.
   static const accountKey = MdiIconData(0xF000B);
@@ -177,6 +234,12 @@ class Mdi {
 
   /// Icon for account-lock.
   static const accountLock = MdiIconData(0xF115E);
+
+  /// Icon for account-lock-open.
+  static const accountLockOpen = MdiIconData(0xF1960);
+
+  /// Icon for account-lock-open-outline.
+  static const accountLockOpenOutline = MdiIconData(0xF1961);
 
   /// Icon for account-lock-outline.
   static const accountLockOutline = MdiIconData(0xF115F);
@@ -226,6 +289,12 @@ class Mdi {
   /// Icon for account-network.
   static const accountNetwork = MdiIconData(0xF0011);
 
+  /// Icon for account-network-off.
+  static const accountNetworkOff = MdiIconData(0xF1AF1);
+
+  /// Icon for account-network-off-outline.
+  static const accountNetworkOffOutline = MdiIconData(0xF1AF2);
+
   /// Icon for account-network-outline.
   static const accountNetworkOutline = MdiIconData(0xF0BE6);
 
@@ -261,6 +330,12 @@ class Mdi {
 
   /// Icon for account-remove-outline.
   static const accountRemoveOutline = MdiIconData(0xF0AED);
+
+  /// Icon for account-school.
+  static const accountSchool = MdiIconData(0xF1A20);
+
+  /// Icon for account-school-outline.
+  static const accountSchoolOutline = MdiIconData(0xF1A21);
 
   /// Icon for account-search.
   static const accountSearch = MdiIconData(0xF0016);
@@ -298,8 +373,20 @@ class Mdi {
   /// Icon for account-switch-outline.
   static const accountSwitchOutline = MdiIconData(0xF04CB);
 
+  /// Icon for account-sync.
+  static const accountSync = MdiIconData(0xF191B);
+
+  /// Icon for account-sync-outline.
+  static const accountSyncOutline = MdiIconData(0xF191C);
+
   /// Icon for account-tie.
   static const accountTie = MdiIconData(0xF0CE3);
+
+  /// Icon for account-tie-hat.
+  static const accountTieHat = MdiIconData(0xF1898);
+
+  /// Icon for account-tie-hat-outline.
+  static const accountTieHatOutline = MdiIconData(0xF1899);
 
   /// Icon for account-tie-outline.
   static const accountTieOutline = MdiIconData(0xF10CA);
@@ -316,17 +403,29 @@ class Mdi {
   /// Icon for account-tie-voice-outline.
   static const accountTieVoiceOutline = MdiIconData(0xF1309);
 
+  /// Icon for account-tie-woman.
+  static const accountTieWoman = MdiIconData(0xF1A8C);
+
   /// Icon for account-voice.
   static const accountVoice = MdiIconData(0xF05CB);
+
+  /// Icon for account-voice-off.
+  static const accountVoiceOff = MdiIconData(0xF0ED4);
+
+  /// Icon for account-wrench.
+  static const accountWrench = MdiIconData(0xF189A);
+
+  /// Icon for account-wrench-outline.
+  static const accountWrenchOutline = MdiIconData(0xF189B);
 
   /// Icon for adjust.
   static const adjust = MdiIconData(0xF001A);
 
-  /// Icon for adobe.
-  static const adobe = MdiIconData(0xF0936);
+  /// Icon for advertisements.
+  static const advertisements = MdiIconData(0xF192A);
 
-  /// Icon for adobe-acrobat.
-  static const adobeAcrobat = MdiIconData(0xF0F9D);
+  /// Icon for advertisements-off.
+  static const advertisementsOff = MdiIconData(0xF192B);
 
   /// Icon for air-conditioner.
   static const airConditioner = MdiIconData(0xF001B);
@@ -346,6 +445,9 @@ class Mdi {
   /// Icon for air-purifier.
   static const airPurifier = MdiIconData(0xF0D44);
 
+  /// Icon for air-purifier-off.
+  static const airPurifierOff = MdiIconData(0xF1B57);
+
   /// Icon for airbag.
   static const airbag = MdiIconData(0xF0BE9);
 
@@ -358,11 +460,44 @@ class Mdi {
   /// Icon for airplane.
   static const airplane = MdiIconData(0xF001D);
 
+  /// Icon for airplane-alert.
+  static const airplaneAlert = MdiIconData(0xF187A);
+
+  /// Icon for airplane-check.
+  static const airplaneCheck = MdiIconData(0xF187B);
+
+  /// Icon for airplane-clock.
+  static const airplaneClock = MdiIconData(0xF187C);
+
+  /// Icon for airplane-cog.
+  static const airplaneCog = MdiIconData(0xF187D);
+
+  /// Icon for airplane-edit.
+  static const airplaneEdit = MdiIconData(0xF187E);
+
   /// Icon for airplane-landing.
   static const airplaneLanding = MdiIconData(0xF05D4);
 
+  /// Icon for airplane-marker.
+  static const airplaneMarker = MdiIconData(0xF187F);
+
+  /// Icon for airplane-minus.
+  static const airplaneMinus = MdiIconData(0xF1880);
+
   /// Icon for airplane-off.
   static const airplaneOff = MdiIconData(0xF001E);
+
+  /// Icon for airplane-plus.
+  static const airplanePlus = MdiIconData(0xF1881);
+
+  /// Icon for airplane-remove.
+  static const airplaneRemove = MdiIconData(0xF1882);
+
+  /// Icon for airplane-search.
+  static const airplaneSearch = MdiIconData(0xF1883);
+
+  /// Icon for airplane-settings.
+  static const airplaneSettings = MdiIconData(0xF1884);
 
   /// Icon for airplane-takeoff.
   static const airplaneTakeoff = MdiIconData(0xF05D5);
@@ -381,6 +516,12 @@ class Mdi {
 
   /// Icon for alarm-light.
   static const alarmLight = MdiIconData(0xF078F);
+
+  /// Icon for alarm-light-off.
+  static const alarmLightOff = MdiIconData(0xF171E);
+
+  /// Icon for alarm-light-off-outline.
+  static const alarmLightOffOutline = MdiIconData(0xF171F);
 
   /// Icon for alarm-light-outline.
   static const alarmLightOutline = MdiIconData(0xF0BEA);
@@ -487,6 +628,9 @@ class Mdi {
   /// Icon for align-horizontal-center.
   static const alignHorizontalCenter = MdiIconData(0xF11C3);
 
+  /// Icon for align-horizontal-distribute.
+  static const alignHorizontalDistribute = MdiIconData(0xF1962);
+
   /// Icon for align-horizontal-left.
   static const alignHorizontalLeft = MdiIconData(0xF11C2);
 
@@ -499,11 +643,20 @@ class Mdi {
   /// Icon for align-vertical-center.
   static const alignVerticalCenter = MdiIconData(0xF11C6);
 
+  /// Icon for align-vertical-distribute.
+  static const alignVerticalDistribute = MdiIconData(0xF1963);
+
   /// Icon for align-vertical-top.
   static const alignVerticalTop = MdiIconData(0xF11C7);
 
   /// Icon for all-inclusive.
   static const allInclusive = MdiIconData(0xF06BE);
+
+  /// Icon for all-inclusive-box.
+  static const allInclusiveBox = MdiIconData(0xF188D);
+
+  /// Icon for all-inclusive-box-outline.
+  static const allInclusiveBoxOutline = MdiIconData(0xF188E);
 
   /// Icon for allergy.
   static const allergy = MdiIconData(0xF1258);
@@ -934,12 +1087,6 @@ class Mdi {
   /// Icon for altimeter.
   static const altimeter = MdiIconData(0xF05D7);
 
-  /// Icon for amazon.
-  static const amazon = MdiIconData(0xF002D);
-
-  /// Icon for amazon-alexa.
-  static const amazonAlexa = MdiIconData(0xF08C6);
-
   /// Icon for ambulance.
   static const ambulance = MdiIconData(0xF002F);
 
@@ -960,15 +1107,6 @@ class Mdi {
 
   /// Icon for android.
   static const android = MdiIconData(0xF0032);
-
-  /// Icon for android-auto.
-  static const androidAuto = MdiIconData(0xF0A8E);
-
-  /// Icon for android-debug-bridge.
-  static const androidDebugBridge = MdiIconData(0xF0033);
-
-  /// Icon for android-messages.
-  static const androidMessages = MdiIconData(0xF0D45);
 
   /// Icon for android-studio.
   static const androidStudio = MdiIconData(0xF0034);
@@ -1021,9 +1159,6 @@ class Mdi {
   /// Icon for apple.
   static const apple = MdiIconData(0xF0035);
 
-  /// Icon for apple-airplay.
-  static const appleAirplay = MdiIconData(0xF001F);
-
   /// Icon for apple-finder.
   static const appleFinder = MdiIconData(0xF0036);
 
@@ -1052,10 +1187,37 @@ class Mdi {
   static const appleSafari = MdiIconData(0xF0039);
 
   /// Icon for application.
-  static const application = MdiIconData(0xF0614);
+  static const application = MdiIconData(0xF08C6);
+
+  /// Icon for application-array.
+  static const applicationArray = MdiIconData(0xF10F5);
+
+  /// Icon for application-array-outline.
+  static const applicationArrayOutline = MdiIconData(0xF10F6);
+
+  /// Icon for application-braces.
+  static const applicationBraces = MdiIconData(0xF10F7);
+
+  /// Icon for application-braces-outline.
+  static const applicationBracesOutline = MdiIconData(0xF10F8);
+
+  /// Icon for application-brackets.
+  static const applicationBrackets = MdiIconData(0xF0C8B);
+
+  /// Icon for application-brackets-outline.
+  static const applicationBracketsOutline = MdiIconData(0xF0C8C);
 
   /// Icon for application-cog.
-  static const applicationCog = MdiIconData(0xF1577);
+  static const applicationCog = MdiIconData(0xF0675);
+
+  /// Icon for application-cog-outline.
+  static const applicationCogOutline = MdiIconData(0xF1577);
+
+  /// Icon for application-edit.
+  static const applicationEdit = MdiIconData(0xF00AE);
+
+  /// Icon for application-edit-outline.
+  static const applicationEditOutline = MdiIconData(0xF0619);
 
   /// Icon for application-export.
   static const applicationExport = MdiIconData(0xF0DAD);
@@ -1063,8 +1225,26 @@ class Mdi {
   /// Icon for application-import.
   static const applicationImport = MdiIconData(0xF0DAE);
 
+  /// Icon for application-outline.
+  static const applicationOutline = MdiIconData(0xF0614);
+
+  /// Icon for application-parentheses.
+  static const applicationParentheses = MdiIconData(0xF10F9);
+
+  /// Icon for application-parentheses-outline.
+  static const applicationParenthesesOutline = MdiIconData(0xF10FA);
+
   /// Icon for application-settings.
-  static const applicationSettings = MdiIconData(0xF1555);
+  static const applicationSettings = MdiIconData(0xF0B60);
+
+  /// Icon for application-settings-outline.
+  static const applicationSettingsOutline = MdiIconData(0xF1555);
+
+  /// Icon for application-variable.
+  static const applicationVariable = MdiIconData(0xF10FB);
+
+  /// Icon for application-variable-outline.
+  static const applicationVariableOutline = MdiIconData(0xF10FC);
 
   /// Icon for approximately-equal.
   static const approximatelyEqual = MdiIconData(0xF0F9E);
@@ -1102,8 +1282,122 @@ class Mdi {
   /// Icon for archive-arrow-up-outline.
   static const archiveArrowUpOutline = MdiIconData(0xF125C);
 
+  /// Icon for archive-cancel.
+  static const archiveCancel = MdiIconData(0xF174B);
+
+  /// Icon for archive-cancel-outline.
+  static const archiveCancelOutline = MdiIconData(0xF174C);
+
+  /// Icon for archive-check.
+  static const archiveCheck = MdiIconData(0xF174D);
+
+  /// Icon for archive-check-outline.
+  static const archiveCheckOutline = MdiIconData(0xF174E);
+
+  /// Icon for archive-clock.
+  static const archiveClock = MdiIconData(0xF174F);
+
+  /// Icon for archive-clock-outline.
+  static const archiveClockOutline = MdiIconData(0xF1750);
+
+  /// Icon for archive-cog.
+  static const archiveCog = MdiIconData(0xF1751);
+
+  /// Icon for archive-cog-outline.
+  static const archiveCogOutline = MdiIconData(0xF1752);
+
+  /// Icon for archive-edit.
+  static const archiveEdit = MdiIconData(0xF1753);
+
+  /// Icon for archive-edit-outline.
+  static const archiveEditOutline = MdiIconData(0xF1754);
+
+  /// Icon for archive-eye.
+  static const archiveEye = MdiIconData(0xF1755);
+
+  /// Icon for archive-eye-outline.
+  static const archiveEyeOutline = MdiIconData(0xF1756);
+
+  /// Icon for archive-lock.
+  static const archiveLock = MdiIconData(0xF1757);
+
+  /// Icon for archive-lock-open.
+  static const archiveLockOpen = MdiIconData(0xF1758);
+
+  /// Icon for archive-lock-open-outline.
+  static const archiveLockOpenOutline = MdiIconData(0xF1759);
+
+  /// Icon for archive-lock-outline.
+  static const archiveLockOutline = MdiIconData(0xF175A);
+
+  /// Icon for archive-marker.
+  static const archiveMarker = MdiIconData(0xF175B);
+
+  /// Icon for archive-marker-outline.
+  static const archiveMarkerOutline = MdiIconData(0xF175C);
+
+  /// Icon for archive-minus.
+  static const archiveMinus = MdiIconData(0xF175D);
+
+  /// Icon for archive-minus-outline.
+  static const archiveMinusOutline = MdiIconData(0xF175E);
+
+  /// Icon for archive-music.
+  static const archiveMusic = MdiIconData(0xF175F);
+
+  /// Icon for archive-music-outline.
+  static const archiveMusicOutline = MdiIconData(0xF1760);
+
+  /// Icon for archive-off.
+  static const archiveOff = MdiIconData(0xF1761);
+
+  /// Icon for archive-off-outline.
+  static const archiveOffOutline = MdiIconData(0xF1762);
+
   /// Icon for archive-outline.
   static const archiveOutline = MdiIconData(0xF120E);
+
+  /// Icon for archive-plus.
+  static const archivePlus = MdiIconData(0xF1763);
+
+  /// Icon for archive-plus-outline.
+  static const archivePlusOutline = MdiIconData(0xF1764);
+
+  /// Icon for archive-refresh.
+  static const archiveRefresh = MdiIconData(0xF1765);
+
+  /// Icon for archive-refresh-outline.
+  static const archiveRefreshOutline = MdiIconData(0xF1766);
+
+  /// Icon for archive-remove.
+  static const archiveRemove = MdiIconData(0xF1767);
+
+  /// Icon for archive-remove-outline.
+  static const archiveRemoveOutline = MdiIconData(0xF1768);
+
+  /// Icon for archive-search.
+  static const archiveSearch = MdiIconData(0xF1769);
+
+  /// Icon for archive-search-outline.
+  static const archiveSearchOutline = MdiIconData(0xF176A);
+
+  /// Icon for archive-settings.
+  static const archiveSettings = MdiIconData(0xF176B);
+
+  /// Icon for archive-settings-outline.
+  static const archiveSettingsOutline = MdiIconData(0xF176C);
+
+  /// Icon for archive-star.
+  static const archiveStar = MdiIconData(0xF176D);
+
+  /// Icon for archive-star-outline.
+  static const archiveStarOutline = MdiIconData(0xF176E);
+
+  /// Icon for archive-sync.
+  static const archiveSync = MdiIconData(0xF176F);
+
+  /// Icon for archive-sync-outline.
+  static const archiveSyncOutline = MdiIconData(0xF1770);
 
   /// Icon for arm-flex.
   static const armFlex = MdiIconData(0xF0FD7);
@@ -1129,11 +1423,20 @@ class Mdi {
   /// Icon for arrow-bottom-left.
   static const arrowBottomLeft = MdiIconData(0xF0042);
 
+  /// Icon for arrow-bottom-left-bold-box.
+  static const arrowBottomLeftBoldBox = MdiIconData(0xF1964);
+
+  /// Icon for arrow-bottom-left-bold-box-outline.
+  static const arrowBottomLeftBoldBoxOutline = MdiIconData(0xF1965);
+
   /// Icon for arrow-bottom-left-bold-outline.
   static const arrowBottomLeftBoldOutline = MdiIconData(0xF09B7);
 
   /// Icon for arrow-bottom-left-thick.
   static const arrowBottomLeftThick = MdiIconData(0xF09B8);
+
+  /// Icon for arrow-bottom-left-thin.
+  static const arrowBottomLeftThin = MdiIconData(0xF19B6);
 
   /// Icon for arrow-bottom-left-thin-circle-outline.
   static const arrowBottomLeftThinCircleOutline = MdiIconData(0xF1596);
@@ -1141,11 +1444,20 @@ class Mdi {
   /// Icon for arrow-bottom-right.
   static const arrowBottomRight = MdiIconData(0xF0043);
 
+  /// Icon for arrow-bottom-right-bold-box.
+  static const arrowBottomRightBoldBox = MdiIconData(0xF1966);
+
+  /// Icon for arrow-bottom-right-bold-box-outline.
+  static const arrowBottomRightBoldBoxOutline = MdiIconData(0xF1967);
+
   /// Icon for arrow-bottom-right-bold-outline.
   static const arrowBottomRightBoldOutline = MdiIconData(0xF09B9);
 
   /// Icon for arrow-bottom-right-thick.
   static const arrowBottomRightThick = MdiIconData(0xF09BA);
+
+  /// Icon for arrow-bottom-right-thin.
+  static const arrowBottomRightThin = MdiIconData(0xF19B7);
 
   /// Icon for arrow-bottom-right-thin-circle-outline.
   static const arrowBottomRightThinCircleOutline = MdiIconData(0xF1595);
@@ -1225,8 +1537,23 @@ class Mdi {
   /// Icon for arrow-down-drop-circle-outline.
   static const arrowDownDropCircleOutline = MdiIconData(0xF004B);
 
+  /// Icon for arrow-down-left.
+  static const arrowDownLeft = MdiIconData(0xF17A1);
+
+  /// Icon for arrow-down-left-bold.
+  static const arrowDownLeftBold = MdiIconData(0xF17A2);
+
+  /// Icon for arrow-down-right.
+  static const arrowDownRight = MdiIconData(0xF17A3);
+
+  /// Icon for arrow-down-right-bold.
+  static const arrowDownRightBold = MdiIconData(0xF17A4);
+
   /// Icon for arrow-down-thick.
   static const arrowDownThick = MdiIconData(0xF0046);
+
+  /// Icon for arrow-down-thin.
+  static const arrowDownThin = MdiIconData(0xF19B3);
 
   /// Icon for arrow-down-thin-circle-outline.
   static const arrowDownThinCircleOutline = MdiIconData(0xF1599);
@@ -1282,6 +1609,12 @@ class Mdi {
   /// Icon for arrow-left-bold-outline.
   static const arrowLeftBoldOutline = MdiIconData(0xF09C0);
 
+  /// Icon for arrow-left-bottom.
+  static const arrowLeftBottom = MdiIconData(0xF17A5);
+
+  /// Icon for arrow-left-bottom-bold.
+  static const arrowLeftBottomBold = MdiIconData(0xF17A6);
+
   /// Icon for arrow-left-box.
   static const arrowLeftBox = MdiIconData(0xF06C1);
 
@@ -1309,8 +1642,23 @@ class Mdi {
   /// Icon for arrow-left-thick.
   static const arrowLeftThick = MdiIconData(0xF004E);
 
+  /// Icon for arrow-left-thin.
+  static const arrowLeftThin = MdiIconData(0xF19B1);
+
   /// Icon for arrow-left-thin-circle-outline.
   static const arrowLeftThinCircleOutline = MdiIconData(0xF159A);
+
+  /// Icon for arrow-left-top.
+  static const arrowLeftTop = MdiIconData(0xF17A7);
+
+  /// Icon for arrow-left-top-bold.
+  static const arrowLeftTopBold = MdiIconData(0xF17A8);
+
+  /// Icon for arrow-projectile.
+  static const arrowProjectile = MdiIconData(0xF1840);
+
+  /// Icon for arrow-projectile-multiple.
+  static const arrowProjectileMultiple = MdiIconData(0xF183F);
 
   /// Icon for arrow-right.
   static const arrowRight = MdiIconData(0xF0054);
@@ -1336,6 +1684,12 @@ class Mdi {
   /// Icon for arrow-right-bold-outline.
   static const arrowRightBoldOutline = MdiIconData(0xF09C2);
 
+  /// Icon for arrow-right-bottom.
+  static const arrowRightBottom = MdiIconData(0xF17A9);
+
+  /// Icon for arrow-right-bottom-bold.
+  static const arrowRightBottomBold = MdiIconData(0xF17AA);
+
   /// Icon for arrow-right-box.
   static const arrowRightBox = MdiIconData(0xF06C2);
 
@@ -1354,8 +1708,17 @@ class Mdi {
   /// Icon for arrow-right-thick.
   static const arrowRightThick = MdiIconData(0xF0055);
 
+  /// Icon for arrow-right-thin.
+  static const arrowRightThin = MdiIconData(0xF19B0);
+
   /// Icon for arrow-right-thin-circle-outline.
   static const arrowRightThinCircleOutline = MdiIconData(0xF1598);
+
+  /// Icon for arrow-right-top.
+  static const arrowRightTop = MdiIconData(0xF17AB);
+
+  /// Icon for arrow-right-top-bold.
+  static const arrowRightTopBold = MdiIconData(0xF17AC);
 
   /// Icon for arrow-split-horizontal.
   static const arrowSplitHorizontal = MdiIconData(0xF093B);
@@ -1365,6 +1728,12 @@ class Mdi {
 
   /// Icon for arrow-top-left.
   static const arrowTopLeft = MdiIconData(0xF005B);
+
+  /// Icon for arrow-top-left-bold-box.
+  static const arrowTopLeftBoldBox = MdiIconData(0xF1968);
+
+  /// Icon for arrow-top-left-bold-box-outline.
+  static const arrowTopLeftBoldBoxOutline = MdiIconData(0xF1969);
 
   /// Icon for arrow-top-left-bold-outline.
   static const arrowTopLeftBoldOutline = MdiIconData(0xF09C3);
@@ -1378,11 +1747,20 @@ class Mdi {
   /// Icon for arrow-top-left-thick.
   static const arrowTopLeftThick = MdiIconData(0xF09C4);
 
+  /// Icon for arrow-top-left-thin.
+  static const arrowTopLeftThin = MdiIconData(0xF19B5);
+
   /// Icon for arrow-top-left-thin-circle-outline.
   static const arrowTopLeftThinCircleOutline = MdiIconData(0xF1593);
 
   /// Icon for arrow-top-right.
   static const arrowTopRight = MdiIconData(0xF005C);
+
+  /// Icon for arrow-top-right-bold-box.
+  static const arrowTopRightBoldBox = MdiIconData(0xF196A);
+
+  /// Icon for arrow-top-right-bold-box-outline.
+  static const arrowTopRightBoldBoxOutline = MdiIconData(0xF196B);
 
   /// Icon for arrow-top-right-bold-outline.
   static const arrowTopRightBoldOutline = MdiIconData(0xF09C5);
@@ -1396,8 +1774,59 @@ class Mdi {
   /// Icon for arrow-top-right-thick.
   static const arrowTopRightThick = MdiIconData(0xF09C6);
 
+  /// Icon for arrow-top-right-thin.
+  static const arrowTopRightThin = MdiIconData(0xF19B4);
+
   /// Icon for arrow-top-right-thin-circle-outline.
   static const arrowTopRightThinCircleOutline = MdiIconData(0xF1594);
+
+  /// Icon for arrow-u-down-left.
+  static const arrowUDownLeft = MdiIconData(0xF17AD);
+
+  /// Icon for arrow-u-down-left-bold.
+  static const arrowUDownLeftBold = MdiIconData(0xF17AE);
+
+  /// Icon for arrow-u-down-right.
+  static const arrowUDownRight = MdiIconData(0xF17AF);
+
+  /// Icon for arrow-u-down-right-bold.
+  static const arrowUDownRightBold = MdiIconData(0xF17B0);
+
+  /// Icon for arrow-u-left-bottom.
+  static const arrowULeftBottom = MdiIconData(0xF17B1);
+
+  /// Icon for arrow-u-left-bottom-bold.
+  static const arrowULeftBottomBold = MdiIconData(0xF17B2);
+
+  /// Icon for arrow-u-left-top.
+  static const arrowULeftTop = MdiIconData(0xF17B3);
+
+  /// Icon for arrow-u-left-top-bold.
+  static const arrowULeftTopBold = MdiIconData(0xF17B4);
+
+  /// Icon for arrow-u-right-bottom.
+  static const arrowURightBottom = MdiIconData(0xF17B5);
+
+  /// Icon for arrow-u-right-bottom-bold.
+  static const arrowURightBottomBold = MdiIconData(0xF17B6);
+
+  /// Icon for arrow-u-right-top.
+  static const arrowURightTop = MdiIconData(0xF17B7);
+
+  /// Icon for arrow-u-right-top-bold.
+  static const arrowURightTopBold = MdiIconData(0xF17B8);
+
+  /// Icon for arrow-u-up-left.
+  static const arrowUUpLeft = MdiIconData(0xF17B9);
+
+  /// Icon for arrow-u-up-left-bold.
+  static const arrowUUpLeftBold = MdiIconData(0xF17BA);
+
+  /// Icon for arrow-u-up-right.
+  static const arrowUUpRight = MdiIconData(0xF17BB);
+
+  /// Icon for arrow-u-up-right-bold.
+  static const arrowUUpRightBold = MdiIconData(0xF17BC);
 
   /// Icon for arrow-up.
   static const arrowUp = MdiIconData(0xF005D);
@@ -1447,14 +1876,32 @@ class Mdi {
   /// Icon for arrow-up-drop-circle-outline.
   static const arrowUpDropCircleOutline = MdiIconData(0xF0063);
 
+  /// Icon for arrow-up-left.
+  static const arrowUpLeft = MdiIconData(0xF17BD);
+
+  /// Icon for arrow-up-left-bold.
+  static const arrowUpLeftBold = MdiIconData(0xF17BE);
+
+  /// Icon for arrow-up-right.
+  static const arrowUpRight = MdiIconData(0xF17BF);
+
+  /// Icon for arrow-up-right-bold.
+  static const arrowUpRightBold = MdiIconData(0xF17C0);
+
   /// Icon for arrow-up-thick.
   static const arrowUpThick = MdiIconData(0xF005E);
+
+  /// Icon for arrow-up-thin.
+  static const arrowUpThin = MdiIconData(0xF19B2);
 
   /// Icon for arrow-up-thin-circle-outline.
   static const arrowUpThinCircleOutline = MdiIconData(0xF1597);
 
   /// Icon for arrow-vertical-lock.
   static const arrowVerticalLock = MdiIconData(0xF115C);
+
+  /// Icon for artboard.
+  static const artboard = MdiIconData(0xF1B9A);
 
   /// Icon for artstation.
   static const artstation = MdiIconData(0xF0B5B);
@@ -1467,6 +1914,9 @@ class Mdi {
 
   /// Icon for asterisk.
   static const asterisk = MdiIconData(0xF06C4);
+
+  /// Icon for asterisk-circle-outline.
+  static const asteriskCircleOutline = MdiIconData(0xF1A27);
 
   /// Icon for at.
   static const at = MdiIconData(0xF0065);
@@ -1485,6 +1935,36 @@ class Mdi {
 
   /// Icon for attachment.
   static const attachment = MdiIconData(0xF0066);
+
+  /// Icon for attachment-check.
+  static const attachmentCheck = MdiIconData(0xF1AC1);
+
+  /// Icon for attachment-lock.
+  static const attachmentLock = MdiIconData(0xF19C4);
+
+  /// Icon for attachment-minus.
+  static const attachmentMinus = MdiIconData(0xF1AC2);
+
+  /// Icon for attachment-off.
+  static const attachmentOff = MdiIconData(0xF1AC3);
+
+  /// Icon for attachment-plus.
+  static const attachmentPlus = MdiIconData(0xF1AC4);
+
+  /// Icon for attachment-remove.
+  static const attachmentRemove = MdiIconData(0xF1AC5);
+
+  /// Icon for atv.
+  static const atv = MdiIconData(0xF1B70);
+
+  /// Icon for audio-input-rca.
+  static const audioInputRca = MdiIconData(0xF186B);
+
+  /// Icon for audio-input-stereo-minijack.
+  static const audioInputStereoMinijack = MdiIconData(0xF186C);
+
+  /// Icon for audio-input-xlr.
+  static const audioInputXlr = MdiIconData(0xF186D);
 
   /// Icon for audio-video.
   static const audioVideo = MdiIconData(0xF093D);
@@ -1507,14 +1987,26 @@ class Mdi {
   /// Icon for autorenew.
   static const autorenew = MdiIconData(0xF006A);
 
+  /// Icon for autorenew-off.
+  static const autorenewOff = MdiIconData(0xF19E7);
+
   /// Icon for av-timer.
   static const avTimer = MdiIconData(0xF006B);
+
+  /// Icon for awning.
+  static const awning = MdiIconData(0xF1B87);
+
+  /// Icon for awning-outline.
+  static const awningOutline = MdiIconData(0xF1B88);
 
   /// Icon for aws.
   static const aws = MdiIconData(0xF0E0F);
 
   /// Icon for axe.
   static const axe = MdiIconData(0xF08C8);
+
+  /// Icon for axe-battle.
+  static const axeBattle = MdiIconData(0xF1842);
 
   /// Icon for axis.
   static const axis = MdiIconData(0xF0D48);
@@ -1584,6 +2076,9 @@ class Mdi {
 
   /// Icon for baby-buggy.
   static const babyBuggy = MdiIconData(0xF13E0);
+
+  /// Icon for baby-buggy-off.
+  static const babyBuggyOff = MdiIconData(0xF1AF3);
 
   /// Icon for baby-carriage.
   static const babyCarriage = MdiIconData(0xF068F);
@@ -1666,6 +2161,12 @@ class Mdi {
   /// Icon for bag-personal-outline.
   static const bagPersonalOutline = MdiIconData(0xF0E13);
 
+  /// Icon for bag-personal-tag.
+  static const bagPersonalTag = MdiIconData(0xF1B0C);
+
+  /// Icon for bag-personal-tag-outline.
+  static const bagPersonalTagOutline = MdiIconData(0xF1B0D);
+
   /// Icon for bag-suitcase.
   static const bagSuitcase = MdiIconData(0xF158B);
 
@@ -1680,6 +2181,9 @@ class Mdi {
 
   /// Icon for baguette.
   static const baguette = MdiIconData(0xF0F3E);
+
+  /// Icon for balcony.
+  static const balcony = MdiIconData(0xF1817);
 
   /// Icon for balloon.
   static const balloon = MdiIconData(0xF0A26);
@@ -1698,9 +2202,6 @@ class Mdi {
 
   /// Icon for bandage.
   static const bandage = MdiIconData(0xF0DAF);
-
-  /// Icon for bandcamp.
-  static const bandcamp = MdiIconData(0xF0675);
 
   /// Icon for bank.
   static const bank = MdiIconData(0xF0070);
@@ -1756,6 +2257,9 @@ class Mdi {
   /// Icon for barrel.
   static const barrel = MdiIconData(0xF0074);
 
+  /// Icon for barrel-outline.
+  static const barrelOutline = MdiIconData(0xF1A28);
+
   /// Icon for baseball.
   static const baseball = MdiIconData(0xF0852);
 
@@ -1773,6 +2277,12 @@ class Mdi {
 
   /// Icon for basket.
   static const basket = MdiIconData(0xF0076);
+
+  /// Icon for basket-check.
+  static const basketCheck = MdiIconData(0xF18E5);
+
+  /// Icon for basket-check-outline.
+  static const basketCheckOutline = MdiIconData(0xF18E6);
 
   /// Icon for basket-fill.
   static const basketFill = MdiIconData(0xF0077);
@@ -1818,6 +2328,12 @@ class Mdi {
 
   /// Icon for bat.
   static const bat = MdiIconData(0xF0B5F);
+
+  /// Icon for bathtub.
+  static const bathtub = MdiIconData(0xF1818);
+
+  /// Icon for bathtub-outline.
+  static const bathtubOutline = MdiIconData(0xF1819);
 
   /// Icon for battery.
   static const battery = MdiIconData(0xF0079);
@@ -1887,6 +2403,18 @@ class Mdi {
 
   /// Icon for battery-alert-variant-outline.
   static const batteryAlertVariantOutline = MdiIconData(0xF10CD);
+
+  /// Icon for battery-arrow-down.
+  static const batteryArrowDown = MdiIconData(0xF17DE);
+
+  /// Icon for battery-arrow-down-outline.
+  static const batteryArrowDownOutline = MdiIconData(0xF17DF);
+
+  /// Icon for battery-arrow-up.
+  static const batteryArrowUp = MdiIconData(0xF17E0);
+
+  /// Icon for battery-arrow-up-outline.
+  static const batteryArrowUpOutline = MdiIconData(0xF17E1);
 
   /// Icon for battery-bluetooth.
   static const batteryBluetooth = MdiIconData(0xF0948);
@@ -1975,6 +2503,18 @@ class Mdi {
   /// Icon for battery-charging-wireless-outline.
   static const batteryChargingWirelessOutline = MdiIconData(0xF0812);
 
+  /// Icon for battery-check.
+  static const batteryCheck = MdiIconData(0xF17E2);
+
+  /// Icon for battery-check-outline.
+  static const batteryCheckOutline = MdiIconData(0xF17E3);
+
+  /// Icon for battery-clock.
+  static const batteryClock = MdiIconData(0xF19E5);
+
+  /// Icon for battery-clock-outline.
+  static const batteryClockOutline = MdiIconData(0xF19E6);
+
   /// Icon for battery-heart.
   static const batteryHeart = MdiIconData(0xF120F);
 
@@ -1987,6 +2527,12 @@ class Mdi {
   /// Icon for battery-high.
   static const batteryHigh = MdiIconData(0xF12A3);
 
+  /// Icon for battery-lock.
+  static const batteryLock = MdiIconData(0xF179C);
+
+  /// Icon for battery-lock-open.
+  static const batteryLockOpen = MdiIconData(0xF179D);
+
   /// Icon for battery-low.
   static const batteryLow = MdiIconData(0xF12A1);
 
@@ -1994,7 +2540,13 @@ class Mdi {
   static const batteryMedium = MdiIconData(0xF12A2);
 
   /// Icon for battery-minus.
-  static const batteryMinus = MdiIconData(0xF008C);
+  static const batteryMinus = MdiIconData(0xF17E4);
+
+  /// Icon for battery-minus-outline.
+  static const batteryMinusOutline = MdiIconData(0xF17E5);
+
+  /// Icon for battery-minus-variant.
+  static const batteryMinusVariant = MdiIconData(0xF008C);
 
   /// Icon for battery-negative.
   static const batteryNegative = MdiIconData(0xF008D);
@@ -2009,19 +2561,34 @@ class Mdi {
   static const batteryOutline = MdiIconData(0xF008E);
 
   /// Icon for battery-plus.
-  static const batteryPlus = MdiIconData(0xF008F);
+  static const batteryPlus = MdiIconData(0xF17E6);
+
+  /// Icon for battery-plus-outline.
+  static const batteryPlusOutline = MdiIconData(0xF17E7);
+
+  /// Icon for battery-plus-variant.
+  static const batteryPlusVariant = MdiIconData(0xF008F);
 
   /// Icon for battery-positive.
   static const batteryPositive = MdiIconData(0xF0090);
+
+  /// Icon for battery-remove.
+  static const batteryRemove = MdiIconData(0xF17E8);
+
+  /// Icon for battery-remove-outline.
+  static const batteryRemoveOutline = MdiIconData(0xF17E9);
+
+  /// Icon for battery-sync.
+  static const batterySync = MdiIconData(0xF1834);
+
+  /// Icon for battery-sync-outline.
+  static const batterySyncOutline = MdiIconData(0xF1835);
 
   /// Icon for battery-unknown.
   static const batteryUnknown = MdiIconData(0xF0091);
 
   /// Icon for battery-unknown-bluetooth.
   static const batteryUnknownBluetooth = MdiIconData(0xF094A);
-
-  /// Icon for battlenet.
-  static const battlenet = MdiIconData(0xF0B60);
 
   /// Icon for beach.
   static const beach = MdiIconData(0xF0092);
@@ -2070,6 +2637,9 @@ class Mdi {
 
   /// Icon for bed.
   static const bed = MdiIconData(0xF02E3);
+
+  /// Icon for bed-clock.
+  static const bedClock = MdiIconData(0xF1B94);
 
   /// Icon for bed-double.
   static const bedDouble = MdiIconData(0xF0FD4);
@@ -2131,6 +2701,12 @@ class Mdi {
   /// Icon for bell-alert-outline.
   static const bellAlertOutline = MdiIconData(0xF0E81);
 
+  /// Icon for bell-badge.
+  static const bellBadge = MdiIconData(0xF116B);
+
+  /// Icon for bell-badge-outline.
+  static const bellBadgeOutline = MdiIconData(0xF0178);
+
   /// Icon for bell-cancel.
   static const bellCancel = MdiIconData(0xF13E7);
 
@@ -2148,6 +2724,12 @@ class Mdi {
 
   /// Icon for bell-circle-outline.
   static const bellCircleOutline = MdiIconData(0xF0D5B);
+
+  /// Icon for bell-cog.
+  static const bellCog = MdiIconData(0xF1A29);
+
+  /// Icon for bell-cog-outline.
+  static const bellCogOutline = MdiIconData(0xF1A2A);
 
   /// Icon for bell-minus.
   static const bellMinus = MdiIconData(0xF13E9);
@@ -2203,6 +2785,9 @@ class Mdi {
   /// Icon for bicycle-basket.
   static const bicycleBasket = MdiIconData(0xF1235);
 
+  /// Icon for bicycle-cargo.
+  static const bicycleCargo = MdiIconData(0xF189C);
+
   /// Icon for bicycle-electric.
   static const bicycleElectric = MdiIconData(0xF15B4);
 
@@ -2248,20 +2833,32 @@ class Mdi {
   /// Icon for blender.
   static const blender = MdiIconData(0xF0CEB);
 
+  /// Icon for blender-outline.
+  static const blenderOutline = MdiIconData(0xF181A);
+
   /// Icon for blender-software.
   static const blenderSoftware = MdiIconData(0xF00AB);
 
   /// Icon for blinds.
   static const blinds = MdiIconData(0xF00AC);
 
+  /// Icon for blinds-horizontal.
+  static const blindsHorizontal = MdiIconData(0xF1A2B);
+
+  /// Icon for blinds-horizontal-closed.
+  static const blindsHorizontalClosed = MdiIconData(0xF1A2C);
+
   /// Icon for blinds-open.
   static const blindsOpen = MdiIconData(0xF1011);
 
+  /// Icon for blinds-vertical.
+  static const blindsVertical = MdiIconData(0xF1A2D);
+
+  /// Icon for blinds-vertical-closed.
+  static const blindsVerticalClosed = MdiIconData(0xF1A2E);
+
   /// Icon for block-helper.
   static const blockHelper = MdiIconData(0xF00AD);
-
-  /// Icon for blogger.
-  static const blogger = MdiIconData(0xF00AE);
 
   /// Icon for blood-bag.
   static const bloodBag = MdiIconData(0xF0CEC);
@@ -2296,9 +2893,6 @@ class Mdi {
   /// Icon for blur-radial.
   static const blurRadial = MdiIconData(0xF00B8);
 
-  /// Icon for bolnisi-cross.
-  static const bolnisiCross = MdiIconData(0xF0CED);
-
   /// Icon for bolt.
   static const bolt = MdiIconData(0xF0DB3);
 
@@ -2310,6 +2904,9 @@ class Mdi {
 
   /// Icon for bone.
   static const bone = MdiIconData(0xF00B9);
+
+  /// Icon for bone-off.
+  static const boneOff = MdiIconData(0xF19E0);
 
   /// Icon for book.
   static const book = MdiIconData(0xF00BA);
@@ -2391,6 +2988,12 @@ class Mdi {
 
   /// Icon for book-education-outline.
   static const bookEducationOutline = MdiIconData(0xF16CA);
+
+  /// Icon for book-heart.
+  static const bookHeart = MdiIconData(0xF1A1D);
+
+  /// Icon for book-heart-outline.
+  static const bookHeartOutline = MdiIconData(0xF1A1E);
 
   /// Icon for book-information-variant.
   static const bookInformationVariant = MdiIconData(0xF106F);
@@ -2521,11 +3124,20 @@ class Mdi {
   /// Icon for book-variant.
   static const bookVariant = MdiIconData(0xF00BF);
 
-  /// Icon for book-variant-multiple.
-  static const bookVariantMultiple = MdiIconData(0xF00BC);
-
   /// Icon for bookmark.
   static const bookmark = MdiIconData(0xF00C0);
+
+  /// Icon for bookmark-box.
+  static const bookmarkBox = MdiIconData(0xF1B75);
+
+  /// Icon for bookmark-box-multiple.
+  static const bookmarkBoxMultiple = MdiIconData(0xF196C);
+
+  /// Icon for bookmark-box-multiple-outline.
+  static const bookmarkBoxMultipleOutline = MdiIconData(0xF196D);
+
+  /// Icon for bookmark-box-outline.
+  static const bookmarkBoxOutline = MdiIconData(0xF1B76);
 
   /// Icon for bookmark-check.
   static const bookmarkCheck = MdiIconData(0xF00C1);
@@ -2584,20 +3196,26 @@ class Mdi {
   /// Icon for boom-gate-alert-outline.
   static const boomGateAlertOutline = MdiIconData(0xF0E88);
 
-  /// Icon for boom-gate-down.
-  static const boomGateDown = MdiIconData(0xF0E89);
+  /// Icon for boom-gate-arrow-down.
+  static const boomGateArrowDown = MdiIconData(0xF0E89);
 
-  /// Icon for boom-gate-down-outline.
-  static const boomGateDownOutline = MdiIconData(0xF0E8A);
+  /// Icon for boom-gate-arrow-down-outline.
+  static const boomGateArrowDownOutline = MdiIconData(0xF0E8A);
+
+  /// Icon for boom-gate-arrow-up.
+  static const boomGateArrowUp = MdiIconData(0xF0E8C);
+
+  /// Icon for boom-gate-arrow-up-outline.
+  static const boomGateArrowUpOutline = MdiIconData(0xF0E8D);
 
   /// Icon for boom-gate-outline.
   static const boomGateOutline = MdiIconData(0xF0E8B);
 
   /// Icon for boom-gate-up.
-  static const boomGateUp = MdiIconData(0xF0E8C);
+  static const boomGateUp = MdiIconData(0xF17F9);
 
   /// Icon for boom-gate-up-outline.
-  static const boomGateUpOutline = MdiIconData(0xF0E8D);
+  static const boomGateUpOutline = MdiIconData(0xF17FA);
 
   /// Icon for boombox.
   static const boombox = MdiIconData(0xF05DC);
@@ -2643,6 +3261,9 @@ class Mdi {
 
   /// Icon for border-outside.
   static const borderOutside = MdiIconData(0xF00CE);
+
+  /// Icon for border-radius.
+  static const borderRadius = MdiIconData(0xF1AF4);
 
   /// Icon for border-right.
   static const borderRight = MdiIconData(0xF00CF);
@@ -2697,6 +3318,9 @@ class Mdi {
 
   /// Icon for bottle-wine-outline.
   static const bottleWineOutline = MdiIconData(0xF1310);
+
+  /// Icon for bow-arrow.
+  static const bowArrow = MdiIconData(0xF1841);
 
   /// Icon for bow-tie.
   static const bowTie = MdiIconData(0xF0678);
@@ -2755,6 +3379,18 @@ class Mdi {
   /// Icon for briefcase-account-outline.
   static const briefcaseAccountOutline = MdiIconData(0xF0CF1);
 
+  /// Icon for briefcase-arrow-left-right.
+  static const briefcaseArrowLeftRight = MdiIconData(0xF1A8D);
+
+  /// Icon for briefcase-arrow-left-right-outline.
+  static const briefcaseArrowLeftRightOutline = MdiIconData(0xF1A8E);
+
+  /// Icon for briefcase-arrow-up-down.
+  static const briefcaseArrowUpDown = MdiIconData(0xF1A8F);
+
+  /// Icon for briefcase-arrow-up-down-outline.
+  static const briefcaseArrowUpDownOutline = MdiIconData(0xF1A90);
+
   /// Icon for briefcase-check.
   static const briefcaseCheck = MdiIconData(0xF00D7);
 
@@ -2778,6 +3414,12 @@ class Mdi {
 
   /// Icon for briefcase-edit-outline.
   static const briefcaseEditOutline = MdiIconData(0xF0C3E);
+
+  /// Icon for briefcase-eye.
+  static const briefcaseEye = MdiIconData(0xF17D9);
+
+  /// Icon for briefcase-eye-outline.
+  static const briefcaseEyeOutline = MdiIconData(0xF17DA);
 
   /// Icon for briefcase-minus.
   static const briefcaseMinus = MdiIconData(0xF0A2A);
@@ -2857,23 +3499,32 @@ class Mdi {
   /// Icon for brightness-percent.
   static const brightnessPercent = MdiIconData(0xF0CF2);
 
+  /// Icon for broadcast.
+  static const broadcast = MdiIconData(0xF1720);
+
+  /// Icon for broadcast-off.
+  static const broadcastOff = MdiIconData(0xF1721);
+
   /// Icon for broom.
   static const broom = MdiIconData(0xF00E2);
 
   /// Icon for brush.
   static const brush = MdiIconData(0xF00E3);
 
+  /// Icon for brush-off.
+  static const brushOff = MdiIconData(0xF1771);
+
+  /// Icon for brush-outline.
+  static const brushOutline = MdiIconData(0xF1A0D);
+
+  /// Icon for brush-variant.
+  static const brushVariant = MdiIconData(0xF1813);
+
   /// Icon for bucket.
   static const bucket = MdiIconData(0xF1415);
 
   /// Icon for bucket-outline.
   static const bucketOutline = MdiIconData(0xF1416);
-
-  /// Icon for buddhism.
-  static const buddhism = MdiIconData(0xF094B);
-
-  /// Icon for buffer.
-  static const buffer = MdiIconData(0xF0619);
 
   /// Icon for buffet.
   static const buffet = MdiIconData(0xF0578);
@@ -2890,8 +3541,29 @@ class Mdi {
   /// Icon for bug-outline.
   static const bugOutline = MdiIconData(0xF0A30);
 
+  /// Icon for bug-pause.
+  static const bugPause = MdiIconData(0xF1AF5);
+
+  /// Icon for bug-pause-outline.
+  static const bugPauseOutline = MdiIconData(0xF1AF6);
+
+  /// Icon for bug-play.
+  static const bugPlay = MdiIconData(0xF1AF7);
+
+  /// Icon for bug-play-outline.
+  static const bugPlayOutline = MdiIconData(0xF1AF8);
+
+  /// Icon for bug-stop.
+  static const bugStop = MdiIconData(0xF1AF9);
+
+  /// Icon for bug-stop-outline.
+  static const bugStopOutline = MdiIconData(0xF1AFA);
+
   /// Icon for bugle.
   static const bugle = MdiIconData(0xF0DB4);
+
+  /// Icon for bulkhead-light.
+  static const bulkheadLight = MdiIconData(0xF1A2F);
 
   /// Icon for bulldozer.
   static const bulldozer = MdiIconData(0xF0B22);
@@ -2907,6 +3579,12 @@ class Mdi {
 
   /// Icon for bullhorn-outline.
   static const bullhornOutline = MdiIconData(0xF0B23);
+
+  /// Icon for bullhorn-variant.
+  static const bullhornVariant = MdiIconData(0xF196E);
+
+  /// Icon for bullhorn-variant-outline.
+  static const bullhornVariantOutline = MdiIconData(0xF196F);
 
   /// Icon for bullseye.
   static const bullseye = MdiIconData(0xF05DD);
@@ -2941,6 +3619,9 @@ class Mdi {
   /// Icon for bus-double-decker.
   static const busDoubleDecker = MdiIconData(0xF079E);
 
+  /// Icon for bus-electric.
+  static const busElectric = MdiIconData(0xF191D);
+
   /// Icon for bus-marker.
   static const busMarker = MdiIconData(0xF1212);
 
@@ -2968,6 +3649,15 @@ class Mdi {
   /// Icon for butterfly-outline.
   static const butterflyOutline = MdiIconData(0xF158A);
 
+  /// Icon for button-cursor.
+  static const buttonCursor = MdiIconData(0xF1B4F);
+
+  /// Icon for button-pointer.
+  static const buttonPointer = MdiIconData(0xF1B50);
+
+  /// Icon for cabin-a-frame.
+  static const cabinAFrame = MdiIconData(0xF188C);
+
   /// Icon for cable-data.
   static const cableData = MdiIconData(0xF1394);
 
@@ -2985,6 +3675,9 @@ class Mdi {
 
   /// Icon for cake-variant.
   static const cakeVariant = MdiIconData(0xF00EB);
+
+  /// Icon for cake-variant-outline.
+  static const cakeVariantOutline = MdiIconData(0xF17F0);
 
   /// Icon for calculator.
   static const calculator = MdiIconData(0xF00EC);
@@ -3007,11 +3700,20 @@ class Mdi {
   /// Icon for calendar-alert.
   static const calendarAlert = MdiIconData(0xF0A31);
 
+  /// Icon for calendar-alert-outline.
+  static const calendarAlertOutline = MdiIconData(0xF1B62);
+
   /// Icon for calendar-arrow-left.
   static const calendarArrowLeft = MdiIconData(0xF1134);
 
   /// Icon for calendar-arrow-right.
   static const calendarArrowRight = MdiIconData(0xF1135);
+
+  /// Icon for calendar-badge.
+  static const calendarBadge = MdiIconData(0xF1B9D);
+
+  /// Icon for calendar-badge-outline.
+  static const calendarBadgeOutline = MdiIconData(0xF1B9E);
 
   /// Icon for calendar-blank.
   static const calendarBlank = MdiIconData(0xF00EE);
@@ -3031,32 +3733,80 @@ class Mdi {
   /// Icon for calendar-clock.
   static const calendarClock = MdiIconData(0xF00F0);
 
+  /// Icon for calendar-clock-outline.
+  static const calendarClockOutline = MdiIconData(0xF16E1);
+
+  /// Icon for calendar-collapse-horizontal.
+  static const calendarCollapseHorizontal = MdiIconData(0xF189D);
+
+  /// Icon for calendar-collapse-horizontal-outline.
+  static const calendarCollapseHorizontalOutline = MdiIconData(0xF1B63);
+
   /// Icon for calendar-cursor.
   static const calendarCursor = MdiIconData(0xF157B);
+
+  /// Icon for calendar-cursor-outline.
+  static const calendarCursorOutline = MdiIconData(0xF1B64);
 
   /// Icon for calendar-edit.
   static const calendarEdit = MdiIconData(0xF08A7);
 
+  /// Icon for calendar-edit-outline.
+  static const calendarEditOutline = MdiIconData(0xF1B65);
+
   /// Icon for calendar-end.
   static const calendarEnd = MdiIconData(0xF166C);
+
+  /// Icon for calendar-end-outline.
+  static const calendarEndOutline = MdiIconData(0xF1B66);
+
+  /// Icon for calendar-expand-horizontal.
+  static const calendarExpandHorizontal = MdiIconData(0xF189E);
+
+  /// Icon for calendar-expand-horizontal-outline.
+  static const calendarExpandHorizontalOutline = MdiIconData(0xF1B67);
 
   /// Icon for calendar-export.
   static const calendarExport = MdiIconData(0xF0B24);
 
+  /// Icon for calendar-export-outline.
+  static const calendarExportOutline = MdiIconData(0xF1B68);
+
+  /// Icon for calendar-filter.
+  static const calendarFilter = MdiIconData(0xF1A32);
+
+  /// Icon for calendar-filter-outline.
+  static const calendarFilterOutline = MdiIconData(0xF1A33);
+
   /// Icon for calendar-heart.
   static const calendarHeart = MdiIconData(0xF09D2);
+
+  /// Icon for calendar-heart-outline.
+  static const calendarHeartOutline = MdiIconData(0xF1B69);
 
   /// Icon for calendar-import.
   static const calendarImport = MdiIconData(0xF0B25);
 
+  /// Icon for calendar-import-outline.
+  static const calendarImportOutline = MdiIconData(0xF1B6A);
+
   /// Icon for calendar-lock.
   static const calendarLock = MdiIconData(0xF1641);
+
+  /// Icon for calendar-lock-open.
+  static const calendarLockOpen = MdiIconData(0xF1B5B);
+
+  /// Icon for calendar-lock-open-outline.
+  static const calendarLockOpenOutline = MdiIconData(0xF1B5C);
 
   /// Icon for calendar-lock-outline.
   static const calendarLockOutline = MdiIconData(0xF1642);
 
   /// Icon for calendar-minus.
   static const calendarMinus = MdiIconData(0xF0D5C);
+
+  /// Icon for calendar-minus-outline.
+  static const calendarMinusOutline = MdiIconData(0xF1B6B);
 
   /// Icon for calendar-month.
   static const calendarMonth = MdiIconData(0xF0E17);
@@ -3073,14 +3823,23 @@ class Mdi {
   /// Icon for calendar-multiselect.
   static const calendarMultiselect = MdiIconData(0xF0A32);
 
+  /// Icon for calendar-multiselect-outline.
+  static const calendarMultiselectOutline = MdiIconData(0xF1B55);
+
   /// Icon for calendar-outline.
   static const calendarOutline = MdiIconData(0xF0B67);
 
   /// Icon for calendar-plus.
   static const calendarPlus = MdiIconData(0xF00F3);
 
+  /// Icon for calendar-plus-outline.
+  static const calendarPlusOutline = MdiIconData(0xF1B6C);
+
   /// Icon for calendar-question.
   static const calendarQuestion = MdiIconData(0xF0692);
+
+  /// Icon for calendar-question-outline.
+  static const calendarQuestionOutline = MdiIconData(0xF1B6D);
 
   /// Icon for calendar-range.
   static const calendarRange = MdiIconData(0xF0679);
@@ -3103,11 +3862,20 @@ class Mdi {
   /// Icon for calendar-search.
   static const calendarSearch = MdiIconData(0xF094C);
 
+  /// Icon for calendar-search-outline.
+  static const calendarSearchOutline = MdiIconData(0xF1B6E);
+
   /// Icon for calendar-star.
   static const calendarStar = MdiIconData(0xF09D3);
 
+  /// Icon for calendar-star-outline.
+  static const calendarStarOutline = MdiIconData(0xF1B53);
+
   /// Icon for calendar-start.
   static const calendarStart = MdiIconData(0xF166D);
+
+  /// Icon for calendar-start-outline.
+  static const calendarStartOutline = MdiIconData(0xF1B6F);
 
   /// Icon for calendar-sync.
   static const calendarSync = MdiIconData(0xF0E8E);
@@ -3124,11 +3892,20 @@ class Mdi {
   /// Icon for calendar-today.
   static const calendarToday = MdiIconData(0xF00F6);
 
+  /// Icon for calendar-today-outline.
+  static const calendarTodayOutline = MdiIconData(0xF1A30);
+
   /// Icon for calendar-week.
   static const calendarWeek = MdiIconData(0xF0A33);
 
   /// Icon for calendar-week-begin.
   static const calendarWeekBegin = MdiIconData(0xF0A34);
+
+  /// Icon for calendar-week-begin-outline.
+  static const calendarWeekBeginOutline = MdiIconData(0xF1A31);
+
+  /// Icon for calendar-week-outline.
+  static const calendarWeekOutline = MdiIconData(0xF1A34);
 
   /// Icon for calendar-weekend.
   static const calendarWeekend = MdiIconData(0xF0ED9);
@@ -3169,6 +3946,12 @@ class Mdi {
   /// Icon for camera-control.
   static const cameraControl = MdiIconData(0xF0B69);
 
+  /// Icon for camera-document.
+  static const cameraDocument = MdiIconData(0xF1871);
+
+  /// Icon for camera-document-off.
+  static const cameraDocumentOff = MdiIconData(0xF1872);
+
   /// Icon for camera-enhance.
   static const cameraEnhance = MdiIconData(0xF0101);
 
@@ -3196,6 +3979,18 @@ class Mdi {
   /// Icon for camera-iris.
   static const cameraIris = MdiIconData(0xF0104);
 
+  /// Icon for camera-lock.
+  static const cameraLock = MdiIconData(0xF1A14);
+
+  /// Icon for camera-lock-outline.
+  static const cameraLockOutline = MdiIconData(0xF1A15);
+
+  /// Icon for camera-marker.
+  static const cameraMarker = MdiIconData(0xF19A7);
+
+  /// Icon for camera-marker-outline.
+  static const cameraMarkerOutline = MdiIconData(0xF19A8);
+
   /// Icon for camera-metering-center.
   static const cameraMeteringCenter = MdiIconData(0xF07A2);
 
@@ -3210,6 +4005,9 @@ class Mdi {
 
   /// Icon for camera-off.
   static const cameraOff = MdiIconData(0xF05DF);
+
+  /// Icon for camera-off-outline.
+  static const cameraOffOutline = MdiIconData(0xF19BF);
 
   /// Icon for camera-outline.
   static const cameraOutline = MdiIconData(0xF0D5D);
@@ -3256,8 +4054,26 @@ class Mdi {
   /// Icon for cancel.
   static const cancel = MdiIconData(0xF073A);
 
+  /// Icon for candelabra.
+  static const candelabra = MdiIconData(0xF17D2);
+
+  /// Icon for candelabra-fire.
+  static const candelabraFire = MdiIconData(0xF17D3);
+
   /// Icon for candle.
   static const candle = MdiIconData(0xF05E2);
+
+  /// Icon for candy.
+  static const candy = MdiIconData(0xF1970);
+
+  /// Icon for candy-off.
+  static const candyOff = MdiIconData(0xF1971);
+
+  /// Icon for candy-off-outline.
+  static const candyOffOutline = MdiIconData(0xF1972);
+
+  /// Icon for candy-outline.
+  static const candyOutline = MdiIconData(0xF1973);
 
   /// Icon for candycane.
   static const candycane = MdiIconData(0xF010A);
@@ -3298,8 +4114,14 @@ class Mdi {
   /// Icon for car-brake-alert.
   static const carBrakeAlert = MdiIconData(0xF0C48);
 
+  /// Icon for car-brake-fluid-level.
+  static const carBrakeFluidLevel = MdiIconData(0xF1909);
+
   /// Icon for car-brake-hold.
   static const carBrakeHold = MdiIconData(0xF0D5E);
+
+  /// Icon for car-brake-low-pressure.
+  static const carBrakeLowPressure = MdiIconData(0xF190A);
 
   /// Icon for car-brake-parking.
   static const carBrakeParking = MdiIconData(0xF0D5F);
@@ -3307,8 +4129,17 @@ class Mdi {
   /// Icon for car-brake-retarder.
   static const carBrakeRetarder = MdiIconData(0xF1017);
 
+  /// Icon for car-brake-temperature.
+  static const carBrakeTemperature = MdiIconData(0xF190B);
+
+  /// Icon for car-brake-worn-linings.
+  static const carBrakeWornLinings = MdiIconData(0xF190C);
+
   /// Icon for car-child-seat.
   static const carChildSeat = MdiIconData(0xF0FA3);
+
+  /// Icon for car-clock.
+  static const carClock = MdiIconData(0xF1974);
 
   /// Icon for car-clutch.
   static const carClutch = MdiIconData(0xF1018);
@@ -3367,6 +4198,9 @@ class Mdi {
   /// Icon for car-lifted-pickup.
   static const carLiftedPickup = MdiIconData(0xF152D);
 
+  /// Icon for car-light-alert.
+  static const carLightAlert = MdiIconData(0xF190D);
+
   /// Icon for car-light-dimmed.
   static const carLightDimmed = MdiIconData(0xF0C4A);
 
@@ -3394,6 +4228,12 @@ class Mdi {
   /// Icon for car-pickup.
   static const carPickup = MdiIconData(0xF07AA);
 
+  /// Icon for car-search.
+  static const carSearch = MdiIconData(0xF1B8D);
+
+  /// Icon for car-search-outline.
+  static const carSearchOutline = MdiIconData(0xF1B8E);
+
   /// Icon for car-seat.
   static const carSeat = MdiIconData(0xF0FA4);
 
@@ -3403,6 +4243,9 @@ class Mdi {
   /// Icon for car-seat-heater.
   static const carSeatHeater = MdiIconData(0xF0FA6);
 
+  /// Icon for car-select.
+  static const carSelect = MdiIconData(0xF1879);
+
   /// Icon for car-settings.
   static const carSettings = MdiIconData(0xF13CD);
 
@@ -3411,6 +4254,9 @@ class Mdi {
 
   /// Icon for car-side.
   static const carSide = MdiIconData(0xF07AB);
+
+  /// Icon for car-speed-limiter.
+  static const carSpeedLimiter = MdiIconData(0xF190E);
 
   /// Icon for car-sports.
   static const carSports = MdiIconData(0xF07AC);
@@ -3432,6 +4278,12 @@ class Mdi {
 
   /// Icon for car-windshield-outline.
   static const carWindshieldOutline = MdiIconData(0xF101C);
+
+  /// Icon for car-wireless.
+  static const carWireless = MdiIconData(0xF1878);
+
+  /// Icon for car-wrench.
+  static const carWrench = MdiIconData(0xF1814);
 
   /// Icon for carabiner.
   static const carabiner = MdiIconData(0xF14C0);
@@ -3490,6 +4342,12 @@ class Mdi {
   /// Icon for card-minus-outline.
   static const cardMinusOutline = MdiIconData(0xF1601);
 
+  /// Icon for card-multiple.
+  static const cardMultiple = MdiIconData(0xF17F1);
+
+  /// Icon for card-multiple-outline.
+  static const cardMultipleOutline = MdiIconData(0xF17F2);
+
   /// Icon for card-off.
   static const cardOff = MdiIconData(0xF1602);
 
@@ -3529,6 +4387,9 @@ class Mdi {
   /// Icon for cards-club.
   static const cardsClub = MdiIconData(0xF08CE);
 
+  /// Icon for cards-club-outline.
+  static const cardsClubOutline = MdiIconData(0xF189F);
+
   /// Icon for cards-diamond.
   static const cardsDiamond = MdiIconData(0xF08CF);
 
@@ -3538,14 +4399,71 @@ class Mdi {
   /// Icon for cards-heart.
   static const cardsHeart = MdiIconData(0xF08D0);
 
+  /// Icon for cards-heart-outline.
+  static const cardsHeartOutline = MdiIconData(0xF18A0);
+
   /// Icon for cards-outline.
   static const cardsOutline = MdiIconData(0xF0639);
+
+  /// Icon for cards-playing.
+  static const cardsPlaying = MdiIconData(0xF18A1);
+
+  /// Icon for cards-playing-club.
+  static const cardsPlayingClub = MdiIconData(0xF18A2);
+
+  /// Icon for cards-playing-club-multiple.
+  static const cardsPlayingClubMultiple = MdiIconData(0xF18A3);
+
+  /// Icon for cards-playing-club-multiple-outline.
+  static const cardsPlayingClubMultipleOutline = MdiIconData(0xF18A4);
+
+  /// Icon for cards-playing-club-outline.
+  static const cardsPlayingClubOutline = MdiIconData(0xF18A5);
+
+  /// Icon for cards-playing-diamond.
+  static const cardsPlayingDiamond = MdiIconData(0xF18A6);
+
+  /// Icon for cards-playing-diamond-multiple.
+  static const cardsPlayingDiamondMultiple = MdiIconData(0xF18A7);
+
+  /// Icon for cards-playing-diamond-multiple-outline.
+  static const cardsPlayingDiamondMultipleOutline = MdiIconData(0xF18A8);
+
+  /// Icon for cards-playing-diamond-outline.
+  static const cardsPlayingDiamondOutline = MdiIconData(0xF18A9);
+
+  /// Icon for cards-playing-heart.
+  static const cardsPlayingHeart = MdiIconData(0xF18AA);
+
+  /// Icon for cards-playing-heart-multiple.
+  static const cardsPlayingHeartMultiple = MdiIconData(0xF18AB);
+
+  /// Icon for cards-playing-heart-multiple-outline.
+  static const cardsPlayingHeartMultipleOutline = MdiIconData(0xF18AC);
+
+  /// Icon for cards-playing-heart-outline.
+  static const cardsPlayingHeartOutline = MdiIconData(0xF18AD);
 
   /// Icon for cards-playing-outline.
   static const cardsPlayingOutline = MdiIconData(0xF063A);
 
+  /// Icon for cards-playing-spade.
+  static const cardsPlayingSpade = MdiIconData(0xF18AE);
+
+  /// Icon for cards-playing-spade-multiple.
+  static const cardsPlayingSpadeMultiple = MdiIconData(0xF18AF);
+
+  /// Icon for cards-playing-spade-multiple-outline.
+  static const cardsPlayingSpadeMultipleOutline = MdiIconData(0xF18B0);
+
+  /// Icon for cards-playing-spade-outline.
+  static const cardsPlayingSpadeOutline = MdiIconData(0xF18B1);
+
   /// Icon for cards-spade.
   static const cardsSpade = MdiIconData(0xF08D1);
+
+  /// Icon for cards-spade-outline.
+  static const cardsSpadeOutline = MdiIconData(0xF18B2);
 
   /// Icon for cards-variant.
   static const cardsVariant = MdiIconData(0xF06C7);
@@ -3568,6 +4486,9 @@ class Mdi {
   /// Icon for cart-check.
   static const cartCheck = MdiIconData(0xF15EA);
 
+  /// Icon for cart-heart.
+  static const cartHeart = MdiIconData(0xF18E0);
+
   /// Icon for cart-minus.
   static const cartMinus = MdiIconData(0xF0D68);
 
@@ -3576,6 +4497,9 @@ class Mdi {
 
   /// Icon for cart-outline.
   static const cartOutline = MdiIconData(0xF0111);
+
+  /// Icon for cart-percent.
+  static const cartPercent = MdiIconData(0xF1BAE);
 
   /// Icon for cart-plus.
   static const cartPlus = MdiIconData(0xF0112);
@@ -3597,6 +4521,12 @@ class Mdi {
 
   /// Icon for cash-check.
   static const cashCheck = MdiIconData(0xF14EE);
+
+  /// Icon for cash-clock.
+  static const cashClock = MdiIconData(0xF1A91);
+
+  /// Icon for cash-fast.
+  static const cashFast = MdiIconData(0xF185C);
 
   /// Icon for cash-lock.
   static const cashLock = MdiIconData(0xF14EA);
@@ -3625,11 +4555,8 @@ class Mdi {
   /// Icon for cash-remove.
   static const cashRemove = MdiIconData(0xF1262);
 
-  /// Icon for cash-usd.
-  static const cashUsd = MdiIconData(0xF1176);
-
-  /// Icon for cash-usd-outline.
-  static const cashUsdOutline = MdiIconData(0xF0117);
+  /// Icon for cash-sync.
+  static const cashSync = MdiIconData(0xF1A92);
 
   /// Icon for cassette.
   static const cassette = MdiIconData(0xF09D4);
@@ -3640,6 +4567,9 @@ class Mdi {
   /// Icon for cast-audio.
   static const castAudio = MdiIconData(0xF101E);
 
+  /// Icon for cast-audio-variant.
+  static const castAudioVariant = MdiIconData(0xF1749);
+
   /// Icon for cast-connected.
   static const castConnected = MdiIconData(0xF0119);
 
@@ -3648,6 +4578,9 @@ class Mdi {
 
   /// Icon for cast-off.
   static const castOff = MdiIconData(0xF078A);
+
+  /// Icon for cast-variant.
+  static const castVariant = MdiIconData(0xF001F);
 
   /// Icon for castle.
   static const castle = MdiIconData(0xF011A);
@@ -3658,17 +4591,35 @@ class Mdi {
   /// Icon for cctv.
   static const cctv = MdiIconData(0xF07AE);
 
+  /// Icon for cctv-off.
+  static const cctvOff = MdiIconData(0xF185F);
+
+  /// Icon for ceiling-fan.
+  static const ceilingFan = MdiIconData(0xF1797);
+
+  /// Icon for ceiling-fan-light.
+  static const ceilingFanLight = MdiIconData(0xF1798);
+
   /// Icon for ceiling-light.
   static const ceilingLight = MdiIconData(0xF0769);
+
+  /// Icon for ceiling-light-multiple.
+  static const ceilingLightMultiple = MdiIconData(0xF18DD);
+
+  /// Icon for ceiling-light-multiple-outline.
+  static const ceilingLightMultipleOutline = MdiIconData(0xF18DE);
+
+  /// Icon for ceiling-light-outline.
+  static const ceilingLightOutline = MdiIconData(0xF17C7);
 
   /// Icon for cellphone.
   static const cellphone = MdiIconData(0xF011C);
 
-  /// Icon for cellphone-android.
-  static const cellphoneAndroid = MdiIconData(0xF011D);
-
   /// Icon for cellphone-arrow-down.
   static const cellphoneArrowDown = MdiIconData(0xF09D5);
+
+  /// Icon for cellphone-arrow-down-variant.
+  static const cellphoneArrowDownVariant = MdiIconData(0xF19C5);
 
   /// Icon for cellphone-basic.
   static const cellphoneBasic = MdiIconData(0xF011E);
@@ -3676,20 +4627,17 @@ class Mdi {
   /// Icon for cellphone-charging.
   static const cellphoneCharging = MdiIconData(0xF1397);
 
+  /// Icon for cellphone-check.
+  static const cellphoneCheck = MdiIconData(0xF17FD);
+
   /// Icon for cellphone-cog.
   static const cellphoneCog = MdiIconData(0xF0951);
 
   /// Icon for cellphone-dock.
   static const cellphoneDock = MdiIconData(0xF011F);
 
-  /// Icon for cellphone-erase.
-  static const cellphoneErase = MdiIconData(0xF094D);
-
   /// Icon for cellphone-information.
   static const cellphoneInformation = MdiIconData(0xF0F41);
-
-  /// Icon for cellphone-iphone.
-  static const cellphoneIphone = MdiIconData(0xF0120);
 
   /// Icon for cellphone-key.
   static const cellphoneKey = MdiIconData(0xF094E);
@@ -3702,6 +4650,9 @@ class Mdi {
 
   /// Icon for cellphone-lock.
   static const cellphoneLock = MdiIconData(0xF094F);
+
+  /// Icon for cellphone-marker.
+  static const cellphoneMarker = MdiIconData(0xF183A);
 
   /// Icon for cellphone-message.
   static const cellphoneMessage = MdiIconData(0xF08D3);
@@ -3721,6 +4672,9 @@ class Mdi {
   /// Icon for cellphone-play.
   static const cellphonePlay = MdiIconData(0xF101F);
 
+  /// Icon for cellphone-remove.
+  static const cellphoneRemove = MdiIconData(0xF094D);
+
   /// Icon for cellphone-screenshot.
   static const cellphoneScreenshot = MdiIconData(0xF0A35);
 
@@ -3736,9 +4690,6 @@ class Mdi {
   /// Icon for cellphone-wireless.
   static const cellphoneWireless = MdiIconData(0xF0815);
 
-  /// Icon for celtic-cross.
-  static const celticCross = MdiIconData(0xF0CF5);
-
   /// Icon for centos.
   static const centos = MdiIconData(0xF111A);
 
@@ -3753,6 +4704,9 @@ class Mdi {
 
   /// Icon for chair-school.
   static const chairSchool = MdiIconData(0xF0125);
+
+  /// Icon for chandelier.
+  static const chandelier = MdiIconData(0xF1793);
 
   /// Icon for charity.
   static const charity = MdiIconData(0xF0C4F);
@@ -3847,6 +4801,9 @@ class Mdi {
   /// Icon for chart-tree.
   static const chartTree = MdiIconData(0xF0E94);
 
+  /// Icon for chart-waterfall.
+  static const chartWaterfall = MdiIconData(0xF1918);
+
   /// Icon for chat.
   static const chat = MdiIconData(0xF0B79);
 
@@ -3877,6 +4834,12 @@ class Mdi {
   /// Icon for chat-processing-outline.
   static const chatProcessingOutline = MdiIconData(0xF12CA);
 
+  /// Icon for chat-question.
+  static const chatQuestion = MdiIconData(0xF1738);
+
+  /// Icon for chat-question-outline.
+  static const chatQuestionOutline = MdiIconData(0xF1739);
+
   /// Icon for chat-remove.
   static const chatRemove = MdiIconData(0xF1411);
 
@@ -3898,12 +4861,6 @@ class Mdi {
   /// Icon for check-bold.
   static const checkBold = MdiIconData(0xF0E1E);
 
-  /// Icon for check-box-multiple-outline.
-  static const checkBoxMultipleOutline = MdiIconData(0xF0C51);
-
-  /// Icon for check-box-outline.
-  static const checkBoxOutline = MdiIconData(0xF0C52);
-
   /// Icon for check-circle.
   static const checkCircle = MdiIconData(0xF05E0);
 
@@ -3912,6 +4869,9 @@ class Mdi {
 
   /// Icon for check-decagram.
   static const checkDecagram = MdiIconData(0xF0791);
+
+  /// Icon for check-decagram-outline.
+  static const checkDecagramOutline = MdiIconData(0xF1740);
 
   /// Icon for check-network.
   static const checkNetwork = MdiIconData(0xF0C53);
@@ -3937,6 +4897,12 @@ class Mdi {
   /// Icon for checkbox-blank.
   static const checkboxBlank = MdiIconData(0xF012E);
 
+  /// Icon for checkbox-blank-badge.
+  static const checkboxBlankBadge = MdiIconData(0xF1176);
+
+  /// Icon for checkbox-blank-badge-outline.
+  static const checkboxBlankBadgeOutline = MdiIconData(0xF0117);
+
   /// Icon for checkbox-blank-circle.
   static const checkboxBlankCircle = MdiIconData(0xF012F);
 
@@ -3955,6 +4921,9 @@ class Mdi {
   /// Icon for checkbox-intermediate.
   static const checkboxIntermediate = MdiIconData(0xF0856);
 
+  /// Icon for checkbox-intermediate-variant.
+  static const checkboxIntermediateVariant = MdiIconData(0xF1B54);
+
   /// Icon for checkbox-marked.
   static const checkboxMarked = MdiIconData(0xF0132);
 
@@ -3963,6 +4932,9 @@ class Mdi {
 
   /// Icon for checkbox-marked-circle-outline.
   static const checkboxMarkedCircleOutline = MdiIconData(0xF0134);
+
+  /// Icon for checkbox-marked-circle-plus-outline.
+  static const checkboxMarkedCirclePlusOutline = MdiIconData(0xF1927);
 
   /// Icon for checkbox-marked-outline.
   static const checkboxMarkedOutline = MdiIconData(0xF0135);
@@ -3990,6 +4962,12 @@ class Mdi {
 
   /// Icon for checkbox-multiple-marked-outline.
   static const checkboxMultipleMarkedOutline = MdiIconData(0xF0139);
+
+  /// Icon for checkbox-multiple-outline.
+  static const checkboxMultipleOutline = MdiIconData(0xF0C51);
+
+  /// Icon for checkbox-outline.
+  static const checkboxOutline = MdiIconData(0xF0C52);
 
   /// Icon for checkerboard.
   static const checkerboard = MdiIconData(0xF013A);
@@ -4117,29 +5095,44 @@ class Mdi {
   /// Icon for chevron-up-circle-outline.
   static const chevronUpCircleOutline = MdiIconData(0xF0B2D);
 
+  /// Icon for chili-alert.
+  static const chiliAlert = MdiIconData(0xF17EA);
+
+  /// Icon for chili-alert-outline.
+  static const chiliAlertOutline = MdiIconData(0xF17EB);
+
   /// Icon for chili-hot.
   static const chiliHot = MdiIconData(0xF07B2);
+
+  /// Icon for chili-hot-outline.
+  static const chiliHotOutline = MdiIconData(0xF17EC);
 
   /// Icon for chili-medium.
   static const chiliMedium = MdiIconData(0xF07B3);
 
+  /// Icon for chili-medium-outline.
+  static const chiliMediumOutline = MdiIconData(0xF17ED);
+
   /// Icon for chili-mild.
   static const chiliMild = MdiIconData(0xF07B4);
+
+  /// Icon for chili-mild-outline.
+  static const chiliMildOutline = MdiIconData(0xF17EE);
 
   /// Icon for chili-off.
   static const chiliOff = MdiIconData(0xF1467);
 
+  /// Icon for chili-off-outline.
+  static const chiliOffOutline = MdiIconData(0xF17EF);
+
   /// Icon for chip.
   static const chip = MdiIconData(0xF061A);
 
-  /// Icon for christianity.
-  static const christianity = MdiIconData(0xF0953);
-
-  /// Icon for christianity-outline.
-  static const christianityOutline = MdiIconData(0xF0CF6);
-
   /// Icon for church.
   static const church = MdiIconData(0xF0144);
+
+  /// Icon for church-outline.
+  static const churchOutline = MdiIconData(0xF1B02);
 
   /// Icon for cigar.
   static const cigar = MdiIconData(0xF1189);
@@ -4182,6 +5175,9 @@ class Mdi {
 
   /// Icon for circle-off-outline.
   static const circleOffOutline = MdiIconData(0xF10D3);
+
+  /// Icon for circle-opacity.
+  static const circleOpacity = MdiIconData(0xF1853);
 
   /// Icon for circle-outline.
   static const circleOutline = MdiIconData(0xF0766);
@@ -4276,6 +5272,12 @@ class Mdi {
   /// Icon for clipboard-check-outline.
   static const clipboardCheckOutline = MdiIconData(0xF08A8);
 
+  /// Icon for clipboard-clock.
+  static const clipboardClock = MdiIconData(0xF16E2);
+
+  /// Icon for clipboard-clock-outline.
+  static const clipboardClockOutline = MdiIconData(0xF16E3);
+
   /// Icon for clipboard-edit.
   static const clipboardEdit = MdiIconData(0xF14E5);
 
@@ -4360,6 +5362,12 @@ class Mdi {
   /// Icon for clipboard-text.
   static const clipboardText = MdiIconData(0xF014D);
 
+  /// Icon for clipboard-text-clock.
+  static const clipboardTextClock = MdiIconData(0xF18F9);
+
+  /// Icon for clipboard-text-clock-outline.
+  static const clipboardTextClockOutline = MdiIconData(0xF18FA);
+
   /// Icon for clipboard-text-multiple.
   static const clipboardTextMultiple = MdiIconData(0xF126B);
 
@@ -4408,6 +5416,12 @@ class Mdi {
   /// Icon for clock-digital.
   static const clockDigital = MdiIconData(0xF0E97);
 
+  /// Icon for clock-edit.
+  static const clockEdit = MdiIconData(0xF19BA);
+
+  /// Icon for clock-edit-outline.
+  static const clockEditOutline = MdiIconData(0xF19BB);
+
   /// Icon for clock-end.
   static const clockEnd = MdiIconData(0xF0151);
 
@@ -4417,11 +5431,29 @@ class Mdi {
   /// Icon for clock-in.
   static const clockIn = MdiIconData(0xF0153);
 
+  /// Icon for clock-minus.
+  static const clockMinus = MdiIconData(0xF1863);
+
+  /// Icon for clock-minus-outline.
+  static const clockMinusOutline = MdiIconData(0xF1864);
+
   /// Icon for clock-out.
   static const clockOut = MdiIconData(0xF0154);
 
   /// Icon for clock-outline.
   static const clockOutline = MdiIconData(0xF0150);
+
+  /// Icon for clock-plus.
+  static const clockPlus = MdiIconData(0xF1861);
+
+  /// Icon for clock-plus-outline.
+  static const clockPlusOutline = MdiIconData(0xF1862);
+
+  /// Icon for clock-remove.
+  static const clockRemove = MdiIconData(0xF1865);
+
+  /// Icon for clock-remove-outline.
+  static const clockRemoveOutline = MdiIconData(0xF1866);
 
   /// Icon for clock-start.
   static const clockStart = MdiIconData(0xF0155);
@@ -4585,6 +5617,12 @@ class Mdi {
   /// Icon for cloud-outline.
   static const cloudOutline = MdiIconData(0xF0163);
 
+  /// Icon for cloud-percent.
+  static const cloudPercent = MdiIconData(0xF1A35);
+
+  /// Icon for cloud-percent-outline.
+  static const cloudPercentOutline = MdiIconData(0xF1A36);
+
   /// Icon for cloud-print.
   static const cloudPrint = MdiIconData(0xF0165);
 
@@ -4618,11 +5656,17 @@ class Mdi {
   /// Icon for cloud-upload-outline.
   static const cloudUploadOutline = MdiIconData(0xF0B7E);
 
+  /// Icon for clouds.
+  static const clouds = MdiIconData(0xF1B95);
+
   /// Icon for clover.
   static const clover = MdiIconData(0xF0816);
 
   /// Icon for coach-lamp.
   static const coachLamp = MdiIconData(0xF1020);
+
+  /// Icon for coach-lamp-variant.
+  static const coachLampVariant = MdiIconData(0xF1A37);
 
   /// Icon for coat-rack.
   static const coatRack = MdiIconData(0xF109E);
@@ -4687,6 +5731,15 @@ class Mdi {
   /// Icon for coffee-maker.
   static const coffeeMaker = MdiIconData(0xF109F);
 
+  /// Icon for coffee-maker-check.
+  static const coffeeMakerCheck = MdiIconData(0xF1931);
+
+  /// Icon for coffee-maker-check-outline.
+  static const coffeeMakerCheckOutline = MdiIconData(0xF1932);
+
+  /// Icon for coffee-maker-outline.
+  static const coffeeMakerOutline = MdiIconData(0xF181B);
+
   /// Icon for coffee-off.
   static const coffeeOff = MdiIconData(0xF0FAA);
 
@@ -4726,11 +5779,29 @@ class Mdi {
   /// Icon for cog-outline.
   static const cogOutline = MdiIconData(0xF08BB);
 
+  /// Icon for cog-pause.
+  static const cogPause = MdiIconData(0xF1933);
+
+  /// Icon for cog-pause-outline.
+  static const cogPauseOutline = MdiIconData(0xF1934);
+
+  /// Icon for cog-play.
+  static const cogPlay = MdiIconData(0xF1935);
+
+  /// Icon for cog-play-outline.
+  static const cogPlayOutline = MdiIconData(0xF1936);
+
   /// Icon for cog-refresh.
   static const cogRefresh = MdiIconData(0xF145E);
 
   /// Icon for cog-refresh-outline.
   static const cogRefreshOutline = MdiIconData(0xF145F);
+
+  /// Icon for cog-stop.
+  static const cogStop = MdiIconData(0xF1937);
+
+  /// Icon for cog-stop-outline.
+  static const cogStopOutline = MdiIconData(0xF1938);
 
   /// Icon for cog-sync.
   static const cogSync = MdiIconData(0xF1460);
@@ -4906,6 +5977,9 @@ class Mdi {
   /// Icon for compare-horizontal.
   static const compareHorizontal = MdiIconData(0xF1492);
 
+  /// Icon for compare-remove.
+  static const compareRemove = MdiIconData(0xF18B3);
+
   /// Icon for compare-vertical.
   static const compareVertical = MdiIconData(0xF1493);
 
@@ -4924,8 +5998,14 @@ class Mdi {
   /// Icon for compass-rose.
   static const compassRose = MdiIconData(0xF1382);
 
-  /// Icon for concourse-ci.
-  static const concourseCi = MdiIconData(0xF10A0);
+  /// Icon for compost.
+  static const compost = MdiIconData(0xF1A38);
+
+  /// Icon for cone.
+  static const cone = MdiIconData(0xF194C);
+
+  /// Icon for cone-off.
+  static const coneOff = MdiIconData(0xF194D);
 
   /// Icon for connection.
   static const connection = MdiIconData(0xF1616);
@@ -4996,6 +6076,12 @@ class Mdi {
   /// Icon for content-save-all-outline.
   static const contentSaveAllOutline = MdiIconData(0xF0F44);
 
+  /// Icon for content-save-check.
+  static const contentSaveCheck = MdiIconData(0xF18EA);
+
+  /// Icon for content-save-check-outline.
+  static const contentSaveCheckOutline = MdiIconData(0xF18EB);
+
   /// Icon for content-save-cog.
   static const contentSaveCog = MdiIconData(0xF145B);
 
@@ -5007,6 +6093,12 @@ class Mdi {
 
   /// Icon for content-save-edit-outline.
   static const contentSaveEditOutline = MdiIconData(0xF0CFC);
+
+  /// Icon for content-save-minus.
+  static const contentSaveMinus = MdiIconData(0xF1B43);
+
+  /// Icon for content-save-minus-outline.
+  static const contentSaveMinusOutline = MdiIconData(0xF1B44);
 
   /// Icon for content-save-move.
   static const contentSaveMove = MdiIconData(0xF0E27);
@@ -5023,6 +6115,12 @@ class Mdi {
   /// Icon for content-save-outline.
   static const contentSaveOutline = MdiIconData(0xF0818);
 
+  /// Icon for content-save-plus.
+  static const contentSavePlus = MdiIconData(0xF1B41);
+
+  /// Icon for content-save-plus-outline.
+  static const contentSavePlusOutline = MdiIconData(0xF1B42);
+
   /// Icon for content-save-settings.
   static const contentSaveSettings = MdiIconData(0xF061B);
 
@@ -5038,11 +6136,17 @@ class Mdi {
   /// Icon for contrast-circle.
   static const contrastCircle = MdiIconData(0xF0197);
 
+  /// Icon for controller.
+  static const controller = MdiIconData(0xF02B4);
+
   /// Icon for controller-classic.
   static const controllerClassic = MdiIconData(0xF0B82);
 
   /// Icon for controller-classic-outline.
   static const controllerClassicOutline = MdiIconData(0xF0B83);
+
+  /// Icon for controller-off.
+  static const controllerOff = MdiIconData(0xF02B5);
 
   /// Icon for cookie.
   static const cookie = MdiIconData(0xF0198);
@@ -5059,17 +6163,41 @@ class Mdi {
   /// Icon for cookie-check-outline.
   static const cookieCheckOutline = MdiIconData(0xF16D3);
 
+  /// Icon for cookie-clock.
+  static const cookieClock = MdiIconData(0xF16E4);
+
+  /// Icon for cookie-clock-outline.
+  static const cookieClockOutline = MdiIconData(0xF16E5);
+
   /// Icon for cookie-cog.
   static const cookieCog = MdiIconData(0xF16D4);
 
   /// Icon for cookie-cog-outline.
   static const cookieCogOutline = MdiIconData(0xF16D5);
 
+  /// Icon for cookie-edit.
+  static const cookieEdit = MdiIconData(0xF16E6);
+
+  /// Icon for cookie-edit-outline.
+  static const cookieEditOutline = MdiIconData(0xF16E7);
+
+  /// Icon for cookie-lock.
+  static const cookieLock = MdiIconData(0xF16E8);
+
+  /// Icon for cookie-lock-outline.
+  static const cookieLockOutline = MdiIconData(0xF16E9);
+
   /// Icon for cookie-minus.
   static const cookieMinus = MdiIconData(0xF16DA);
 
   /// Icon for cookie-minus-outline.
   static const cookieMinusOutline = MdiIconData(0xF16DB);
+
+  /// Icon for cookie-off.
+  static const cookieOff = MdiIconData(0xF16EA);
+
+  /// Icon for cookie-off-outline.
+  static const cookieOffOutline = MdiIconData(0xF16EB);
 
   /// Icon for cookie-outline.
   static const cookieOutline = MdiIconData(0xF16DE);
@@ -5079,6 +6207,12 @@ class Mdi {
 
   /// Icon for cookie-plus-outline.
   static const cookiePlusOutline = MdiIconData(0xF16D7);
+
+  /// Icon for cookie-refresh.
+  static const cookieRefresh = MdiIconData(0xF16EC);
+
+  /// Icon for cookie-refresh-outline.
+  static const cookieRefreshOutline = MdiIconData(0xF16ED);
 
   /// Icon for cookie-remove.
   static const cookieRemove = MdiIconData(0xF16D8);
@@ -5094,6 +6228,9 @@ class Mdi {
 
   /// Icon for coolant-temperature.
   static const coolantTemperature = MdiIconData(0xF03C8);
+
+  /// Icon for copyleft.
+  static const copyleft = MdiIconData(0xF1939);
 
   /// Icon for copyright.
   static const copyright = MdiIconData(0xF05E6);
@@ -5113,14 +6250,29 @@ class Mdi {
   /// Icon for counter.
   static const counter = MdiIconData(0xF0199);
 
+  /// Icon for countertop.
+  static const countertop = MdiIconData(0xF181C);
+
+  /// Icon for countertop-outline.
+  static const countertopOutline = MdiIconData(0xF181D);
+
   /// Icon for cow.
   static const cow = MdiIconData(0xF019A);
+
+  /// Icon for cow-off.
+  static const cowOff = MdiIconData(0xF18FC);
 
   /// Icon for cpu-32-bit.
   static const cpu32Bit = MdiIconData(0xF0EDF);
 
   /// Icon for cpu-64-bit.
   static const cpu64Bit = MdiIconData(0xF0EE0);
+
+  /// Icon for cradle.
+  static const cradle = MdiIconData(0xF198B);
+
+  /// Icon for cradle-outline.
+  static const cradleOutline = MdiIconData(0xF1991);
 
   /// Icon for crane.
   static const crane = MdiIconData(0xF0862);
@@ -5140,11 +6292,35 @@ class Mdi {
   /// Icon for credit-card-check-outline.
   static const creditCardCheckOutline = MdiIconData(0xF13D1);
 
+  /// Icon for credit-card-chip.
+  static const creditCardChip = MdiIconData(0xF190F);
+
+  /// Icon for credit-card-chip-outline.
+  static const creditCardChipOutline = MdiIconData(0xF1910);
+
   /// Icon for credit-card-clock.
   static const creditCardClock = MdiIconData(0xF0EE1);
 
   /// Icon for credit-card-clock-outline.
   static const creditCardClockOutline = MdiIconData(0xF0EE2);
+
+  /// Icon for credit-card-edit.
+  static const creditCardEdit = MdiIconData(0xF17D7);
+
+  /// Icon for credit-card-edit-outline.
+  static const creditCardEditOutline = MdiIconData(0xF17D8);
+
+  /// Icon for credit-card-fast.
+  static const creditCardFast = MdiIconData(0xF1911);
+
+  /// Icon for credit-card-fast-outline.
+  static const creditCardFastOutline = MdiIconData(0xF1912);
+
+  /// Icon for credit-card-lock.
+  static const creditCardLock = MdiIconData(0xF18E7);
+
+  /// Icon for credit-card-lock-outline.
+  static const creditCardLockOutline = MdiIconData(0xF18E8);
 
   /// Icon for credit-card-marker.
   static const creditCardMarker = MdiIconData(0xF06A8);
@@ -5254,6 +6430,18 @@ class Mdi {
   /// Icon for crop-square.
   static const cropSquare = MdiIconData(0xF01A2);
 
+  /// Icon for cross.
+  static const cross = MdiIconData(0xF0953);
+
+  /// Icon for cross-bolnisi.
+  static const crossBolnisi = MdiIconData(0xF0CED);
+
+  /// Icon for cross-celtic.
+  static const crossCeltic = MdiIconData(0xF0CF5);
+
+  /// Icon for cross-outline.
+  static const crossOutline = MdiIconData(0xF0CF6);
+
   /// Icon for crosshairs.
   static const crosshairs = MdiIconData(0xF01A3);
 
@@ -5266,8 +6454,17 @@ class Mdi {
   /// Icon for crosshairs-question.
   static const crosshairsQuestion = MdiIconData(0xF1136);
 
+  /// Icon for crowd.
+  static const crowd = MdiIconData(0xF1975);
+
   /// Icon for crown.
   static const crown = MdiIconData(0xF01A5);
+
+  /// Icon for crown-circle.
+  static const crownCircle = MdiIconData(0xF17DC);
+
+  /// Icon for crown-circle-outline.
+  static const crownCircleOutline = MdiIconData(0xF17DD);
 
   /// Icon for crown-outline.
   static const crownOutline = MdiIconData(0xF11D0);
@@ -5347,6 +6544,9 @@ class Mdi {
   /// Icon for currency-eur-off.
   static const currencyEurOff = MdiIconData(0xF1315);
 
+  /// Icon for currency-fra.
+  static const currencyFra = MdiIconData(0xF1A39);
+
   /// Icon for currency-gbp.
   static const currencyGbp = MdiIconData(0xF01AE);
 
@@ -5380,6 +6580,9 @@ class Mdi {
   /// Icon for currency-rub.
   static const currencyRub = MdiIconData(0xF01B1);
 
+  /// Icon for currency-rupee.
+  static const currencyRupee = MdiIconData(0xF1976);
+
   /// Icon for currency-sign.
   static const currencySign = MdiIconData(0xF07BE);
 
@@ -5389,14 +6592,11 @@ class Mdi {
   /// Icon for currency-twd.
   static const currencyTwd = MdiIconData(0xF07BF);
 
+  /// Icon for currency-uah.
+  static const currencyUah = MdiIconData(0xF1B9B);
+
   /// Icon for currency-usd.
   static const currencyUsd = MdiIconData(0xF01C1);
-
-  /// Icon for currency-usd-circle.
-  static const currencyUsdCircle = MdiIconData(0xF116B);
-
-  /// Icon for currency-usd-circle-outline.
-  static const currencyUsdCircleOutline = MdiIconData(0xF0178);
 
   /// Icon for currency-usd-off.
   static const currencyUsdOff = MdiIconData(0xF067A);
@@ -5433,6 +6633,18 @@ class Mdi {
 
   /// Icon for cursor-text.
   static const cursorText = MdiIconData(0xF05E7);
+
+  /// Icon for curtains.
+  static const curtains = MdiIconData(0xF1846);
+
+  /// Icon for curtains-closed.
+  static const curtainsClosed = MdiIconData(0xF1847);
+
+  /// Icon for cylinder.
+  static const cylinder = MdiIconData(0xF194E);
+
+  /// Icon for cylinder-off.
+  static const cylinderOff = MdiIconData(0xF194F);
 
   /// Icon for dance-ballroom.
   static const danceBallroom = MdiIconData(0xF15FB);
@@ -5520,6 +6732,18 @@ class Mdi {
 
   /// Icon for database-export-outline.
   static const databaseExportOutline = MdiIconData(0xF162C);
+
+  /// Icon for database-eye.
+  static const databaseEye = MdiIconData(0xF191F);
+
+  /// Icon for database-eye-off.
+  static const databaseEyeOff = MdiIconData(0xF1920);
+
+  /// Icon for database-eye-off-outline.
+  static const databaseEyeOffOutline = MdiIconData(0xF1921);
+
+  /// Icon for database-eye-outline.
+  static const databaseEyeOutline = MdiIconData(0xF1922);
 
   /// Icon for database-import.
   static const databaseImport = MdiIconData(0xF095D);
@@ -5698,17 +6922,17 @@ class Mdi {
   /// Icon for desk-lamp.
   static const deskLamp = MdiIconData(0xF095F);
 
+  /// Icon for desk-lamp-off.
+  static const deskLampOff = MdiIconData(0xF1B1F);
+
+  /// Icon for desk-lamp-on.
+  static const deskLampOn = MdiIconData(0xF1B20);
+
   /// Icon for deskphone.
   static const deskphone = MdiIconData(0xF01C3);
 
   /// Icon for desktop-classic.
   static const desktopClassic = MdiIconData(0xF07C0);
-
-  /// Icon for desktop-mac.
-  static const desktopMac = MdiIconData(0xF01C4);
-
-  /// Icon for desktop-mac-dashboard.
-  static const desktopMacDashboard = MdiIconData(0xF09E8);
 
   /// Icon for desktop-tower.
   static const desktopTower = MdiIconData(0xF01C5);
@@ -5730,6 +6954,9 @@ class Mdi {
 
   /// Icon for devices.
   static const devices = MdiIconData(0xF0FB0);
+
+  /// Icon for dharmachakra.
+  static const dharmachakra = MdiIconData(0xF094B);
 
   /// Icon for diabetes.
   static const diabetes = MdiIconData(0xF1126);
@@ -5854,9 +7081,6 @@ class Mdi {
   /// Icon for disc-player.
   static const discPlayer = MdiIconData(0xF0960);
 
-  /// Icon for discord.
-  static const discord = MdiIconData(0xF066F);
-
   /// Icon for dishwasher.
   static const dishwasher = MdiIconData(0xF0AAC);
 
@@ -5887,6 +7111,12 @@ class Mdi {
   /// Icon for distribute-vertical-top.
   static const distributeVerticalTop = MdiIconData(0xF11CD);
 
+  /// Icon for diversify.
+  static const diversify = MdiIconData(0xF1877);
+
+  /// Icon for diving.
+  static const diving = MdiIconData(0xF1977);
+
   /// Icon for diving-flippers.
   static const divingFlippers = MdiIconData(0xF0DBF);
 
@@ -5894,10 +7124,13 @@ class Mdi {
   static const divingHelmet = MdiIconData(0xF0DC0);
 
   /// Icon for diving-scuba.
-  static const divingScuba = MdiIconData(0xF0DC1);
+  static const divingScuba = MdiIconData(0xF1B77);
 
   /// Icon for diving-scuba-flag.
   static const divingScubaFlag = MdiIconData(0xF0DC2);
+
+  /// Icon for diving-scuba-mask.
+  static const divingScubaMask = MdiIconData(0xF0DC1);
 
   /// Icon for diving-scuba-tank.
   static const divingScubaTank = MdiIconData(0xF0DC3);
@@ -5925,12 +7158,6 @@ class Mdi {
 
   /// Icon for dns-outline.
   static const dnsOutline = MdiIconData(0xF0B8C);
-
-  /// Icon for do-not-disturb.
-  static const doNotDisturb = MdiIconData(0xF0698);
-
-  /// Icon for do-not-disturb-off.
-  static const doNotDisturbOff = MdiIconData(0xF0699);
 
   /// Icon for dock-bottom.
   static const dockBottom = MdiIconData(0xF10A9);
@@ -5962,11 +7189,17 @@ class Mdi {
   /// Icon for dog-side.
   static const dogSide = MdiIconData(0xF0A44);
 
+  /// Icon for dog-side-off.
+  static const dogSideOff = MdiIconData(0xF16EE);
+
   /// Icon for dolby.
   static const dolby = MdiIconData(0xF06B3);
 
   /// Icon for dolly.
   static const dolly = MdiIconData(0xF0E9E);
+
+  /// Icon for dolphin.
+  static const dolphin = MdiIconData(0xF18B4);
 
   /// Icon for domain.
   static const domain = MdiIconData(0xF01D7);
@@ -6001,6 +7234,15 @@ class Mdi {
   /// Icon for door-open.
   static const doorOpen = MdiIconData(0xF081C);
 
+  /// Icon for door-sliding.
+  static const doorSliding = MdiIconData(0xF181E);
+
+  /// Icon for door-sliding-lock.
+  static const doorSlidingLock = MdiIconData(0xF181F);
+
+  /// Icon for door-sliding-open.
+  static const doorSlidingOpen = MdiIconData(0xF1820);
+
   /// Icon for doorbell.
   static const doorbell = MdiIconData(0xF12E6);
 
@@ -6009,6 +7251,9 @@ class Mdi {
 
   /// Icon for dot-net.
   static const dotNet = MdiIconData(0xF0AAE);
+
+  /// Icon for dots-circle.
+  static const dotsCircle = MdiIconData(0xF1978);
 
   /// Icon for dots-grid.
   static const dotsGrid = MdiIconData(0xF15FC);
@@ -6039,9 +7284,6 @@ class Mdi {
 
   /// Icon for dots-vertical-circle-outline.
   static const dotsVerticalCircleOutline = MdiIconData(0xF0B8E);
-
-  /// Icon for douban.
-  static const douban = MdiIconData(0xF069A);
 
   /// Icon for download.
   static const download = MdiIconData(0xF01DA);
@@ -6106,6 +7348,9 @@ class Mdi {
   /// Icon for draw.
   static const draw = MdiIconData(0xF0F49);
 
+  /// Icon for draw-pen.
+  static const drawPen = MdiIconData(0xF19B9);
+
   /// Icon for drawing.
   static const drawing = MdiIconData(0xF01DE);
 
@@ -6139,8 +7384,23 @@ class Mdi {
   /// Icon for ear-hearing.
   static const earHearing = MdiIconData(0xF07C5);
 
+  /// Icon for ear-hearing-loop.
+  static const earHearingLoop = MdiIconData(0xF1AEE);
+
   /// Icon for ear-hearing-off.
   static const earHearingOff = MdiIconData(0xF0A45);
+
+  /// Icon for earbuds.
+  static const earbuds = MdiIconData(0xF184F);
+
+  /// Icon for earbuds-off.
+  static const earbudsOff = MdiIconData(0xF1850);
+
+  /// Icon for earbuds-off-outline.
+  static const earbudsOffOutline = MdiIconData(0xF1851);
+
+  /// Icon for earbuds-outline.
+  static const earbudsOutline = MdiIconData(0xF1852);
 
   /// Icon for earth.
   static const earth = MdiIconData(0xF01E7);
@@ -6181,6 +7441,9 @@ class Mdi {
   /// Icon for egg-easter.
   static const eggEaster = MdiIconData(0xF0AB0);
 
+  /// Icon for egg-fried.
+  static const eggFried = MdiIconData(0xF184A);
+
   /// Icon for egg-off.
   static const eggOff = MdiIconData(0xF13F0);
 
@@ -6198,6 +7461,12 @@ class Mdi {
 
   /// Icon for eject.
   static const eject = MdiIconData(0xF01EA);
+
+  /// Icon for eject-circle.
+  static const ejectCircle = MdiIconData(0xF1B23);
+
+  /// Icon for eject-circle-outline.
+  static const ejectCircleOutline = MdiIconData(0xF1B24);
 
   /// Icon for eject-outline.
   static const ejectOutline = MdiIconData(0xF0B91);
@@ -6229,6 +7498,15 @@ class Mdi {
   /// Icon for elevator-passenger.
   static const elevatorPassenger = MdiIconData(0xF1381);
 
+  /// Icon for elevator-passenger-off.
+  static const elevatorPassengerOff = MdiIconData(0xF1979);
+
+  /// Icon for elevator-passenger-off-outline.
+  static const elevatorPassengerOffOutline = MdiIconData(0xF197A);
+
+  /// Icon for elevator-passenger-outline.
+  static const elevatorPassengerOutline = MdiIconData(0xF197B);
+
   /// Icon for elevator-up.
   static const elevatorUp = MdiIconData(0xF12C1);
 
@@ -6247,6 +7525,18 @@ class Mdi {
   /// Icon for email-alert-outline.
   static const emailAlertOutline = MdiIconData(0xF0D42);
 
+  /// Icon for email-arrow-left.
+  static const emailArrowLeft = MdiIconData(0xF10DA);
+
+  /// Icon for email-arrow-left-outline.
+  static const emailArrowLeftOutline = MdiIconData(0xF10DB);
+
+  /// Icon for email-arrow-right.
+  static const emailArrowRight = MdiIconData(0xF10DC);
+
+  /// Icon for email-arrow-right-outline.
+  static const emailArrowRightOutline = MdiIconData(0xF10DD);
+
   /// Icon for email-box.
   static const emailBox = MdiIconData(0xF0D03);
 
@@ -6262,8 +7552,17 @@ class Mdi {
   /// Icon for email-edit-outline.
   static const emailEditOutline = MdiIconData(0xF0EE4);
 
+  /// Icon for email-fast.
+  static const emailFast = MdiIconData(0xF186F);
+
+  /// Icon for email-fast-outline.
+  static const emailFastOutline = MdiIconData(0xF1870);
+
   /// Icon for email-lock.
   static const emailLock = MdiIconData(0xF01F1);
+
+  /// Icon for email-lock-outline.
+  static const emailLockOutline = MdiIconData(0xF1B61);
 
   /// Icon for email-mark-as-unread.
   static const emailMarkAsUnread = MdiIconData(0xF0B92);
@@ -6310,29 +7609,23 @@ class Mdi {
   /// Icon for email-plus-outline.
   static const emailPlusOutline = MdiIconData(0xF09EC);
 
-  /// Icon for email-receive.
-  static const emailReceive = MdiIconData(0xF10DA);
-
-  /// Icon for email-receive-outline.
-  static const emailReceiveOutline = MdiIconData(0xF10DB);
-
   /// Icon for email-remove.
   static const emailRemove = MdiIconData(0xF1661);
 
   /// Icon for email-remove-outline.
   static const emailRemoveOutline = MdiIconData(0xF1662);
 
+  /// Icon for email-seal.
+  static const emailSeal = MdiIconData(0xF195B);
+
+  /// Icon for email-seal-outline.
+  static const emailSealOutline = MdiIconData(0xF195C);
+
   /// Icon for email-search.
   static const emailSearch = MdiIconData(0xF0961);
 
   /// Icon for email-search-outline.
   static const emailSearchOutline = MdiIconData(0xF0962);
-
-  /// Icon for email-send.
-  static const emailSend = MdiIconData(0xF10DC);
-
-  /// Icon for email-send-outline.
-  static const emailSendOutline = MdiIconData(0xF10DD);
 
   /// Icon for email-sync.
   static const emailSync = MdiIconData(0xF12C7);
@@ -6586,6 +7879,18 @@ class Mdi {
   /// Icon for eye.
   static const eye = MdiIconData(0xF0208);
 
+  /// Icon for eye-arrow-left.
+  static const eyeArrowLeft = MdiIconData(0xF18FD);
+
+  /// Icon for eye-arrow-left-outline.
+  static const eyeArrowLeftOutline = MdiIconData(0xF18FE);
+
+  /// Icon for eye-arrow-right.
+  static const eyeArrowRight = MdiIconData(0xF18FF);
+
+  /// Icon for eye-arrow-right-outline.
+  static const eyeArrowRightOutline = MdiIconData(0xF1900);
+
   /// Icon for eye-check.
   static const eyeCheck = MdiIconData(0xF0D04);
 
@@ -6619,6 +7924,12 @@ class Mdi {
   /// Icon for eye-plus-outline.
   static const eyePlusOutline = MdiIconData(0xF086C);
 
+  /// Icon for eye-refresh.
+  static const eyeRefresh = MdiIconData(0xF197C);
+
+  /// Icon for eye-refresh-outline.
+  static const eyeRefreshOutline = MdiIconData(0xF197D);
+
   /// Icon for eye-remove.
   static const eyeRemove = MdiIconData(0xF15E3);
 
@@ -6649,11 +7960,23 @@ class Mdi {
   /// Icon for eyedropper-variant.
   static const eyedropperVariant = MdiIconData(0xF020B);
 
-  /// Icon for face.
-  static const face = MdiIconData(0xF0643);
-
   /// Icon for face-agent.
   static const faceAgent = MdiIconData(0xF0D70);
+
+  /// Icon for face-man.
+  static const faceMan = MdiIconData(0xF0643);
+
+  /// Icon for face-man-outline.
+  static const faceManOutline = MdiIconData(0xF0B96);
+
+  /// Icon for face-man-profile.
+  static const faceManProfile = MdiIconData(0xF0644);
+
+  /// Icon for face-man-shimmer.
+  static const faceManShimmer = MdiIconData(0xF15CC);
+
+  /// Icon for face-man-shimmer-outline.
+  static const faceManShimmerOutline = MdiIconData(0xF15CD);
 
   /// Icon for face-mask.
   static const faceMask = MdiIconData(0xF1586);
@@ -6661,29 +7984,17 @@ class Mdi {
   /// Icon for face-mask-outline.
   static const faceMaskOutline = MdiIconData(0xF1587);
 
-  /// Icon for face-outline.
-  static const faceOutline = MdiIconData(0xF0B96);
-
-  /// Icon for face-profile.
-  static const faceProfile = MdiIconData(0xF0644);
-
-  /// Icon for face-profile-woman.
-  static const faceProfileWoman = MdiIconData(0xF1076);
-
   /// Icon for face-recognition.
   static const faceRecognition = MdiIconData(0xF0C7B);
-
-  /// Icon for face-shimmer.
-  static const faceShimmer = MdiIconData(0xF15CC);
-
-  /// Icon for face-shimmer-outline.
-  static const faceShimmerOutline = MdiIconData(0xF15CD);
 
   /// Icon for face-woman.
   static const faceWoman = MdiIconData(0xF1077);
 
   /// Icon for face-woman-outline.
   static const faceWomanOutline = MdiIconData(0xF1078);
+
+  /// Icon for face-woman-profile.
+  static const faceWomanProfile = MdiIconData(0xF1076);
 
   /// Icon for face-woman-shimmer.
   static const faceWomanShimmer = MdiIconData(0xF15CE);
@@ -6715,11 +8026,17 @@ class Mdi {
   /// Icon for fan-alert.
   static const fanAlert = MdiIconData(0xF146C);
 
+  /// Icon for fan-auto.
+  static const fanAuto = MdiIconData(0xF171D);
+
   /// Icon for fan-chevron-down.
   static const fanChevronDown = MdiIconData(0xF146D);
 
   /// Icon for fan-chevron-up.
   static const fanChevronUp = MdiIconData(0xF146E);
+
+  /// Icon for fan-clock.
+  static const fanClock = MdiIconData(0xF1A3A);
 
   /// Icon for fan-minus.
   static const fanMinus = MdiIconData(0xF1470);
@@ -6748,8 +8065,14 @@ class Mdi {
   /// Icon for fast-forward-10.
   static const fastForward10 = MdiIconData(0xF0D71);
 
+  /// Icon for fast-forward-15.
+  static const fastForward15 = MdiIconData(0xF193A);
+
   /// Icon for fast-forward-30.
   static const fastForward30 = MdiIconData(0xF0D06);
+
+  /// Icon for fast-forward-45.
+  static const fastForward45 = MdiIconData(0xF1B12);
 
   /// Icon for fast-forward-5.
   static const fastForward5 = MdiIconData(0xF11F8);
@@ -6759,6 +8082,12 @@ class Mdi {
 
   /// Icon for fast-forward-outline.
   static const fastForwardOutline = MdiIconData(0xF06D2);
+
+  /// Icon for faucet.
+  static const faucet = MdiIconData(0xF1B29);
+
+  /// Icon for faucet-variant.
+  static const faucetVariant = MdiIconData(0xF1B2A);
 
   /// Icon for fax.
   static const fax = MdiIconData(0xF0212);
@@ -6774,6 +8103,12 @@ class Mdi {
 
   /// Icon for fedora.
   static const fedora = MdiIconData(0xF08DB);
+
+  /// Icon for fence.
+  static const fence = MdiIconData(0xF179A);
+
+  /// Icon for fence-electric.
+  static const fenceElectric = MdiIconData(0xF17F6);
 
   /// Icon for fencing.
   static const fencing = MdiIconData(0xF14C1);
@@ -6799,6 +8134,18 @@ class Mdi {
   /// Icon for file-alert-outline.
   static const fileAlertOutline = MdiIconData(0xF0A4C);
 
+  /// Icon for file-arrow-left-right.
+  static const fileArrowLeftRight = MdiIconData(0xF1A93);
+
+  /// Icon for file-arrow-left-right-outline.
+  static const fileArrowLeftRightOutline = MdiIconData(0xF1A94);
+
+  /// Icon for file-arrow-up-down.
+  static const fileArrowUpDown = MdiIconData(0xF1A95);
+
+  /// Icon for file-arrow-up-down-outline.
+  static const fileArrowUpDownOutline = MdiIconData(0xF1A96);
+
   /// Icon for file-cabinet.
   static const fileCabinet = MdiIconData(0xF0AB6);
 
@@ -6822,6 +8169,12 @@ class Mdi {
 
   /// Icon for file-chart.
   static const fileChart = MdiIconData(0xF0215);
+
+  /// Icon for file-chart-check.
+  static const fileChartCheck = MdiIconData(0xF19C6);
+
+  /// Icon for file-chart-check-outline.
+  static const fileChartCheckOutline = MdiIconData(0xF19C7);
 
   /// Icon for file-chart-outline.
   static const fileChartOutline = MdiIconData(0xF1029);
@@ -6868,11 +8221,29 @@ class Mdi {
   /// Icon for file-document.
   static const fileDocument = MdiIconData(0xF0219);
 
+  /// Icon for file-document-alert.
+  static const fileDocumentAlert = MdiIconData(0xF1A97);
+
+  /// Icon for file-document-alert-outline.
+  static const fileDocumentAlertOutline = MdiIconData(0xF1A98);
+
+  /// Icon for file-document-check.
+  static const fileDocumentCheck = MdiIconData(0xF1A99);
+
+  /// Icon for file-document-check-outline.
+  static const fileDocumentCheckOutline = MdiIconData(0xF1A9A);
+
   /// Icon for file-document-edit.
   static const fileDocumentEdit = MdiIconData(0xF0DC8);
 
   /// Icon for file-document-edit-outline.
   static const fileDocumentEditOutline = MdiIconData(0xF0DC9);
+
+  /// Icon for file-document-minus.
+  static const fileDocumentMinus = MdiIconData(0xF1A9B);
+
+  /// Icon for file-document-minus-outline.
+  static const fileDocumentMinusOutline = MdiIconData(0xF1A9C);
 
   /// Icon for file-document-multiple.
   static const fileDocumentMultiple = MdiIconData(0xF1517);
@@ -6882,6 +8253,18 @@ class Mdi {
 
   /// Icon for file-document-outline.
   static const fileDocumentOutline = MdiIconData(0xF09EE);
+
+  /// Icon for file-document-plus.
+  static const fileDocumentPlus = MdiIconData(0xF1A9D);
+
+  /// Icon for file-document-plus-outline.
+  static const fileDocumentPlusOutline = MdiIconData(0xF1A9E);
+
+  /// Icon for file-document-remove.
+  static const fileDocumentRemove = MdiIconData(0xF1A9F);
+
+  /// Icon for file-document-remove-outline.
+  static const fileDocumentRemoveOutline = MdiIconData(0xF1AA0);
 
   /// Icon for file-download.
   static const fileDownload = MdiIconData(0xF0965);
@@ -6925,20 +8308,50 @@ class Mdi {
   /// Icon for file-find-outline.
   static const fileFindOutline = MdiIconData(0xF0B97);
 
+  /// Icon for file-gif-box.
+  static const fileGifBox = MdiIconData(0xF0D78);
+
   /// Icon for file-hidden.
   static const fileHidden = MdiIconData(0xF0613);
 
   /// Icon for file-image.
   static const fileImage = MdiIconData(0xF021F);
 
+  /// Icon for file-image-marker.
+  static const fileImageMarker = MdiIconData(0xF1772);
+
+  /// Icon for file-image-marker-outline.
+  static const fileImageMarkerOutline = MdiIconData(0xF1773);
+
+  /// Icon for file-image-minus.
+  static const fileImageMinus = MdiIconData(0xF193B);
+
+  /// Icon for file-image-minus-outline.
+  static const fileImageMinusOutline = MdiIconData(0xF193C);
+
   /// Icon for file-image-outline.
   static const fileImageOutline = MdiIconData(0xF0EB0);
+
+  /// Icon for file-image-plus.
+  static const fileImagePlus = MdiIconData(0xF193D);
+
+  /// Icon for file-image-plus-outline.
+  static const fileImagePlusOutline = MdiIconData(0xF193E);
+
+  /// Icon for file-image-remove.
+  static const fileImageRemove = MdiIconData(0xF193F);
+
+  /// Icon for file-image-remove-outline.
+  static const fileImageRemoveOutline = MdiIconData(0xF1940);
 
   /// Icon for file-import.
   static const fileImport = MdiIconData(0xF0220);
 
   /// Icon for file-import-outline.
   static const fileImportOutline = MdiIconData(0xF102F);
+
+  /// Icon for file-jpg-box.
+  static const fileJpgBox = MdiIconData(0xF0225);
 
   /// Icon for file-key.
   static const fileKey = MdiIconData(0xF1184);
@@ -6955,8 +8368,26 @@ class Mdi {
   /// Icon for file-lock.
   static const fileLock = MdiIconData(0xF0221);
 
+  /// Icon for file-lock-open.
+  static const fileLockOpen = MdiIconData(0xF19C8);
+
+  /// Icon for file-lock-open-outline.
+  static const fileLockOpenOutline = MdiIconData(0xF19C9);
+
   /// Icon for file-lock-outline.
   static const fileLockOutline = MdiIconData(0xF1030);
+
+  /// Icon for file-marker.
+  static const fileMarker = MdiIconData(0xF1774);
+
+  /// Icon for file-marker-outline.
+  static const fileMarkerOutline = MdiIconData(0xF1775);
+
+  /// Icon for file-minus.
+  static const fileMinus = MdiIconData(0xF1AA1);
+
+  /// Icon for file-minus-outline.
+  static const fileMinusOutline = MdiIconData(0xF1AA2);
 
   /// Icon for file-move.
   static const fileMove = MdiIconData(0xF0AB9);
@@ -6979,17 +8410,8 @@ class Mdi {
   /// Icon for file-outline.
   static const fileOutline = MdiIconData(0xF0224);
 
-  /// Icon for file-pdf.
-  static const filePdf = MdiIconData(0xF0225);
-
   /// Icon for file-pdf-box.
   static const filePdfBox = MdiIconData(0xF0226);
-
-  /// Icon for file-pdf-box-outline.
-  static const filePdfBoxOutline = MdiIconData(0xF0FB3);
-
-  /// Icon for file-pdf-outline.
-  static const filePdfOutline = MdiIconData(0xF0E2D);
 
   /// Icon for file-percent.
   static const filePercent = MdiIconData(0xF081E);
@@ -7008,6 +8430,9 @@ class Mdi {
 
   /// Icon for file-plus-outline.
   static const filePlusOutline = MdiIconData(0xF0EED);
+
+  /// Icon for file-png-box.
+  static const filePngBox = MdiIconData(0xF0E2D);
 
   /// Icon for file-powerpoint.
   static const filePowerpoint = MdiIconData(0xF0227);
@@ -7054,6 +8479,18 @@ class Mdi {
   /// Icon for file-restore-outline.
   static const fileRestoreOutline = MdiIconData(0xF1038);
 
+  /// Icon for file-rotate-left.
+  static const fileRotateLeft = MdiIconData(0xF1A3B);
+
+  /// Icon for file-rotate-left-outline.
+  static const fileRotateLeftOutline = MdiIconData(0xF1A3C);
+
+  /// Icon for file-rotate-right.
+  static const fileRotateRight = MdiIconData(0xF1A3D);
+
+  /// Icon for file-rotate-right-outline.
+  static const fileRotateRightOutline = MdiIconData(0xF1A3E);
+
   /// Icon for file-search.
   static const fileSearch = MdiIconData(0xF0C7C);
 
@@ -7071,6 +8508,9 @@ class Mdi {
 
   /// Icon for file-settings-outline.
   static const fileSettingsOutline = MdiIconData(0xF107A);
+
+  /// Icon for file-sign.
+  static const fileSign = MdiIconData(0xF19C3);
 
   /// Icon for file-star.
   static const fileStar = MdiIconData(0xF103A);
@@ -7144,6 +8584,9 @@ class Mdi {
   /// Icon for file-word-outline.
   static const fileWordOutline = MdiIconData(0xF103E);
 
+  /// Icon for file-xml-box.
+  static const fileXmlBox = MdiIconData(0xF1B4B);
+
   /// Icon for film.
   static const film = MdiIconData(0xF022F);
 
@@ -7162,6 +8605,18 @@ class Mdi {
   /// Icon for filter.
   static const filter = MdiIconData(0xF0232);
 
+  /// Icon for filter-check.
+  static const filterCheck = MdiIconData(0xF18EC);
+
+  /// Icon for filter-check-outline.
+  static const filterCheckOutline = MdiIconData(0xF18ED);
+
+  /// Icon for filter-cog.
+  static const filterCog = MdiIconData(0xF1AA3);
+
+  /// Icon for filter-cog-outline.
+  static const filterCogOutline = MdiIconData(0xF1AA4);
+
   /// Icon for filter-menu.
   static const filterMenu = MdiIconData(0xF10E5);
 
@@ -7173,6 +8628,12 @@ class Mdi {
 
   /// Icon for filter-minus-outline.
   static const filterMinusOutline = MdiIconData(0xF0EEF);
+
+  /// Icon for filter-multiple.
+  static const filterMultiple = MdiIconData(0xF1A3F);
+
+  /// Icon for filter-multiple-outline.
+  static const filterMultipleOutline = MdiIconData(0xF1A40);
 
   /// Icon for filter-off.
   static const filterOff = MdiIconData(0xF14EF);
@@ -7194,6 +8655,12 @@ class Mdi {
 
   /// Icon for filter-remove-outline.
   static const filterRemoveOutline = MdiIconData(0xF0235);
+
+  /// Icon for filter-settings.
+  static const filterSettings = MdiIconData(0xF1AA5);
+
+  /// Icon for filter-settings-outline.
+  static const filterSettingsOutline = MdiIconData(0xF1AA6);
 
   /// Icon for filter-variant.
   static const filterVariant = MdiIconData(0xF0236);
@@ -7225,6 +8692,9 @@ class Mdi {
   /// Icon for fire-alert.
   static const fireAlert = MdiIconData(0xF15D7);
 
+  /// Icon for fire-circle.
+  static const fireCircle = MdiIconData(0xF1807);
+
   /// Icon for fire-extinguisher.
   static const fireExtinguisher = MdiIconData(0xF0EF2);
 
@@ -7236,6 +8706,9 @@ class Mdi {
 
   /// Icon for fire-hydrant-off.
   static const fireHydrantOff = MdiIconData(0xF1139);
+
+  /// Icon for fire-off.
+  static const fireOff = MdiIconData(0xF1722);
 
   /// Icon for fire-truck.
   static const fireTruck = MdiIconData(0xF08AB);
@@ -7252,8 +8725,14 @@ class Mdi {
   /// Icon for fireplace-off.
   static const fireplaceOff = MdiIconData(0xF0E2F);
 
+  /// Icon for firewire.
+  static const firewire = MdiIconData(0xF05BE);
+
   /// Icon for firework.
   static const firework = MdiIconData(0xF0E30);
+
+  /// Icon for firework-off.
+  static const fireworkOff = MdiIconData(0xF1723);
 
   /// Icon for fish.
   static const fish = MdiIconData(0xF023A);
@@ -7273,6 +8752,12 @@ class Mdi {
   /// Icon for fit-to-page-outline.
   static const fitToPageOutline = MdiIconData(0xF0EF6);
 
+  /// Icon for fit-to-screen.
+  static const fitToScreen = MdiIconData(0xF18F4);
+
+  /// Icon for fit-to-screen-outline.
+  static const fitToScreenOutline = MdiIconData(0xF18F5);
+
   /// Icon for flag.
   static const flag = MdiIconData(0xF023B);
 
@@ -7284,6 +8769,12 @@ class Mdi {
 
   /// Icon for flag-minus-outline.
   static const flagMinusOutline = MdiIconData(0xF10B2);
+
+  /// Icon for flag-off.
+  static const flagOff = MdiIconData(0xF18EE);
+
+  /// Icon for flag-off-outline.
+  static const flagOffOutline = MdiIconData(0xF18EF);
 
   /// Icon for flag-outline.
   static const flagOutline = MdiIconData(0xF023D);
@@ -7306,8 +8797,32 @@ class Mdi {
   /// Icon for flag-variant.
   static const flagVariant = MdiIconData(0xF0240);
 
+  /// Icon for flag-variant-minus.
+  static const flagVariantMinus = MdiIconData(0xF1BB4);
+
+  /// Icon for flag-variant-minus-outline.
+  static const flagVariantMinusOutline = MdiIconData(0xF1BB5);
+
+  /// Icon for flag-variant-off.
+  static const flagVariantOff = MdiIconData(0xF1BB0);
+
+  /// Icon for flag-variant-off-outline.
+  static const flagVariantOffOutline = MdiIconData(0xF1BB1);
+
   /// Icon for flag-variant-outline.
   static const flagVariantOutline = MdiIconData(0xF023E);
+
+  /// Icon for flag-variant-plus.
+  static const flagVariantPlus = MdiIconData(0xF1BB2);
+
+  /// Icon for flag-variant-plus-outline.
+  static const flagVariantPlusOutline = MdiIconData(0xF1BB3);
+
+  /// Icon for flag-variant-remove.
+  static const flagVariantRemove = MdiIconData(0xF1BB6);
+
+  /// Icon for flag-variant-remove-outline.
+  static const flagVariantRemoveOutline = MdiIconData(0xF1BB7);
 
   /// Icon for flare.
   static const flare = MdiIconData(0xF0D72);
@@ -7324,17 +8839,23 @@ class Mdi {
   /// Icon for flash-auto.
   static const flashAuto = MdiIconData(0xF0242);
 
-  /// Icon for flash-circle.
-  static const flashCircle = MdiIconData(0xF0820);
-
   /// Icon for flash-off.
   static const flashOff = MdiIconData(0xF0243);
+
+  /// Icon for flash-off-outline.
+  static const flashOffOutline = MdiIconData(0xF1B45);
 
   /// Icon for flash-outline.
   static const flashOutline = MdiIconData(0xF06D5);
 
   /// Icon for flash-red-eye.
   static const flashRedEye = MdiIconData(0xF067B);
+
+  /// Icon for flash-triangle.
+  static const flashTriangle = MdiIconData(0xF1B1D);
+
+  /// Icon for flash-triangle-outline.
+  static const flashTriangleOutline = MdiIconData(0xF1B1E);
 
   /// Icon for flashlight.
   static const flashlight = MdiIconData(0xF0244);
@@ -7435,8 +8956,23 @@ class Mdi {
   /// Icon for floor-lamp-dual.
   static const floorLampDual = MdiIconData(0xF1040);
 
-  /// Icon for floor-lamp-variant.
-  static const floorLampVariant = MdiIconData(0xF1041);
+  /// Icon for floor-lamp-dual-outline.
+  static const floorLampDualOutline = MdiIconData(0xF17CE);
+
+  /// Icon for floor-lamp-outline.
+  static const floorLampOutline = MdiIconData(0xF17C8);
+
+  /// Icon for floor-lamp-torchiere.
+  static const floorLampTorchiere = MdiIconData(0xF1747);
+
+  /// Icon for floor-lamp-torchiere-outline.
+  static const floorLampTorchiereOutline = MdiIconData(0xF17D6);
+
+  /// Icon for floor-lamp-torchiere-variant.
+  static const floorLampTorchiereVariant = MdiIconData(0xF1041);
+
+  /// Icon for floor-lamp-torchiere-variant-outline.
+  static const floorLampTorchiereVariantOutline = MdiIconData(0xF17CF);
 
   /// Icon for floor-plan.
   static const floorPlan = MdiIconData(0xF0821);
@@ -7452,6 +8988,12 @@ class Mdi {
 
   /// Icon for flower-outline.
   static const flowerOutline = MdiIconData(0xF09F0);
+
+  /// Icon for flower-pollen.
+  static const flowerPollen = MdiIconData(0xF1885);
+
+  /// Icon for flower-pollen-outline.
+  static const flowerPollenOutline = MdiIconData(0xF1886);
 
   /// Icon for flower-poppy.
   static const flowerPoppy = MdiIconData(0xF0D08);
@@ -7489,6 +9031,54 @@ class Mdi {
   /// Icon for folder-alert-outline.
   static const folderAlertOutline = MdiIconData(0xF0DCD);
 
+  /// Icon for folder-arrow-down.
+  static const folderArrowDown = MdiIconData(0xF19E8);
+
+  /// Icon for folder-arrow-down-outline.
+  static const folderArrowDownOutline = MdiIconData(0xF19E9);
+
+  /// Icon for folder-arrow-left.
+  static const folderArrowLeft = MdiIconData(0xF19EA);
+
+  /// Icon for folder-arrow-left-outline.
+  static const folderArrowLeftOutline = MdiIconData(0xF19EB);
+
+  /// Icon for folder-arrow-left-right.
+  static const folderArrowLeftRight = MdiIconData(0xF19EC);
+
+  /// Icon for folder-arrow-left-right-outline.
+  static const folderArrowLeftRightOutline = MdiIconData(0xF19ED);
+
+  /// Icon for folder-arrow-right.
+  static const folderArrowRight = MdiIconData(0xF19EE);
+
+  /// Icon for folder-arrow-right-outline.
+  static const folderArrowRightOutline = MdiIconData(0xF19EF);
+
+  /// Icon for folder-arrow-up.
+  static const folderArrowUp = MdiIconData(0xF19F0);
+
+  /// Icon for folder-arrow-up-down.
+  static const folderArrowUpDown = MdiIconData(0xF19F1);
+
+  /// Icon for folder-arrow-up-down-outline.
+  static const folderArrowUpDownOutline = MdiIconData(0xF19F2);
+
+  /// Icon for folder-arrow-up-outline.
+  static const folderArrowUpOutline = MdiIconData(0xF19F3);
+
+  /// Icon for folder-cancel.
+  static const folderCancel = MdiIconData(0xF19F4);
+
+  /// Icon for folder-cancel-outline.
+  static const folderCancelOutline = MdiIconData(0xF19F5);
+
+  /// Icon for folder-check.
+  static const folderCheck = MdiIconData(0xF197E);
+
+  /// Icon for folder-check-outline.
+  static const folderCheckOutline = MdiIconData(0xF197F);
+
   /// Icon for folder-clock.
   static const folderClock = MdiIconData(0xF0ABA);
 
@@ -7513,6 +9103,18 @@ class Mdi {
   /// Icon for folder-edit-outline.
   static const folderEditOutline = MdiIconData(0xF0DCE);
 
+  /// Icon for folder-eye.
+  static const folderEye = MdiIconData(0xF178A);
+
+  /// Icon for folder-eye-outline.
+  static const folderEyeOutline = MdiIconData(0xF178B);
+
+  /// Icon for folder-file.
+  static const folderFile = MdiIconData(0xF19F6);
+
+  /// Icon for folder-file-outline.
+  static const folderFileOutline = MdiIconData(0xF19F7);
+
   /// Icon for folder-google-drive.
   static const folderGoogleDrive = MdiIconData(0xF024E);
 
@@ -7521,6 +9123,9 @@ class Mdi {
 
   /// Icon for folder-heart-outline.
   static const folderHeartOutline = MdiIconData(0xF10EB);
+
+  /// Icon for folder-hidden.
+  static const folderHidden = MdiIconData(0xF179E);
 
   /// Icon for folder-home.
   static const folderHome = MdiIconData(0xF10B5);
@@ -7555,11 +9160,23 @@ class Mdi {
   /// Icon for folder-lock-open.
   static const folderLockOpen = MdiIconData(0xF0251);
 
+  /// Icon for folder-lock-open-outline.
+  static const folderLockOpenOutline = MdiIconData(0xF1AA7);
+
+  /// Icon for folder-lock-outline.
+  static const folderLockOutline = MdiIconData(0xF1AA8);
+
   /// Icon for folder-marker.
   static const folderMarker = MdiIconData(0xF126D);
 
   /// Icon for folder-marker-outline.
   static const folderMarkerOutline = MdiIconData(0xF126E);
+
+  /// Icon for folder-minus.
+  static const folderMinus = MdiIconData(0xF1B49);
+
+  /// Icon for folder-minus-outline.
+  static const folderMinusOutline = MdiIconData(0xF1B4A);
 
   /// Icon for folder-move.
   static const folderMove = MdiIconData(0xF0252);
@@ -7594,6 +9211,12 @@ class Mdi {
   /// Icon for folder-network-outline.
   static const folderNetworkOutline = MdiIconData(0xF0C81);
 
+  /// Icon for folder-off.
+  static const folderOff = MdiIconData(0xF19F8);
+
+  /// Icon for folder-off-outline.
+  static const folderOffOutline = MdiIconData(0xF19F9);
+
   /// Icon for folder-open.
   static const folderOpen = MdiIconData(0xF0770);
 
@@ -7602,6 +9225,12 @@ class Mdi {
 
   /// Icon for folder-outline.
   static const folderOutline = MdiIconData(0xF0256);
+
+  /// Icon for folder-play.
+  static const folderPlay = MdiIconData(0xF19FA);
+
+  /// Icon for folder-play-outline.
+  static const folderPlayOutline = MdiIconData(0xF19FB);
 
   /// Icon for folder-plus.
   static const folderPlus = MdiIconData(0xF0257);
@@ -7614,6 +9243,12 @@ class Mdi {
 
   /// Icon for folder-pound-outline.
   static const folderPoundOutline = MdiIconData(0xF0D0A);
+
+  /// Icon for folder-question.
+  static const folderQuestion = MdiIconData(0xF19CA);
+
+  /// Icon for folder-question-outline.
+  static const folderQuestionOutline = MdiIconData(0xF19CB);
 
   /// Icon for folder-refresh.
   static const folderRefresh = MdiIconData(0xF0749);
@@ -7681,6 +9316,12 @@ class Mdi {
   /// Icon for folder-upload-outline.
   static const folderUploadOutline = MdiIconData(0xF10ED);
 
+  /// Icon for folder-wrench.
+  static const folderWrench = MdiIconData(0xF19FC);
+
+  /// Icon for folder-wrench-outline.
+  static const folderWrenchOutline = MdiIconData(0xF19FD);
+
   /// Icon for folder-zip.
   static const folderZip = MdiIconData(0xF06EB);
 
@@ -7720,17 +9361,35 @@ class Mdi {
   /// Icon for food-halal.
   static const foodHalal = MdiIconData(0xF1572);
 
+  /// Icon for food-hot-dog.
+  static const foodHotDog = MdiIconData(0xF184B);
+
   /// Icon for food-kosher.
   static const foodKosher = MdiIconData(0xF1573);
 
   /// Icon for food-off.
   static const foodOff = MdiIconData(0xF05F3);
 
+  /// Icon for food-off-outline.
+  static const foodOffOutline = MdiIconData(0xF1915);
+
+  /// Icon for food-outline.
+  static const foodOutline = MdiIconData(0xF1916);
+
   /// Icon for food-steak.
   static const foodSteak = MdiIconData(0xF146A);
 
   /// Icon for food-steak-off.
   static const foodSteakOff = MdiIconData(0xF146B);
+
+  /// Icon for food-takeout-box.
+  static const foodTakeoutBox = MdiIconData(0xF1836);
+
+  /// Icon for food-takeout-box-outline.
+  static const foodTakeoutBoxOutline = MdiIconData(0xF1837);
+
+  /// Icon for food-turkey.
+  static const foodTurkey = MdiIconData(0xF171C);
 
   /// Icon for food-variant.
   static const foodVariant = MdiIconData(0xF025C);
@@ -7749,6 +9408,9 @@ class Mdi {
 
   /// Icon for football-helmet.
   static const footballHelmet = MdiIconData(0xF025F);
+
+  /// Icon for forest.
+  static const forest = MdiIconData(0xF1897);
 
   /// Icon for forklift.
   static const forklift = MdiIconData(0xF07C9);
@@ -7903,8 +9565,17 @@ class Mdi {
   /// Icon for format-letter-matches.
   static const formatLetterMatches = MdiIconData(0xF0FB9);
 
+  /// Icon for format-letter-spacing.
+  static const formatLetterSpacing = MdiIconData(0xF1956);
+
+  /// Icon for format-letter-spacing-variant.
+  static const formatLetterSpacingVariant = MdiIconData(0xF1AFB);
+
   /// Icon for format-letter-starts-with.
   static const formatLetterStartsWith = MdiIconData(0xF0FBA);
+
+  /// Icon for format-line-height.
+  static const formatLineHeight = MdiIconData(0xF1AFC);
 
   /// Icon for format-line-spacing.
   static const formatLineSpacing = MdiIconData(0xF0278);
@@ -7933,6 +9604,12 @@ class Mdi {
   /// Icon for format-list-checks.
   static const formatListChecks = MdiIconData(0xF0756);
 
+  /// Icon for format-list-group.
+  static const formatListGroup = MdiIconData(0xF1860);
+
+  /// Icon for format-list-group-plus.
+  static const formatListGroupPlus = MdiIconData(0xF1B56);
+
   /// Icon for format-list-numbered.
   static const formatListNumbered = MdiIconData(0xF027B);
 
@@ -7948,14 +9625,26 @@ class Mdi {
   /// Icon for format-page-break.
   static const formatPageBreak = MdiIconData(0xF06D7);
 
+  /// Icon for format-page-split.
+  static const formatPageSplit = MdiIconData(0xF1917);
+
   /// Icon for format-paint.
   static const formatPaint = MdiIconData(0xF027C);
 
   /// Icon for format-paragraph.
   static const formatParagraph = MdiIconData(0xF027D);
 
+  /// Icon for format-paragraph-spacing.
+  static const formatParagraphSpacing = MdiIconData(0xF1AFD);
+
   /// Icon for format-pilcrow.
   static const formatPilcrow = MdiIconData(0xF06D8);
+
+  /// Icon for format-pilcrow-arrow-left.
+  static const formatPilcrowArrowLeft = MdiIconData(0xF0286);
+
+  /// Icon for format-pilcrow-arrow-right.
+  static const formatPilcrowArrowRight = MdiIconData(0xF0285);
 
   /// Icon for format-quote-close.
   static const formatQuoteClose = MdiIconData(0xF027E);
@@ -8032,17 +9721,14 @@ class Mdi {
   /// Icon for format-textbox.
   static const formatTextbox = MdiIconData(0xF0D11);
 
-  /// Icon for format-textdirection-l-to-r.
-  static const formatTextdirectionLToR = MdiIconData(0xF0285);
-
-  /// Icon for format-textdirection-r-to-l.
-  static const formatTextdirectionRToL = MdiIconData(0xF0286);
-
   /// Icon for format-title.
   static const formatTitle = MdiIconData(0xF05F4);
 
   /// Icon for format-underline.
   static const formatUnderline = MdiIconData(0xF0287);
+
+  /// Icon for format-underline-wavy.
+  static const formatUnderlineWavy = MdiIconData(0xF18E9);
 
   /// Icon for format-vertical-align-bottom.
   static const formatVerticalAlignBottom = MdiIconData(0xF0621);
@@ -8068,8 +9754,26 @@ class Mdi {
   /// Icon for forum.
   static const forum = MdiIconData(0xF028C);
 
+  /// Icon for forum-minus.
+  static const forumMinus = MdiIconData(0xF1AA9);
+
+  /// Icon for forum-minus-outline.
+  static const forumMinusOutline = MdiIconData(0xF1AAA);
+
   /// Icon for forum-outline.
   static const forumOutline = MdiIconData(0xF0822);
+
+  /// Icon for forum-plus.
+  static const forumPlus = MdiIconData(0xF1AAB);
+
+  /// Icon for forum-plus-outline.
+  static const forumPlusOutline = MdiIconData(0xF1AAC);
+
+  /// Icon for forum-remove.
+  static const forumRemove = MdiIconData(0xF1AAD);
+
+  /// Icon for forum-remove-outline.
+  static const forumRemoveOutline = MdiIconData(0xF1AAE);
 
   /// Icon for forward.
   static const forward = MdiIconData(0xF028D);
@@ -8086,8 +9790,14 @@ class Mdi {
   /// Icon for fountain-pen-tip.
   static const fountainPenTip = MdiIconData(0xF0D13);
 
+  /// Icon for fraction-one-half.
+  static const fractionOneHalf = MdiIconData(0xF1992);
+
   /// Icon for freebsd.
   static const freebsd = MdiIconData(0xF08E0);
+
+  /// Icon for french-fries.
+  static const frenchFries = MdiIconData(0xF1957);
 
   /// Icon for frequently-asked-questions.
   static const frequentlyAskedQuestions = MdiIconData(0xF0EB4);
@@ -8170,6 +9880,9 @@ class Mdi {
   /// Icon for fruit-grapes-outline.
   static const fruitGrapesOutline = MdiIconData(0xF1045);
 
+  /// Icon for fruit-pear.
+  static const fruitPear = MdiIconData(0xF1A0E);
+
   /// Icon for fruit-pineapple.
   static const fruitPineapple = MdiIconData(0xF1046);
 
@@ -8178,6 +9891,9 @@ class Mdi {
 
   /// Icon for fuel.
   static const fuel = MdiIconData(0xF07CA);
+
+  /// Icon for fuel-cell.
+  static const fuelCell = MdiIconData(0xF18B5);
 
   /// Icon for fullscreen.
   static const fullscreen = MdiIconData(0xF0293);
@@ -8236,6 +9952,9 @@ class Mdi {
   /// Icon for gamepad-left.
   static const gamepadLeft = MdiIconData(0xF0E3A);
 
+  /// Icon for gamepad-outline.
+  static const gamepadOutline = MdiIconData(0xF1919);
+
   /// Icon for gamepad-right.
   static const gamepadRight = MdiIconData(0xF0E3B);
 
@@ -8287,6 +10006,9 @@ class Mdi {
   /// Icon for garage-alert-variant.
   static const garageAlertVariant = MdiIconData(0xF12D5);
 
+  /// Icon for garage-lock.
+  static const garageLock = MdiIconData(0xF17FB);
+
   /// Icon for garage-open.
   static const garageOpen = MdiIconData(0xF06DA);
 
@@ -8295,6 +10017,12 @@ class Mdi {
 
   /// Icon for garage-variant.
   static const garageVariant = MdiIconData(0xF12D3);
+
+  /// Icon for garage-variant-lock.
+  static const garageVariantLock = MdiIconData(0xF17FC);
+
+  /// Icon for gas-burner.
+  static const gasBurner = MdiIconData(0xF1A1B);
 
   /// Icon for gas-cylinder.
   static const gasCylinder = MdiIconData(0xF0647);
@@ -8314,11 +10042,20 @@ class Mdi {
   /// Icon for gate.
   static const gate = MdiIconData(0xF0299);
 
+  /// Icon for gate-alert.
+  static const gateAlert = MdiIconData(0xF17F8);
+
   /// Icon for gate-and.
   static const gateAnd = MdiIconData(0xF08E1);
 
+  /// Icon for gate-arrow-left.
+  static const gateArrowLeft = MdiIconData(0xF17F7);
+
   /// Icon for gate-arrow-right.
   static const gateArrowRight = MdiIconData(0xF1169);
+
+  /// Icon for gate-buffer.
+  static const gateBuffer = MdiIconData(0xF1AFE);
 
   /// Icon for gate-nand.
   static const gateNand = MdiIconData(0xF08E2);
@@ -8443,11 +10180,20 @@ class Mdi {
   /// Icon for ghost-outline.
   static const ghostOutline = MdiIconData(0xF165D);
 
-  /// Icon for gif.
-  static const gif = MdiIconData(0xF0D78);
-
   /// Icon for gift.
   static const gift = MdiIconData(0xF0E44);
+
+  /// Icon for gift-off.
+  static const giftOff = MdiIconData(0xF16EF);
+
+  /// Icon for gift-off-outline.
+  static const giftOffOutline = MdiIconData(0xF16F0);
+
+  /// Icon for gift-open.
+  static const giftOpen = MdiIconData(0xF16F1);
+
+  /// Icon for gift-open-outline.
+  static const giftOpenOutline = MdiIconData(0xF16F2);
 
   /// Icon for gift-outline.
   static const giftOutline = MdiIconData(0xF02A1);
@@ -8469,6 +10215,9 @@ class Mdi {
 
   /// Icon for glass-flute.
   static const glassFlute = MdiIconData(0xF02A5);
+
+  /// Icon for glass-fragile.
+  static const glassFragile = MdiIconData(0xF1873);
 
   /// Icon for glass-mug.
   static const glassMug = MdiIconData(0xF02A6);
@@ -8498,7 +10247,10 @@ class Mdi {
   static const glasses = MdiIconData(0xF02AA);
 
   /// Icon for globe-light.
-  static const globeLight = MdiIconData(0xF12D7);
+  static const globeLight = MdiIconData(0xF066F);
+
+  /// Icon for globe-light-outline.
+  static const globeLightOutline = MdiIconData(0xF12D7);
 
   /// Icon for globe-model.
   static const globeModel = MdiIconData(0xF08E9);
@@ -8572,12 +10324,6 @@ class Mdi {
   /// Icon for google-cloud.
   static const googleCloud = MdiIconData(0xF11F6);
 
-  /// Icon for google-controller.
-  static const googleController = MdiIconData(0xF02B4);
-
-  /// Icon for google-controller-off.
-  static const googleControllerOff = MdiIconData(0xF02B5);
-
   /// Icon for google-downasaur.
   static const googleDownasaur = MdiIconData(0xF1362);
 
@@ -8596,9 +10342,6 @@ class Mdi {
   /// Icon for google-hangouts.
   static const googleHangouts = MdiIconData(0xF02C9);
 
-  /// Icon for google-home.
-  static const googleHome = MdiIconData(0xF0824);
-
   /// Icon for google-keep.
   static const googleKeep = MdiIconData(0xF06DC);
 
@@ -8613,9 +10356,6 @@ class Mdi {
 
   /// Icon for google-nearby.
   static const googleNearby = MdiIconData(0xF02B9);
-
-  /// Icon for google-photos.
-  static const googlePhotos = MdiIconData(0xF06DD);
 
   /// Icon for google-play.
   static const googlePlay = MdiIconData(0xF02BC);
@@ -8635,8 +10375,11 @@ class Mdi {
   /// Icon for google-translate.
   static const googleTranslate = MdiIconData(0xF02BF);
 
-  /// Icon for gradient.
-  static const gradient = MdiIconData(0xF06A0);
+  /// Icon for gradient-horizontal.
+  static const gradientHorizontal = MdiIconData(0xF174A);
+
+  /// Icon for gradient-vertical.
+  static const gradientVertical = MdiIconData(0xF06A0);
 
   /// Icon for grain.
   static const grain = MdiIconData(0xF0D7C);
@@ -8664,6 +10407,9 @@ class Mdi {
 
   /// Icon for greater-than-or-equal.
   static const greaterThanOrEqual = MdiIconData(0xF096E);
+
+  /// Icon for greenhouse.
+  static const greenhouse = MdiIconData(0xF002D);
 
   /// Icon for grid.
   static const grid = MdiIconData(0xF02C1);
@@ -8698,6 +10444,9 @@ class Mdi {
   /// Icon for guy-fawkes-mask.
   static const guyFawkesMask = MdiIconData(0xF0825);
 
+  /// Icon for gymnastics.
+  static const gymnastics = MdiIconData(0xF1A41);
+
   /// Icon for hail.
   static const hail = MdiIconData(0xF0AC1);
 
@@ -8713,26 +10462,95 @@ class Mdi {
   /// Icon for hamburger.
   static const hamburger = MdiIconData(0xF0685);
 
+  /// Icon for hamburger-check.
+  static const hamburgerCheck = MdiIconData(0xF1776);
+
+  /// Icon for hamburger-minus.
+  static const hamburgerMinus = MdiIconData(0xF1777);
+
+  /// Icon for hamburger-off.
+  static const hamburgerOff = MdiIconData(0xF1778);
+
+  /// Icon for hamburger-plus.
+  static const hamburgerPlus = MdiIconData(0xF1779);
+
+  /// Icon for hamburger-remove.
+  static const hamburgerRemove = MdiIconData(0xF177A);
+
   /// Icon for hammer.
   static const hammer = MdiIconData(0xF08EA);
 
   /// Icon for hammer-screwdriver.
   static const hammerScrewdriver = MdiIconData(0xF1322);
 
+  /// Icon for hammer-sickle.
+  static const hammerSickle = MdiIconData(0xF1887);
+
   /// Icon for hammer-wrench.
   static const hammerWrench = MdiIconData(0xF1323);
 
-  /// Icon for hand.
-  static const hand = MdiIconData(0xF0A4F);
+  /// Icon for hand-back-left.
+  static const handBackLeft = MdiIconData(0xF0E46);
+
+  /// Icon for hand-back-left-off.
+  static const handBackLeftOff = MdiIconData(0xF1830);
+
+  /// Icon for hand-back-left-off-outline.
+  static const handBackLeftOffOutline = MdiIconData(0xF1832);
+
+  /// Icon for hand-back-left-outline.
+  static const handBackLeftOutline = MdiIconData(0xF182C);
+
+  /// Icon for hand-back-right.
+  static const handBackRight = MdiIconData(0xF0E47);
+
+  /// Icon for hand-back-right-off.
+  static const handBackRightOff = MdiIconData(0xF1831);
+
+  /// Icon for hand-back-right-off-outline.
+  static const handBackRightOffOutline = MdiIconData(0xF1833);
+
+  /// Icon for hand-back-right-outline.
+  static const handBackRightOutline = MdiIconData(0xF182D);
+
+  /// Icon for hand-clap.
+  static const handClap = MdiIconData(0xF194B);
+
+  /// Icon for hand-clap-off.
+  static const handClapOff = MdiIconData(0xF1A42);
+
+  /// Icon for hand-coin.
+  static const handCoin = MdiIconData(0xF188F);
+
+  /// Icon for hand-coin-outline.
+  static const handCoinOutline = MdiIconData(0xF1890);
+
+  /// Icon for hand-cycle.
+  static const handCycle = MdiIconData(0xF1B9C);
+
+  /// Icon for hand-extended.
+  static const handExtended = MdiIconData(0xF18B6);
+
+  /// Icon for hand-extended-outline.
+  static const handExtendedOutline = MdiIconData(0xF18B7);
+
+  /// Icon for hand-front-left.
+  static const handFrontLeft = MdiIconData(0xF182B);
+
+  /// Icon for hand-front-left-outline.
+  static const handFrontLeftOutline = MdiIconData(0xF182E);
+
+  /// Icon for hand-front-right.
+  static const handFrontRight = MdiIconData(0xF0A4F);
+
+  /// Icon for hand-front-right-outline.
+  static const handFrontRightOutline = MdiIconData(0xF182F);
 
   /// Icon for hand-heart.
   static const handHeart = MdiIconData(0xF10F1);
 
   /// Icon for hand-heart-outline.
   static const handHeartOutline = MdiIconData(0xF157E);
-
-  /// Icon for hand-left.
-  static const handLeft = MdiIconData(0xF0E46);
 
   /// Icon for hand-okay.
   static const handOkay = MdiIconData(0xF0A50);
@@ -8755,9 +10573,6 @@ class Mdi {
   /// Icon for hand-pointing-up.
   static const handPointingUp = MdiIconData(0xF0A55);
 
-  /// Icon for hand-right.
-  static const handRight = MdiIconData(0xF0E47);
-
   /// Icon for hand-saw.
   static const handSaw = MdiIconData(0xF0E48);
 
@@ -8770,11 +10585,20 @@ class Mdi {
   /// Icon for hand-water.
   static const handWater = MdiIconData(0xF139F);
 
+  /// Icon for hand-wave.
+  static const handWave = MdiIconData(0xF1821);
+
+  /// Icon for hand-wave-outline.
+  static const handWaveOutline = MdiIconData(0xF1822);
+
   /// Icon for handball.
   static const handball = MdiIconData(0xF0F53);
 
   /// Icon for handcuffs.
   static const handcuffs = MdiIconData(0xF113E);
+
+  /// Icon for hands-pray.
+  static const handsPray = MdiIconData(0xF0579);
 
   /// Icon for handshake.
   static const handshake = MdiIconData(0xF1218);
@@ -8802,6 +10626,9 @@ class Mdi {
 
   /// Icon for hazard-lights.
   static const hazardLights = MdiIconData(0xF0C89);
+
+  /// Icon for hdmi-port.
+  static const hdmiPort = MdiIconData(0xF1BB8);
 
   /// Icon for hdr.
   static const hdr = MdiIconData(0xF0D7D);
@@ -8998,6 +10825,18 @@ class Mdi {
   /// Icon for heart-settings-outline.
   static const heartSettingsOutline = MdiIconData(0xF1666);
 
+  /// Icon for heat-pump.
+  static const heatPump = MdiIconData(0xF1A43);
+
+  /// Icon for heat-pump-outline.
+  static const heatPumpOutline = MdiIconData(0xF1A44);
+
+  /// Icon for heat-wave.
+  static const heatWave = MdiIconData(0xF1A45);
+
+  /// Icon for heating-coil.
+  static const heatingCoil = MdiIconData(0xF1AAF);
+
   /// Icon for helicopter.
   static const helicopter = MdiIconData(0xF0AC2);
 
@@ -9076,9 +10915,6 @@ class Mdi {
   /// Icon for hiking.
   static const hiking = MdiIconData(0xF0D7F);
 
-  /// Icon for hinduism.
-  static const hinduism = MdiIconData(0xF0973);
-
   /// Icon for history.
   static const history = MdiIconData(0xF02DA);
 
@@ -9112,6 +10948,12 @@ class Mdi {
   /// Icon for home-automation.
   static const homeAutomation = MdiIconData(0xF07D1);
 
+  /// Icon for home-battery.
+  static const homeBattery = MdiIconData(0xF1901);
+
+  /// Icon for home-battery-outline.
+  static const homeBatteryOutline = MdiIconData(0xF1902);
+
   /// Icon for home-circle.
   static const homeCircle = MdiIconData(0xF07D2);
 
@@ -9124,8 +10966,11 @@ class Mdi {
   /// Icon for home-city-outline.
   static const homeCityOutline = MdiIconData(0xF0D16);
 
-  /// Icon for home-currency-usd.
-  static const homeCurrencyUsd = MdiIconData(0xF08AF);
+  /// Icon for home-clock.
+  static const homeClock = MdiIconData(0xF1A12);
+
+  /// Icon for home-clock-outline.
+  static const homeClockOutline = MdiIconData(0xF1A13);
 
   /// Icon for home-edit.
   static const homeEdit = MdiIconData(0xF1159);
@@ -9169,6 +11014,15 @@ class Mdi {
   /// Icon for home-group.
   static const homeGroup = MdiIconData(0xF0DD4);
 
+  /// Icon for home-group-minus.
+  static const homeGroupMinus = MdiIconData(0xF19C1);
+
+  /// Icon for home-group-plus.
+  static const homeGroupPlus = MdiIconData(0xF19C0);
+
+  /// Icon for home-group-remove.
+  static const homeGroupRemove = MdiIconData(0xF19C2);
+
   /// Icon for home-heart.
   static const homeHeart = MdiIconData(0xF0827);
 
@@ -9180,6 +11034,12 @@ class Mdi {
 
   /// Icon for home-lightbulb-outline.
   static const homeLightbulbOutline = MdiIconData(0xF1252);
+
+  /// Icon for home-lightning-bolt.
+  static const homeLightningBolt = MdiIconData(0xF1903);
+
+  /// Icon for home-lightning-bolt-outline.
+  static const homeLightningBoltOutline = MdiIconData(0xF1904);
 
   /// Icon for home-lock.
   static const homeLock = MdiIconData(0xF08EB);
@@ -9198,6 +11058,12 @@ class Mdi {
 
   /// Icon for home-modern.
   static const homeModern = MdiIconData(0xF02DD);
+
+  /// Icon for home-off.
+  static const homeOff = MdiIconData(0xF1A46);
+
+  /// Icon for home-off-outline.
+  static const homeOffOutline = MdiIconData(0xF1A47);
 
   /// Icon for home-outline.
   static const homeOutline = MdiIconData(0xF06A1);
@@ -9223,6 +11089,18 @@ class Mdi {
   /// Icon for home-search-outline.
   static const homeSearchOutline = MdiIconData(0xF13B1);
 
+  /// Icon for home-silo.
+  static const homeSilo = MdiIconData(0xF1BA0);
+
+  /// Icon for home-silo-outline.
+  static const homeSiloOutline = MdiIconData(0xF1BA1);
+
+  /// Icon for home-switch.
+  static const homeSwitch = MdiIconData(0xF1794);
+
+  /// Icon for home-switch-outline.
+  static const homeSwitchOutline = MdiIconData(0xF1795);
+
   /// Icon for home-thermometer.
   static const homeThermometer = MdiIconData(0xF0F54);
 
@@ -9241,6 +11119,9 @@ class Mdi {
   /// Icon for hook-off.
   static const hookOff = MdiIconData(0xF06E3);
 
+  /// Icon for hoop-house.
+  static const hoopHouse = MdiIconData(0xF0E56);
+
   /// Icon for hops.
   static const hops = MdiIconData(0xF02DF);
 
@@ -9258,6 +11139,9 @@ class Mdi {
 
   /// Icon for horse-variant.
   static const horseVariant = MdiIconData(0xF15C1);
+
+  /// Icon for horse-variant-fast.
+  static const horseVariantFast = MdiIconData(0xF186E);
 
   /// Icon for horseshoe.
   static const horseshoe = MdiIconData(0xF0A58);
@@ -9307,6 +11191,9 @@ class Mdi {
   /// Icon for human-child.
   static const humanChild = MdiIconData(0xF02E7);
 
+  /// Icon for human-dolly.
+  static const humanDolly = MdiIconData(0xF1980);
+
   /// Icon for human-edit.
   static const humanEdit = MdiIconData(0xF14E8);
 
@@ -9326,10 +11213,13 @@ class Mdi {
   static const humanFemaleGirl = MdiIconData(0xF0A5B);
 
   /// Icon for human-greeting.
-  static const humanGreeting = MdiIconData(0xF064A);
+  static const humanGreeting = MdiIconData(0xF17C4);
 
   /// Icon for human-greeting-proximity.
   static const humanGreetingProximity = MdiIconData(0xF159D);
+
+  /// Icon for human-greeting-variant.
+  static const humanGreetingVariant = MdiIconData(0xF064A);
 
   /// Icon for human-handsdown.
   static const humanHandsdown = MdiIconData(0xF064B);
@@ -9340,6 +11230,12 @@ class Mdi {
   /// Icon for human-male.
   static const humanMale = MdiIconData(0xF064D);
 
+  /// Icon for human-male-board.
+  static const humanMaleBoard = MdiIconData(0xF0890);
+
+  /// Icon for human-male-board-poll.
+  static const humanMaleBoardPoll = MdiIconData(0xF0846);
+
   /// Icon for human-male-boy.
   static const humanMaleBoy = MdiIconData(0xF0A5C);
 
@@ -9348,6 +11244,9 @@ class Mdi {
 
   /// Icon for human-male-female.
   static const humanMaleFemale = MdiIconData(0xF02E8);
+
+  /// Icon for human-male-female-child.
+  static const humanMaleFemaleChild = MdiIconData(0xF1823);
 
   /// Icon for human-male-girl.
   static const humanMaleGirl = MdiIconData(0xF0A5D);
@@ -9361,6 +11260,9 @@ class Mdi {
   /// Icon for human-male-male.
   static const humanMaleMale = MdiIconData(0xF0A5E);
 
+  /// Icon for human-non-binary.
+  static const humanNonBinary = MdiIconData(0xF1848);
+
   /// Icon for human-pregnant.
   static const humanPregnant = MdiIconData(0xF05CF);
 
@@ -9370,8 +11272,14 @@ class Mdi {
   /// Icon for human-scooter.
   static const humanScooter = MdiIconData(0xF11E9);
 
+  /// Icon for human-walker.
+  static const humanWalker = MdiIconData(0xF1B71);
+
   /// Icon for human-wheelchair.
   static const humanWheelchair = MdiIconData(0xF138D);
+
+  /// Icon for human-white-cane.
+  static const humanWhiteCane = MdiIconData(0xF1981);
 
   /// Icon for humble-bundle.
   static const humbleBundle = MdiIconData(0xF0744);
@@ -9390,6 +11298,9 @@ class Mdi {
 
   /// Icon for hydro-power.
   static const hydroPower = MdiIconData(0xF12E5);
+
+  /// Icon for hydrogen-station.
+  static const hydrogenStation = MdiIconData(0xF1894);
 
   /// Icon for ice-cream.
   static const iceCream = MdiIconData(0xF082A);
@@ -9412,36 +11323,6 @@ class Mdi {
   /// Icon for ideogram-cjk-variant.
   static const ideogramCjkVariant = MdiIconData(0xF1332);
 
-  /// Icon for iframe.
-  static const iframe = MdiIconData(0xF0C8B);
-
-  /// Icon for iframe-array.
-  static const iframeArray = MdiIconData(0xF10F5);
-
-  /// Icon for iframe-array-outline.
-  static const iframeArrayOutline = MdiIconData(0xF10F6);
-
-  /// Icon for iframe-braces.
-  static const iframeBraces = MdiIconData(0xF10F7);
-
-  /// Icon for iframe-braces-outline.
-  static const iframeBracesOutline = MdiIconData(0xF10F8);
-
-  /// Icon for iframe-outline.
-  static const iframeOutline = MdiIconData(0xF0C8C);
-
-  /// Icon for iframe-parentheses.
-  static const iframeParentheses = MdiIconData(0xF10F9);
-
-  /// Icon for iframe-parentheses-outline.
-  static const iframeParenthesesOutline = MdiIconData(0xF10FA);
-
-  /// Icon for iframe-variable.
-  static const iframeVariable = MdiIconData(0xF10FB);
-
-  /// Icon for iframe-variable-outline.
-  static const iframeVariableOutline = MdiIconData(0xF10FC);
-
   /// Icon for image.
   static const image = MdiIconData(0xF02E9);
 
@@ -9462,6 +11343,12 @@ class Mdi {
 
   /// Icon for image-broken-variant.
   static const imageBrokenVariant = MdiIconData(0xF02EE);
+
+  /// Icon for image-check.
+  static const imageCheck = MdiIconData(0xF1B25);
+
+  /// Icon for image-check-outline.
+  static const imageCheckOutline = MdiIconData(0xF1B26);
 
   /// Icon for image-edit.
   static const imageEdit = MdiIconData(0xF11E3);
@@ -9505,8 +11392,23 @@ class Mdi {
   /// Icon for image-frame.
   static const imageFrame = MdiIconData(0xF0E49);
 
+  /// Icon for image-lock.
+  static const imageLock = MdiIconData(0xF1AB0);
+
+  /// Icon for image-lock-outline.
+  static const imageLockOutline = MdiIconData(0xF1AB1);
+
+  /// Icon for image-marker.
+  static const imageMarker = MdiIconData(0xF177B);
+
+  /// Icon for image-marker-outline.
+  static const imageMarkerOutline = MdiIconData(0xF177C);
+
   /// Icon for image-minus.
   static const imageMinus = MdiIconData(0xF1419);
+
+  /// Icon for image-minus-outline.
+  static const imageMinusOutline = MdiIconData(0xF1B47);
 
   /// Icon for image-move.
   static const imageMove = MdiIconData(0xF09F8);
@@ -9529,8 +11431,20 @@ class Mdi {
   /// Icon for image-plus.
   static const imagePlus = MdiIconData(0xF087C);
 
+  /// Icon for image-plus-outline.
+  static const imagePlusOutline = MdiIconData(0xF1B46);
+
+  /// Icon for image-refresh.
+  static const imageRefresh = MdiIconData(0xF19FE);
+
+  /// Icon for image-refresh-outline.
+  static const imageRefreshOutline = MdiIconData(0xF19FF);
+
   /// Icon for image-remove.
   static const imageRemove = MdiIconData(0xF1418);
+
+  /// Icon for image-remove-outline.
+  static const imageRemoveOutline = MdiIconData(0xF1B48);
 
   /// Icon for image-search.
   static const imageSearch = MdiIconData(0xF0977);
@@ -9546,6 +11460,12 @@ class Mdi {
 
   /// Icon for image-size-select-small.
   static const imageSizeSelectSmall = MdiIconData(0xF0C8F);
+
+  /// Icon for image-sync.
+  static const imageSync = MdiIconData(0xF1A00);
+
+  /// Icon for image-sync-outline.
+  static const imageSyncOutline = MdiIconData(0xF1A01);
 
   /// Icon for image-text.
   static const imageText = MdiIconData(0xF160D);
@@ -9601,11 +11521,20 @@ class Mdi {
   /// Icon for incognito-off.
   static const incognitoOff = MdiIconData(0xF0075);
 
+  /// Icon for induction.
+  static const induction = MdiIconData(0xF184C);
+
   /// Icon for infinity.
   static const infinity = MdiIconData(0xF06E4);
 
   /// Icon for information.
   static const information = MdiIconData(0xF02FC);
+
+  /// Icon for information-off.
+  static const informationOff = MdiIconData(0xF178C);
+
+  /// Icon for information-off-outline.
+  static const informationOffOutline = MdiIconData(0xF178D);
 
   /// Icon for information-outline.
   static const informationOutline = MdiIconData(0xF02FD);
@@ -9618,6 +11547,9 @@ class Mdi {
 
   /// Icon for instrument-triangle.
   static const instrumentTriangle = MdiIconData(0xF104E);
+
+  /// Icon for integrated-circuit-chip.
+  static const integratedCircuitChip = MdiIconData(0xF1913);
 
   /// Icon for invert-colors.
   static const invertColors = MdiIconData(0xF0301);
@@ -9637,11 +11569,20 @@ class Mdi {
   /// Icon for ip-network-outline.
   static const ipNetworkOutline = MdiIconData(0xF0C90);
 
+  /// Icon for ip-outline.
+  static const ipOutline = MdiIconData(0xF1982);
+
   /// Icon for ipod.
   static const ipod = MdiIconData(0xF0C91);
 
-  /// Icon for islam.
-  static const islam = MdiIconData(0xF0979);
+  /// Icon for iron.
+  static const iron = MdiIconData(0xF1824);
+
+  /// Icon for iron-board.
+  static const ironBoard = MdiIconData(0xF1838);
+
+  /// Icon for iron-outline.
+  static const ironOutline = MdiIconData(0xF1825);
 
   /// Icon for island.
   static const island = MdiIconData(0xF104F);
@@ -9670,9 +11611,6 @@ class Mdi {
   /// Icon for jsfiddle.
   static const jsfiddle = MdiIconData(0xF0304);
 
-  /// Icon for judaism.
-  static const judaism = MdiIconData(0xF097A);
-
   /// Icon for jump-rope.
   static const jumpRope = MdiIconData(0xF12FF);
 
@@ -9684,6 +11622,9 @@ class Mdi {
 
   /// Icon for karate.
   static const karate = MdiIconData(0xF082C);
+
+  /// Icon for kayaking.
+  static const kayaking = MdiIconData(0xF08AF);
 
   /// Icon for keg.
   static const keg = MdiIconData(0xF0305);
@@ -9706,6 +11647,9 @@ class Mdi {
   /// Icon for kettle-outline.
   static const kettleOutline = MdiIconData(0xF0F56);
 
+  /// Icon for kettle-pour-over.
+  static const kettlePourOver = MdiIconData(0xF173C);
+
   /// Icon for kettle-steam.
   static const kettleSteam = MdiIconData(0xF1319);
 
@@ -9717,6 +11661,12 @@ class Mdi {
 
   /// Icon for key.
   static const key = MdiIconData(0xF0306);
+
+  /// Icon for key-alert.
+  static const keyAlert = MdiIconData(0xF1983);
+
+  /// Icon for key-alert-outline.
+  static const keyAlertOutline = MdiIconData(0xF1984);
 
   /// Icon for key-arrow-right.
   static const keyArrowRight = MdiIconData(0xF1312);
@@ -9829,6 +11779,9 @@ class Mdi {
   /// Icon for keyboard-tab.
   static const keyboardTab = MdiIconData(0xF0312);
 
+  /// Icon for keyboard-tab-reverse.
+  static const keyboardTabReverse = MdiIconData(0xF0325);
+
   /// Icon for keyboard-variant.
   static const keyboardVariant = MdiIconData(0xF0313);
 
@@ -9838,6 +11791,15 @@ class Mdi {
   /// Icon for kickstarter.
   static const kickstarter = MdiIconData(0xF0745);
 
+  /// Icon for kite.
+  static const kite = MdiIconData(0xF1985);
+
+  /// Icon for kite-outline.
+  static const kiteOutline = MdiIconData(0xF1986);
+
+  /// Icon for kitesurfing.
+  static const kitesurfing = MdiIconData(0xF1744);
+
   /// Icon for klingon.
   static const klingon = MdiIconData(0xF135B);
 
@@ -9846,6 +11808,12 @@ class Mdi {
 
   /// Icon for knife-military.
   static const knifeMilitary = MdiIconData(0xF09FC);
+
+  /// Icon for knob.
+  static const knob = MdiIconData(0xF1B96);
+
+  /// Icon for koala.
+  static const koala = MdiIconData(0xF173F);
 
   /// Icon for kodi.
   static const kodi = MdiIconData(0xF0314);
@@ -9895,8 +11863,14 @@ class Mdi {
   /// Icon for lamp.
   static const lamp = MdiIconData(0xF06B5);
 
+  /// Icon for lamp-outline.
+  static const lampOutline = MdiIconData(0xF17D0);
+
   /// Icon for lamps.
   static const lamps = MdiIconData(0xF1576);
+
+  /// Icon for lamps-outline.
+  static const lampsOutline = MdiIconData(0xF17D1);
 
   /// Icon for lan.
   static const lan = MdiIconData(0xF0317);
@@ -9912,6 +11886,30 @@ class Mdi {
 
   /// Icon for lan-pending.
   static const lanPending = MdiIconData(0xF031A);
+
+  /// Icon for land-fields.
+  static const landFields = MdiIconData(0xF1AB2);
+
+  /// Icon for land-plots.
+  static const landPlots = MdiIconData(0xF1AB3);
+
+  /// Icon for land-plots-circle.
+  static const landPlotsCircle = MdiIconData(0xF1AB4);
+
+  /// Icon for land-plots-circle-variant.
+  static const landPlotsCircleVariant = MdiIconData(0xF1AB5);
+
+  /// Icon for land-rows-horizontal.
+  static const landRowsHorizontal = MdiIconData(0xF1AB6);
+
+  /// Icon for land-rows-vertical.
+  static const landRowsVertical = MdiIconData(0xF1AB7);
+
+  /// Icon for landslide.
+  static const landslide = MdiIconData(0xF1A48);
+
+  /// Icon for landslide-outline.
+  static const landslideOutline = MdiIconData(0xF1A49);
 
   /// Icon for language-c.
   static const languageC = MdiIconData(0xF0671);
@@ -9985,17 +11983,11 @@ class Mdi {
   /// Icon for laptop.
   static const laptop = MdiIconData(0xF0322);
 
-  /// Icon for laptop-chromebook.
-  static const laptopChromebook = MdiIconData(0xF0323);
-
-  /// Icon for laptop-mac.
-  static const laptopMac = MdiIconData(0xF0324);
+  /// Icon for laptop-account.
+  static const laptopAccount = MdiIconData(0xF1A4A);
 
   /// Icon for laptop-off.
   static const laptopOff = MdiIconData(0xF06E7);
-
-  /// Icon for laptop-windows.
-  static const laptopWindows = MdiIconData(0xF0325);
 
   /// Icon for laravel.
   static const laravel = MdiIconData(0xF0AD0);
@@ -10020,6 +12012,9 @@ class Mdi {
 
   /// Icon for layers.
   static const layers = MdiIconData(0xF0328);
+
+  /// Icon for layers-edit.
+  static const layersEdit = MdiIconData(0xF1892);
 
   /// Icon for layers-minus.
   static const layersMinus = MdiIconData(0xF0E4C);
@@ -10057,6 +12052,12 @@ class Mdi {
   /// Icon for leaf.
   static const leaf = MdiIconData(0xF032A);
 
+  /// Icon for leaf-circle.
+  static const leafCircle = MdiIconData(0xF1905);
+
+  /// Icon for leaf-circle-outline.
+  static const leafCircleOutline = MdiIconData(0xF1906);
+
   /// Icon for leaf-maple.
   static const leafMaple = MdiIconData(0xF0C93);
 
@@ -10072,6 +12073,9 @@ class Mdi {
   /// Icon for leak-off.
   static const leakOff = MdiIconData(0xF0DD8);
 
+  /// Icon for lectern.
+  static const lectern = MdiIconData(0xF1AF0);
+
   /// Icon for led-off.
   static const ledOff = MdiIconData(0xF032B);
 
@@ -10086,6 +12090,9 @@ class Mdi {
 
   /// Icon for led-strip-variant.
   static const ledStripVariant = MdiIconData(0xF1051);
+
+  /// Icon for led-strip-variant-off.
+  static const ledStripVariantOff = MdiIconData(0xF1A4B);
 
   /// Icon for led-variant-off.
   static const ledVariantOff = MdiIconData(0xF032E);
@@ -10108,6 +12115,9 @@ class Mdi {
   /// Icon for library.
   static const library = MdiIconData(0xF0331);
 
+  /// Icon for library-outline.
+  static const libraryOutline = MdiIconData(0xF1A22);
+
   /// Icon for library-shelves.
   static const libraryShelves = MdiIconData(0xF0BA9);
 
@@ -10117,11 +12127,35 @@ class Mdi {
   /// Icon for lifebuoy.
   static const lifebuoy = MdiIconData(0xF087E);
 
+  /// Icon for light-flood-down.
+  static const lightFloodDown = MdiIconData(0xF1987);
+
+  /// Icon for light-flood-up.
+  static const lightFloodUp = MdiIconData(0xF1988);
+
+  /// Icon for light-recessed.
+  static const lightRecessed = MdiIconData(0xF179B);
+
   /// Icon for light-switch.
   static const lightSwitch = MdiIconData(0xF097E);
 
+  /// Icon for light-switch-off.
+  static const lightSwitchOff = MdiIconData(0xF1A24);
+
   /// Icon for lightbulb.
   static const lightbulb = MdiIconData(0xF0335);
+
+  /// Icon for lightbulb-alert.
+  static const lightbulbAlert = MdiIconData(0xF19E1);
+
+  /// Icon for lightbulb-alert-outline.
+  static const lightbulbAlertOutline = MdiIconData(0xF19E2);
+
+  /// Icon for lightbulb-auto.
+  static const lightbulbAuto = MdiIconData(0xF1800);
+
+  /// Icon for lightbulb-auto-outline.
+  static const lightbulbAutoOutline = MdiIconData(0xF1801);
 
   /// Icon for lightbulb-cfl.
   static const lightbulbCfl = MdiIconData(0xF1208);
@@ -10134,6 +12168,12 @@ class Mdi {
 
   /// Icon for lightbulb-cfl-spiral-off.
   static const lightbulbCflSpiralOff = MdiIconData(0xF12C3);
+
+  /// Icon for lightbulb-fluorescent-tube.
+  static const lightbulbFluorescentTube = MdiIconData(0xF1804);
+
+  /// Icon for lightbulb-fluorescent-tube-outline.
+  static const lightbulbFluorescentTubeOutline = MdiIconData(0xF1805);
 
   /// Icon for lightbulb-group.
   static const lightbulbGroup = MdiIconData(0xF1253);
@@ -10159,6 +12199,12 @@ class Mdi {
   /// Icon for lightbulb-multiple-outline.
   static const lightbulbMultipleOutline = MdiIconData(0xF1256);
 
+  /// Icon for lightbulb-night.
+  static const lightbulbNight = MdiIconData(0xF1A4C);
+
+  /// Icon for lightbulb-night-outline.
+  static const lightbulbNightOutline = MdiIconData(0xF1A4D);
+
   /// Icon for lightbulb-off.
   static const lightbulbOff = MdiIconData(0xF0E4F);
 
@@ -10168,11 +12214,56 @@ class Mdi {
   /// Icon for lightbulb-on.
   static const lightbulbOn = MdiIconData(0xF06E8);
 
+  /// Icon for lightbulb-on-10.
+  static const lightbulbOn10 = MdiIconData(0xF1A4E);
+
+  /// Icon for lightbulb-on-20.
+  static const lightbulbOn20 = MdiIconData(0xF1A4F);
+
+  /// Icon for lightbulb-on-30.
+  static const lightbulbOn30 = MdiIconData(0xF1A50);
+
+  /// Icon for lightbulb-on-40.
+  static const lightbulbOn40 = MdiIconData(0xF1A51);
+
+  /// Icon for lightbulb-on-50.
+  static const lightbulbOn50 = MdiIconData(0xF1A52);
+
+  /// Icon for lightbulb-on-60.
+  static const lightbulbOn60 = MdiIconData(0xF1A53);
+
+  /// Icon for lightbulb-on-70.
+  static const lightbulbOn70 = MdiIconData(0xF1A54);
+
+  /// Icon for lightbulb-on-80.
+  static const lightbulbOn80 = MdiIconData(0xF1A55);
+
+  /// Icon for lightbulb-on-90.
+  static const lightbulbOn90 = MdiIconData(0xF1A56);
+
   /// Icon for lightbulb-on-outline.
   static const lightbulbOnOutline = MdiIconData(0xF06E9);
 
   /// Icon for lightbulb-outline.
   static const lightbulbOutline = MdiIconData(0xF0336);
+
+  /// Icon for lightbulb-question.
+  static const lightbulbQuestion = MdiIconData(0xF19E3);
+
+  /// Icon for lightbulb-question-outline.
+  static const lightbulbQuestionOutline = MdiIconData(0xF19E4);
+
+  /// Icon for lightbulb-spot.
+  static const lightbulbSpot = MdiIconData(0xF17F4);
+
+  /// Icon for lightbulb-spot-off.
+  static const lightbulbSpotOff = MdiIconData(0xF17F5);
+
+  /// Icon for lightbulb-variant.
+  static const lightbulbVariant = MdiIconData(0xF1802);
+
+  /// Icon for lightbulb-variant-outline.
+  static const lightbulbVariantOutline = MdiIconData(0xF1803);
 
   /// Icon for lighthouse.
   static const lighthouse = MdiIconData(0xF09FF);
@@ -10183,8 +12274,14 @@ class Mdi {
   /// Icon for lightning-bolt.
   static const lightningBolt = MdiIconData(0xF140B);
 
+  /// Icon for lightning-bolt-circle.
+  static const lightningBoltCircle = MdiIconData(0xF0820);
+
   /// Icon for lightning-bolt-outline.
   static const lightningBoltOutline = MdiIconData(0xF140C);
+
+  /// Icon for line-scan.
+  static const lineScan = MdiIconData(0xF0624);
 
   /// Icon for lingerie.
   static const lingerie = MdiIconData(0xF1476);
@@ -10239,6 +12336,18 @@ class Mdi {
 
   /// Icon for lipstick.
   static const lipstick = MdiIconData(0xF13B5);
+
+  /// Icon for liquid-spot.
+  static const liquidSpot = MdiIconData(0xF1826);
+
+  /// Icon for liquor.
+  static const liquor = MdiIconData(0xF191E);
+
+  /// Icon for list-box.
+  static const listBox = MdiIconData(0xF1B7B);
+
+  /// Icon for list-box-outline.
+  static const listBoxOutline = MdiIconData(0xF1B7C);
 
   /// Icon for list-status.
   static const listStatus = MdiIconData(0xF15AB);
@@ -10399,6 +12508,18 @@ class Mdi {
   /// Icon for lungs.
   static const lungs = MdiIconData(0xF1084);
 
+  /// Icon for mace.
+  static const mace = MdiIconData(0xF1843);
+
+  /// Icon for magazine-pistol.
+  static const magazinePistol = MdiIconData(0xF0324);
+
+  /// Icon for magazine-rifle.
+  static const magazineRifle = MdiIconData(0xF0323);
+
+  /// Icon for magic-staff.
+  static const magicStaff = MdiIconData(0xF1844);
+
   /// Icon for magnet.
   static const magnet = MdiIconData(0xF0347);
 
@@ -10410,6 +12531,9 @@ class Mdi {
 
   /// Icon for magnify-close.
   static const magnifyClose = MdiIconData(0xF0980);
+
+  /// Icon for magnify-expand.
+  static const magnifyExpand = MdiIconData(0xF1874);
 
   /// Icon for magnify-minus.
   static const magnifyMinus = MdiIconData(0xF034A);
@@ -10488,6 +12612,12 @@ class Mdi {
 
   /// Icon for map-marker.
   static const mapMarker = MdiIconData(0xF034E);
+
+  /// Icon for map-marker-account.
+  static const mapMarkerAccount = MdiIconData(0xF18E3);
+
+  /// Icon for map-marker-account-outline.
+  static const mapMarkerAccountOutline = MdiIconData(0xF18E4);
 
   /// Icon for map-marker-alert.
   static const mapMarkerAlert = MdiIconData(0xF0F05);
@@ -10660,11 +12790,26 @@ class Mdi {
   /// Icon for medical-bag.
   static const medicalBag = MdiIconData(0xF06EF);
 
+  /// Icon for medical-cotton-swab.
+  static const medicalCottonSwab = MdiIconData(0xF1AB8);
+
+  /// Icon for medication.
+  static const medication = MdiIconData(0xF1B14);
+
+  /// Icon for medication-outline.
+  static const medicationOutline = MdiIconData(0xF1B15);
+
   /// Icon for meditation.
   static const meditation = MdiIconData(0xF117B);
 
   /// Icon for memory.
   static const memory = MdiIconData(0xF035B);
+
+  /// Icon for menorah.
+  static const menorah = MdiIconData(0xF17D4);
+
+  /// Icon for menorah-fire.
+  static const menorahFire = MdiIconData(0xF17D5);
 
   /// Icon for menu.
   static const menu = MdiIconData(0xF035C);
@@ -10726,6 +12871,12 @@ class Mdi {
   /// Icon for message-arrow-right-outline.
   static const messageArrowRightOutline = MdiIconData(0xF12F5);
 
+  /// Icon for message-badge.
+  static const messageBadge = MdiIconData(0xF1941);
+
+  /// Icon for message-badge-outline.
+  static const messageBadgeOutline = MdiIconData(0xF1942);
+
   /// Icon for message-bookmark.
   static const messageBookmark = MdiIconData(0xF15AC);
 
@@ -10738,6 +12889,12 @@ class Mdi {
   /// Icon for message-bulleted-off.
   static const messageBulletedOff = MdiIconData(0xF06A3);
 
+  /// Icon for message-check.
+  static const messageCheck = MdiIconData(0xF1B8A);
+
+  /// Icon for message-check-outline.
+  static const messageCheckOutline = MdiIconData(0xF1B8B);
+
   /// Icon for message-cog.
   static const messageCog = MdiIconData(0xF06F1);
 
@@ -10746,6 +12903,12 @@ class Mdi {
 
   /// Icon for message-draw.
   static const messageDraw = MdiIconData(0xF0363);
+
+  /// Icon for message-fast.
+  static const messageFast = MdiIconData(0xF19CC);
+
+  /// Icon for message-fast-outline.
+  static const messageFastOutline = MdiIconData(0xF19CD);
 
   /// Icon for message-flash.
   static const messageFlash = MdiIconData(0xF15A9);
@@ -10792,17 +12955,35 @@ class Mdi {
   /// Icon for message-processing-outline.
   static const messageProcessingOutline = MdiIconData(0xF1170);
 
+  /// Icon for message-question.
+  static const messageQuestion = MdiIconData(0xF173A);
+
+  /// Icon for message-question-outline.
+  static const messageQuestionOutline = MdiIconData(0xF173B);
+
   /// Icon for message-reply.
   static const messageReply = MdiIconData(0xF0367);
 
+  /// Icon for message-reply-outline.
+  static const messageReplyOutline = MdiIconData(0xF173D);
+
   /// Icon for message-reply-text.
   static const messageReplyText = MdiIconData(0xF0368);
+
+  /// Icon for message-reply-text-outline.
+  static const messageReplyTextOutline = MdiIconData(0xF173E);
 
   /// Icon for message-settings.
   static const messageSettings = MdiIconData(0xF06F0);
 
   /// Icon for message-settings-outline.
   static const messageSettingsOutline = MdiIconData(0xF1171);
+
+  /// Icon for message-star.
+  static const messageStar = MdiIconData(0xF069A);
+
+  /// Icon for message-star-outline.
+  static const messageStarOutline = MdiIconData(0xF1250);
 
   /// Icon for message-text.
   static const messageText = MdiIconData(0xF0369);
@@ -10812,6 +12993,12 @@ class Mdi {
 
   /// Icon for message-text-clock-outline.
   static const messageTextClockOutline = MdiIconData(0xF1174);
+
+  /// Icon for message-text-fast.
+  static const messageTextFast = MdiIconData(0xF19CE);
+
+  /// Icon for message-text-fast-outline.
+  static const messageTextFastOutline = MdiIconData(0xF19CF);
 
   /// Icon for message-text-lock.
   static const messageTextLock = MdiIconData(0xF0FCD);
@@ -10828,6 +13015,18 @@ class Mdi {
   /// Icon for meteor.
   static const meteor = MdiIconData(0xF0629);
 
+  /// Icon for meter-electric.
+  static const meterElectric = MdiIconData(0xF1A57);
+
+  /// Icon for meter-electric-outline.
+  static const meterElectricOutline = MdiIconData(0xF1A58);
+
+  /// Icon for meter-gas.
+  static const meterGas = MdiIconData(0xF1A59);
+
+  /// Icon for meter-gas-outline.
+  static const meterGasOutline = MdiIconData(0xF1A5A);
+
   /// Icon for metronome.
   static const metronome = MdiIconData(0xF07DA);
 
@@ -10840,6 +13039,12 @@ class Mdi {
   /// Icon for microphone.
   static const microphone = MdiIconData(0xF036C);
 
+  /// Icon for microphone-message.
+  static const microphoneMessage = MdiIconData(0xF050A);
+
+  /// Icon for microphone-message-off.
+  static const microphoneMessageOff = MdiIconData(0xF050B);
+
   /// Icon for microphone-minus.
   static const microphoneMinus = MdiIconData(0xF08B3);
 
@@ -10851,6 +13056,12 @@ class Mdi {
 
   /// Icon for microphone-plus.
   static const microphonePlus = MdiIconData(0xF08B4);
+
+  /// Icon for microphone-question.
+  static const microphoneQuestion = MdiIconData(0xF1989);
+
+  /// Icon for microphone-question-outline.
+  static const microphoneQuestionOutline = MdiIconData(0xF198A);
 
   /// Icon for microphone-settings.
   static const microphoneSettings = MdiIconData(0xF036F);
@@ -10884,9 +13095,6 @@ class Mdi {
 
   /// Icon for microsoft-edge.
   static const microsoftEdge = MdiIconData(0xF01E9);
-
-  /// Icon for microsoft-edge-legacy.
-  static const microsoftEdgeLegacy = MdiIconData(0xF1250);
 
   /// Icon for microsoft-excel.
   static const microsoftExcel = MdiIconData(0xF138F);
@@ -10966,9 +13174,6 @@ class Mdi {
   /// Icon for microsoft-xbox-controller-view.
   static const microsoftXboxControllerView = MdiIconData(0xF0E70);
 
-  /// Icon for microsoft-yammer.
-  static const microsoftYammer = MdiIconData(0xF0789);
-
   /// Icon for microwave.
   static const microwave = MdiIconData(0xF0C99);
 
@@ -11044,6 +13249,12 @@ class Mdi {
   /// Icon for mirror.
   static const mirror = MdiIconData(0xF11FD);
 
+  /// Icon for mirror-rectangle.
+  static const mirrorRectangle = MdiIconData(0xF179F);
+
+  /// Icon for mirror-variant.
+  static const mirrorVariant = MdiIconData(0xF17A0);
+
   /// Icon for mixed-martial-arts.
   static const mixedMartialArts = MdiIconData(0xF0D8F);
 
@@ -11062,14 +13273,20 @@ class Mdi {
   /// Icon for monitor.
   static const monitor = MdiIconData(0xF0379);
 
+  /// Icon for monitor-account.
+  static const monitorAccount = MdiIconData(0xF1A5B);
+
+  /// Icon for monitor-arrow-down.
+  static const monitorArrowDown = MdiIconData(0xF19D0);
+
+  /// Icon for monitor-arrow-down-variant.
+  static const monitorArrowDownVariant = MdiIconData(0xF19D1);
+
   /// Icon for monitor-cellphone.
   static const monitorCellphone = MdiIconData(0xF0989);
 
   /// Icon for monitor-cellphone-star.
   static const monitorCellphoneStar = MdiIconData(0xF098A);
-
-  /// Icon for monitor-clean.
-  static const monitorClean = MdiIconData(0xF1104);
 
   /// Icon for monitor-dashboard.
   static const monitorDashboard = MdiIconData(0xF0A07);
@@ -11094,6 +13311,12 @@ class Mdi {
 
   /// Icon for monitor-share.
   static const monitorShare = MdiIconData(0xF1483);
+
+  /// Icon for monitor-shimmer.
+  static const monitorShimmer = MdiIconData(0xF1104);
+
+  /// Icon for monitor-small.
+  static const monitorSmall = MdiIconData(0xF1876);
 
   /// Icon for monitor-speaker.
   static const monitorSpeaker = MdiIconData(0xF0F5F);
@@ -11143,6 +13366,18 @@ class Mdi {
   /// Icon for more.
   static const more = MdiIconData(0xF037B);
 
+  /// Icon for mortar-pestle.
+  static const mortarPestle = MdiIconData(0xF1748);
+
+  /// Icon for mortar-pestle-plus.
+  static const mortarPestlePlus = MdiIconData(0xF03F1);
+
+  /// Icon for mosque.
+  static const mosque = MdiIconData(0xF0D45);
+
+  /// Icon for mosque-outline.
+  static const mosqueOutline = MdiIconData(0xF1827);
+
   /// Icon for mother-heart.
   static const motherHeart = MdiIconData(0xF1314);
 
@@ -11179,6 +13414,9 @@ class Mdi {
   /// Icon for motorbike-electric.
   static const motorbikeElectric = MdiIconData(0xF15BA);
 
+  /// Icon for motorbike-off.
+  static const motorbikeOff = MdiIconData(0xF1B16);
+
   /// Icon for mouse.
   static const mouse = MdiIconData(0xF037D);
 
@@ -11212,6 +13450,18 @@ class Mdi {
   /// Icon for movie.
   static const movie = MdiIconData(0xF0381);
 
+  /// Icon for movie-check.
+  static const movieCheck = MdiIconData(0xF16F3);
+
+  /// Icon for movie-check-outline.
+  static const movieCheckOutline = MdiIconData(0xF16F4);
+
+  /// Icon for movie-cog.
+  static const movieCog = MdiIconData(0xF16F5);
+
+  /// Icon for movie-cog-outline.
+  static const movieCogOutline = MdiIconData(0xF16F6);
+
   /// Icon for movie-edit.
   static const movieEdit = MdiIconData(0xF1122);
 
@@ -11224,14 +13474,104 @@ class Mdi {
   /// Icon for movie-filter-outline.
   static const movieFilterOutline = MdiIconData(0xF1125);
 
+  /// Icon for movie-minus.
+  static const movieMinus = MdiIconData(0xF16F7);
+
+  /// Icon for movie-minus-outline.
+  static const movieMinusOutline = MdiIconData(0xF16F8);
+
+  /// Icon for movie-off.
+  static const movieOff = MdiIconData(0xF16F9);
+
+  /// Icon for movie-off-outline.
+  static const movieOffOutline = MdiIconData(0xF16FA);
+
   /// Icon for movie-open.
   static const movieOpen = MdiIconData(0xF0FCE);
+
+  /// Icon for movie-open-check.
+  static const movieOpenCheck = MdiIconData(0xF16FB);
+
+  /// Icon for movie-open-check-outline.
+  static const movieOpenCheckOutline = MdiIconData(0xF16FC);
+
+  /// Icon for movie-open-cog.
+  static const movieOpenCog = MdiIconData(0xF16FD);
+
+  /// Icon for movie-open-cog-outline.
+  static const movieOpenCogOutline = MdiIconData(0xF16FE);
+
+  /// Icon for movie-open-edit.
+  static const movieOpenEdit = MdiIconData(0xF16FF);
+
+  /// Icon for movie-open-edit-outline.
+  static const movieOpenEditOutline = MdiIconData(0xF1700);
+
+  /// Icon for movie-open-minus.
+  static const movieOpenMinus = MdiIconData(0xF1701);
+
+  /// Icon for movie-open-minus-outline.
+  static const movieOpenMinusOutline = MdiIconData(0xF1702);
+
+  /// Icon for movie-open-off.
+  static const movieOpenOff = MdiIconData(0xF1703);
+
+  /// Icon for movie-open-off-outline.
+  static const movieOpenOffOutline = MdiIconData(0xF1704);
 
   /// Icon for movie-open-outline.
   static const movieOpenOutline = MdiIconData(0xF0FCF);
 
+  /// Icon for movie-open-play.
+  static const movieOpenPlay = MdiIconData(0xF1705);
+
+  /// Icon for movie-open-play-outline.
+  static const movieOpenPlayOutline = MdiIconData(0xF1706);
+
+  /// Icon for movie-open-plus.
+  static const movieOpenPlus = MdiIconData(0xF1707);
+
+  /// Icon for movie-open-plus-outline.
+  static const movieOpenPlusOutline = MdiIconData(0xF1708);
+
+  /// Icon for movie-open-remove.
+  static const movieOpenRemove = MdiIconData(0xF1709);
+
+  /// Icon for movie-open-remove-outline.
+  static const movieOpenRemoveOutline = MdiIconData(0xF170A);
+
+  /// Icon for movie-open-settings.
+  static const movieOpenSettings = MdiIconData(0xF170B);
+
+  /// Icon for movie-open-settings-outline.
+  static const movieOpenSettingsOutline = MdiIconData(0xF170C);
+
+  /// Icon for movie-open-star.
+  static const movieOpenStar = MdiIconData(0xF170D);
+
+  /// Icon for movie-open-star-outline.
+  static const movieOpenStarOutline = MdiIconData(0xF170E);
+
   /// Icon for movie-outline.
   static const movieOutline = MdiIconData(0xF0DDD);
+
+  /// Icon for movie-play.
+  static const moviePlay = MdiIconData(0xF170F);
+
+  /// Icon for movie-play-outline.
+  static const moviePlayOutline = MdiIconData(0xF1710);
+
+  /// Icon for movie-plus.
+  static const moviePlus = MdiIconData(0xF1711);
+
+  /// Icon for movie-plus-outline.
+  static const moviePlusOutline = MdiIconData(0xF1712);
+
+  /// Icon for movie-remove.
+  static const movieRemove = MdiIconData(0xF1713);
+
+  /// Icon for movie-remove-outline.
+  static const movieRemoveOutline = MdiIconData(0xF1714);
 
   /// Icon for movie-roll.
   static const movieRoll = MdiIconData(0xF07DE);
@@ -11242,14 +13582,38 @@ class Mdi {
   /// Icon for movie-search-outline.
   static const movieSearchOutline = MdiIconData(0xF11D3);
 
+  /// Icon for movie-settings.
+  static const movieSettings = MdiIconData(0xF1715);
+
+  /// Icon for movie-settings-outline.
+  static const movieSettingsOutline = MdiIconData(0xF1716);
+
+  /// Icon for movie-star.
+  static const movieStar = MdiIconData(0xF1717);
+
+  /// Icon for movie-star-outline.
+  static const movieStarOutline = MdiIconData(0xF1718);
+
   /// Icon for mower.
   static const mower = MdiIconData(0xF166F);
 
   /// Icon for mower-bag.
   static const mowerBag = MdiIconData(0xF1670);
 
+  /// Icon for mower-bag-on.
+  static const mowerBagOn = MdiIconData(0xF1B60);
+
+  /// Icon for mower-on.
+  static const mowerOn = MdiIconData(0xF1B5F);
+
   /// Icon for muffin.
   static const muffin = MdiIconData(0xF098C);
+
+  /// Icon for multicast.
+  static const multicast = MdiIconData(0xF1893);
+
+  /// Icon for multimedia.
+  static const multimedia = MdiIconData(0xF1B97);
 
   /// Icon for multiplication.
   static const multiplication = MdiIconData(0xF0382);
@@ -11335,6 +13699,9 @@ class Mdi {
   /// Icon for music-note-half-dotted.
   static const musicNoteHalfDotted = MdiIconData(0xF0F72);
 
+  /// Icon for music-note-minus.
+  static const musicNoteMinus = MdiIconData(0xF1B89);
+
   /// Icon for music-note-off.
   static const musicNoteOff = MdiIconData(0xF038A);
 
@@ -11407,6 +13774,12 @@ class Mdi {
   /// Icon for navigation-outline.
   static const navigationOutline = MdiIconData(0xF1607);
 
+  /// Icon for navigation-variant.
+  static const navigationVariant = MdiIconData(0xF18F0);
+
+  /// Icon for navigation-variant-outline.
+  static const navigationVariantOutline = MdiIconData(0xF18F1);
+
   /// Icon for near-me.
   static const nearMe = MdiIconData(0xF05CD);
 
@@ -11415,6 +13788,9 @@ class Mdi {
 
   /// Icon for needle.
   static const needle = MdiIconData(0xF0391);
+
+  /// Icon for needle-off.
+  static const needleOff = MdiIconData(0xF19D2);
 
   /// Icon for netflix.
   static const netflix = MdiIconData(0xF0746);
@@ -11430,6 +13806,9 @@ class Mdi {
 
   /// Icon for network-outline.
   static const networkOutline = MdiIconData(0xF0C9D);
+
+  /// Icon for network-pos.
+  static const networkPos = MdiIconData(0xF1ACB);
 
   /// Icon for network-strength-1.
   static const networkStrength1 = MdiIconData(0xF08F4);
@@ -11455,6 +13834,9 @@ class Mdi {
   /// Icon for network-strength-4-alert.
   static const networkStrength4Alert = MdiIconData(0xF08FB);
 
+  /// Icon for network-strength-4-cog.
+  static const networkStrength4Cog = MdiIconData(0xF191A);
+
   /// Icon for network-strength-off.
   static const networkStrengthOff = MdiIconData(0xF08FC);
 
@@ -11470,11 +13852,17 @@ class Mdi {
   /// Icon for newspaper.
   static const newspaper = MdiIconData(0xF0395);
 
+  /// Icon for newspaper-check.
+  static const newspaperCheck = MdiIconData(0xF1943);
+
   /// Icon for newspaper-minus.
   static const newspaperMinus = MdiIconData(0xF0F0C);
 
   /// Icon for newspaper-plus.
   static const newspaperPlus = MdiIconData(0xF0F0D);
+
+  /// Icon for newspaper-remove.
+  static const newspaperRemove = MdiIconData(0xF1944);
 
   /// Icon for newspaper-variant.
   static const newspaperVariant = MdiIconData(0xF1001);
@@ -11536,6 +13924,24 @@ class Mdi {
   /// Icon for note.
   static const note = MdiIconData(0xF039A);
 
+  /// Icon for note-alert.
+  static const noteAlert = MdiIconData(0xF177D);
+
+  /// Icon for note-alert-outline.
+  static const noteAlertOutline = MdiIconData(0xF177E);
+
+  /// Icon for note-check.
+  static const noteCheck = MdiIconData(0xF177F);
+
+  /// Icon for note-check-outline.
+  static const noteCheckOutline = MdiIconData(0xF1780);
+
+  /// Icon for note-edit.
+  static const noteEdit = MdiIconData(0xF1781);
+
+  /// Icon for note-edit-outline.
+  static const noteEditOutline = MdiIconData(0xF1782);
+
   /// Icon for note-minus.
   static const noteMinus = MdiIconData(0xF164F);
 
@@ -11547,6 +13953,12 @@ class Mdi {
 
   /// Icon for note-multiple-outline.
   static const noteMultipleOutline = MdiIconData(0xF06B9);
+
+  /// Icon for note-off.
+  static const noteOff = MdiIconData(0xF1783);
+
+  /// Icon for note-off-outline.
+  static const noteOffOutline = MdiIconData(0xF1784);
 
   /// Icon for note-outline.
   static const noteOutline = MdiIconData(0xF039B);
@@ -11589,6 +14001,12 @@ class Mdi {
 
   /// Icon for notebook-edit-outline.
   static const notebookEditOutline = MdiIconData(0xF14E9);
+
+  /// Icon for notebook-heart.
+  static const notebookHeart = MdiIconData(0xF1A0B);
+
+  /// Icon for notebook-heart-outline.
+  static const notebookHeartOutline = MdiIconData(0xF1A0C);
 
   /// Icon for notebook-minus.
   static const notebookMinus = MdiIconData(0xF1610);
@@ -11884,6 +14302,9 @@ class Mdi {
   /// Icon for numeric-negative-1.
   static const numericNegative1 = MdiIconData(0xF1052);
 
+  /// Icon for numeric-off.
+  static const numericOff = MdiIconData(0xF19D3);
+
   /// Icon for numeric-positive-1.
   static const numericPositive1 = MdiIconData(0xF15CB);
 
@@ -11920,6 +14341,12 @@ class Mdi {
   /// Icon for octagram-outline.
   static const octagramOutline = MdiIconData(0xF0775);
 
+  /// Icon for octahedron.
+  static const octahedron = MdiIconData(0xF1950);
+
+  /// Icon for octahedron-off.
+  static const octahedronOff = MdiIconData(0xF1951);
+
   /// Icon for odnoklassniki.
   static const odnoklassniki = MdiIconData(0xF03C5);
 
@@ -11929,14 +14356,38 @@ class Mdi {
   /// Icon for office-building.
   static const officeBuilding = MdiIconData(0xF0991);
 
+  /// Icon for office-building-cog.
+  static const officeBuildingCog = MdiIconData(0xF1949);
+
+  /// Icon for office-building-cog-outline.
+  static const officeBuildingCogOutline = MdiIconData(0xF194A);
+
   /// Icon for office-building-marker.
   static const officeBuildingMarker = MdiIconData(0xF1520);
 
   /// Icon for office-building-marker-outline.
   static const officeBuildingMarkerOutline = MdiIconData(0xF1521);
 
+  /// Icon for office-building-minus.
+  static const officeBuildingMinus = MdiIconData(0xF1BAA);
+
+  /// Icon for office-building-minus-outline.
+  static const officeBuildingMinusOutline = MdiIconData(0xF1BAB);
+
   /// Icon for office-building-outline.
   static const officeBuildingOutline = MdiIconData(0xF151F);
+
+  /// Icon for office-building-plus.
+  static const officeBuildingPlus = MdiIconData(0xF1BA8);
+
+  /// Icon for office-building-plus-outline.
+  static const officeBuildingPlusOutline = MdiIconData(0xF1BA9);
+
+  /// Icon for office-building-remove.
+  static const officeBuildingRemove = MdiIconData(0xF1BAC);
+
+  /// Icon for office-building-remove-outline.
+  static const officeBuildingRemoveOutline = MdiIconData(0xF1BAD);
 
   /// Icon for oil.
   static const oil = MdiIconData(0xF03C7);
@@ -11949,6 +14400,9 @@ class Mdi {
 
   /// Icon for oil-temperature.
   static const oilTemperature = MdiIconData(0xF0FF8);
+
+  /// Icon for om.
+  static const om = MdiIconData(0xF0973);
 
   /// Icon for omega.
   static const omega = MdiIconData(0xF03C9);
@@ -12031,6 +14485,9 @@ class Mdi {
   /// Icon for package.
   static const package = MdiIconData(0xF03D3);
 
+  /// Icon for package-check.
+  static const packageCheck = MdiIconData(0xF1B51);
+
   /// Icon for package-down.
   static const packageDown = MdiIconData(0xF03D4);
 
@@ -12042,6 +14499,27 @@ class Mdi {
 
   /// Icon for package-variant-closed.
   static const packageVariantClosed = MdiIconData(0xF03D7);
+
+  /// Icon for package-variant-closed-check.
+  static const packageVariantClosedCheck = MdiIconData(0xF1B52);
+
+  /// Icon for package-variant-closed-minus.
+  static const packageVariantClosedMinus = MdiIconData(0xF19D4);
+
+  /// Icon for package-variant-closed-plus.
+  static const packageVariantClosedPlus = MdiIconData(0xF19D5);
+
+  /// Icon for package-variant-closed-remove.
+  static const packageVariantClosedRemove = MdiIconData(0xF19D6);
+
+  /// Icon for package-variant-minus.
+  static const packageVariantMinus = MdiIconData(0xF19D7);
+
+  /// Icon for package-variant-plus.
+  static const packageVariantPlus = MdiIconData(0xF19D8);
+
+  /// Icon for package-variant-remove.
+  static const packageVariantRemove = MdiIconData(0xF19D9);
 
   /// Icon for page-first.
   static const pageFirst = MdiIconData(0xF0600);
@@ -12124,6 +14602,9 @@ class Mdi {
   /// Icon for palette-swatch-outline.
   static const paletteSwatchOutline = MdiIconData(0xF135C);
 
+  /// Icon for palette-swatch-variant.
+  static const paletteSwatchVariant = MdiIconData(0xF195A);
+
   /// Icon for palm-tree.
   static const palmTree = MdiIconData(0xF1055);
 
@@ -12173,13 +14654,37 @@ class Mdi {
   static const panoramaFisheye = MdiIconData(0xF03DD);
 
   /// Icon for panorama-horizontal.
-  static const panoramaHorizontal = MdiIconData(0xF03DE);
+  static const panoramaHorizontal = MdiIconData(0xF1928);
+
+  /// Icon for panorama-horizontal-outline.
+  static const panoramaHorizontalOutline = MdiIconData(0xF03DE);
+
+  /// Icon for panorama-outline.
+  static const panoramaOutline = MdiIconData(0xF198C);
+
+  /// Icon for panorama-sphere.
+  static const panoramaSphere = MdiIconData(0xF198D);
+
+  /// Icon for panorama-sphere-outline.
+  static const panoramaSphereOutline = MdiIconData(0xF198E);
+
+  /// Icon for panorama-variant.
+  static const panoramaVariant = MdiIconData(0xF198F);
+
+  /// Icon for panorama-variant-outline.
+  static const panoramaVariantOutline = MdiIconData(0xF1990);
 
   /// Icon for panorama-vertical.
-  static const panoramaVertical = MdiIconData(0xF03DF);
+  static const panoramaVertical = MdiIconData(0xF1929);
+
+  /// Icon for panorama-vertical-outline.
+  static const panoramaVerticalOutline = MdiIconData(0xF03DF);
 
   /// Icon for panorama-wide-angle.
-  static const panoramaWideAngle = MdiIconData(0xF03E0);
+  static const panoramaWideAngle = MdiIconData(0xF195F);
+
+  /// Icon for panorama-wide-angle-outline.
+  static const panoramaWideAngleOutline = MdiIconData(0xF03E0);
 
   /// Icon for paper-cut-vertical.
   static const paperCutVertical = MdiIconData(0xF03E1);
@@ -12193,11 +14698,32 @@ class Mdi {
   /// Icon for paperclip.
   static const paperclip = MdiIconData(0xF03E2);
 
+  /// Icon for paperclip-check.
+  static const paperclipCheck = MdiIconData(0xF1AC6);
+
+  /// Icon for paperclip-lock.
+  static const paperclipLock = MdiIconData(0xF19DA);
+
+  /// Icon for paperclip-minus.
+  static const paperclipMinus = MdiIconData(0xF1AC7);
+
+  /// Icon for paperclip-off.
+  static const paperclipOff = MdiIconData(0xF1AC8);
+
+  /// Icon for paperclip-plus.
+  static const paperclipPlus = MdiIconData(0xF1AC9);
+
+  /// Icon for paperclip-remove.
+  static const paperclipRemove = MdiIconData(0xF1ACA);
+
   /// Icon for parachute.
   static const parachute = MdiIconData(0xF0CB4);
 
   /// Icon for parachute-outline.
   static const parachuteOutline = MdiIconData(0xF0CB5);
+
+  /// Icon for paragliding.
+  static const paragliding = MdiIconData(0xF1745);
 
   /// Icon for parking.
   static const parking = MdiIconData(0xF03E3);
@@ -12223,6 +14749,12 @@ class Mdi {
   /// Icon for pause.
   static const pause = MdiIconData(0xF03E4);
 
+  /// Icon for pause-box.
+  static const pauseBox = MdiIconData(0xF00BC);
+
+  /// Icon for pause-box-outline.
+  static const pauseBoxOutline = MdiIconData(0xF1B7A);
+
   /// Icon for pause-circle.
   static const pauseCircle = MdiIconData(0xF03E5);
 
@@ -12246,9 +14778,6 @@ class Mdi {
 
   /// Icon for paw-outline.
   static const pawOutline = MdiIconData(0xF1675);
-
-  /// Icon for pdf-box.
-  static const pdfBox = MdiIconData(0xF0E56);
 
   /// Icon for peace.
   static const peace = MdiIconData(0xF0884);
@@ -12355,6 +14884,18 @@ class Mdi {
   /// Icon for percent.
   static const percent = MdiIconData(0xF03F0);
 
+  /// Icon for percent-box.
+  static const percentBox = MdiIconData(0xF1A02);
+
+  /// Icon for percent-box-outline.
+  static const percentBoxOutline = MdiIconData(0xF1A03);
+
+  /// Icon for percent-circle.
+  static const percentCircle = MdiIconData(0xF1A04);
+
+  /// Icon for percent-circle-outline.
+  static const percentCircleOutline = MdiIconData(0xF1A05);
+
   /// Icon for percent-outline.
   static const percentOutline = MdiIconData(0xF1278);
 
@@ -12367,8 +14908,8 @@ class Mdi {
   /// Icon for perspective-more.
   static const perspectiveMore = MdiIconData(0xF0D24);
 
-  /// Icon for pharmacy.
-  static const pharmacy = MdiIconData(0xF03F1);
+  /// Icon for ph.
+  static const ph = MdiIconData(0xF17C5);
 
   /// Icon for phone.
   static const phone = MdiIconData(0xF03F2);
@@ -12403,6 +14944,9 @@ class Mdi {
   /// Icon for phone-classic-off.
   static const phoneClassicOff = MdiIconData(0xF1279);
 
+  /// Icon for phone-clock.
+  static const phoneClock = MdiIconData(0xF19DB);
+
   /// Icon for phone-dial.
   static const phoneDial = MdiIconData(0xF1559);
 
@@ -12429,6 +14973,12 @@ class Mdi {
 
   /// Icon for phone-incoming.
   static const phoneIncoming = MdiIconData(0xF03F7);
+
+  /// Icon for phone-incoming-outgoing.
+  static const phoneIncomingOutgoing = MdiIconData(0xF1B3F);
+
+  /// Icon for phone-incoming-outgoing-outline.
+  static const phoneIncomingOutgoingOutline = MdiIconData(0xF1B40);
 
   /// Icon for phone-incoming-outline.
   static const phoneIncomingOutline = MdiIconData(0xF1193);
@@ -12490,6 +15040,12 @@ class Mdi {
   /// Icon for phone-plus-outline.
   static const phonePlusOutline = MdiIconData(0xF119B);
 
+  /// Icon for phone-refresh.
+  static const phoneRefresh = MdiIconData(0xF1993);
+
+  /// Icon for phone-refresh-outline.
+  static const phoneRefreshOutline = MdiIconData(0xF1994);
+
   /// Icon for phone-remove.
   static const phoneRemove = MdiIconData(0xF152F);
 
@@ -12520,6 +15076,12 @@ class Mdi {
   /// Icon for phone-settings-outline.
   static const phoneSettingsOutline = MdiIconData(0xF119D);
 
+  /// Icon for phone-sync.
+  static const phoneSync = MdiIconData(0xF1995);
+
+  /// Icon for phone-sync-outline.
+  static const phoneSyncOutline = MdiIconData(0xF1996);
+
   /// Icon for phone-voip.
   static const phoneVoip = MdiIconData(0xF03FE);
 
@@ -12534,6 +15096,9 @@ class Mdi {
 
   /// Icon for piano.
   static const piano = MdiIconData(0xF067D);
+
+  /// Icon for piano-off.
+  static const pianoOff = MdiIconData(0xF0698);
 
   /// Icon for pickaxe.
   static const pickaxe = MdiIconData(0xF08B7);
@@ -12573,6 +15138,12 @@ class Mdi {
 
   /// Icon for pill.
   static const pill = MdiIconData(0xF0402);
+
+  /// Icon for pill-multiple.
+  static const pillMultiple = MdiIconData(0xF1B4C);
+
+  /// Icon for pill-off.
+  static const pillOff = MdiIconData(0xF1A5C);
 
   /// Icon for pillar.
   static const pillar = MdiIconData(0xF0702);
@@ -12616,6 +15187,9 @@ class Mdi {
   /// Icon for pipe-leak.
   static const pipeLeak = MdiIconData(0xF0889);
 
+  /// Icon for pipe-valve.
+  static const pipeValve = MdiIconData(0xF184D);
+
   /// Icon for pipe-wrench.
   static const pipeWrench = MdiIconData(0xF1354);
 
@@ -12634,11 +15208,29 @@ class Mdi {
   /// Icon for pizza.
   static const pizza = MdiIconData(0xF0409);
 
+  /// Icon for plane-car.
+  static const planeCar = MdiIconData(0xF1AFF);
+
+  /// Icon for plane-train.
+  static const planeTrain = MdiIconData(0xF1B00);
+
   /// Icon for play.
   static const play = MdiIconData(0xF040A);
 
   /// Icon for play-box.
   static const playBox = MdiIconData(0xF127A);
+
+  /// Icon for play-box-lock.
+  static const playBoxLock = MdiIconData(0xF1A16);
+
+  /// Icon for play-box-lock-open.
+  static const playBoxLockOpen = MdiIconData(0xF1A17);
+
+  /// Icon for play-box-lock-open-outline.
+  static const playBoxLockOpenOutline = MdiIconData(0xF1A18);
+
+  /// Icon for play-box-lock-outline.
+  static const playBoxLockOutline = MdiIconData(0xF1A19);
 
   /// Icon for play-box-multiple.
   static const playBoxMultiple = MdiIconData(0xF0D19);
@@ -12703,6 +15295,9 @@ class Mdi {
   /// Icon for plex.
   static const plex = MdiIconData(0xF06BA);
 
+  /// Icon for pliers.
+  static const pliers = MdiIconData(0xF19A4);
+
   /// Icon for plus.
   static const plus = MdiIconData(0xF0415);
 
@@ -12730,6 +15325,12 @@ class Mdi {
   /// Icon for plus-circle-outline.
   static const plusCircleOutline = MdiIconData(0xF0419);
 
+  /// Icon for plus-lock.
+  static const plusLock = MdiIconData(0xF1A5D);
+
+  /// Icon for plus-lock-open.
+  static const plusLockOpen = MdiIconData(0xF1A5E);
+
   /// Icon for plus-minus.
   static const plusMinus = MdiIconData(0xF0992);
 
@@ -12744,9 +15345,6 @@ class Mdi {
 
   /// Icon for plus-network-outline.
   static const plusNetworkOutline = MdiIconData(0xF0CBA);
-
-  /// Icon for plus-one.
-  static const plusOne = MdiIconData(0xF041B);
 
   /// Icon for plus-outline.
   static const plusOutline = MdiIconData(0xF0705);
@@ -12790,14 +15388,11 @@ class Mdi {
   /// Icon for police-badge-outline.
   static const policeBadgeOutline = MdiIconData(0xF1168);
 
+  /// Icon for police-station.
+  static const policeStation = MdiIconData(0xF1839);
+
   /// Icon for poll.
   static const poll = MdiIconData(0xF041F);
-
-  /// Icon for poll-box.
-  static const pollBox = MdiIconData(0xF0420);
-
-  /// Icon for poll-box-outline.
-  static const pollBoxOutline = MdiIconData(0xF127B);
 
   /// Icon for polo.
   static const polo = MdiIconData(0xF14C3);
@@ -12808,11 +15403,17 @@ class Mdi {
   /// Icon for pool.
   static const pool = MdiIconData(0xF0606);
 
+  /// Icon for pool-thermometer.
+  static const poolThermometer = MdiIconData(0xF1A5F);
+
   /// Icon for popcorn.
   static const popcorn = MdiIconData(0xF0422);
 
   /// Icon for post.
   static const post = MdiIconData(0xF1008);
+
+  /// Icon for post-lamp.
+  static const postLamp = MdiIconData(0xF1A60);
 
   /// Icon for post-outline.
   static const postOutline = MdiIconData(0xF1009);
@@ -12883,6 +15484,9 @@ class Mdi {
   /// Icon for power-socket-au.
   static const powerSocketAu = MdiIconData(0xF0905);
 
+  /// Icon for power-socket-ch.
+  static const powerSocketCh = MdiIconData(0xF0FB3);
+
   /// Icon for power-socket-de.
   static const powerSocketDe = MdiIconData(0xF1107);
 
@@ -12937,8 +15541,23 @@ class Mdi {
   /// Icon for printer-3d-nozzle-alert-outline.
   static const printer3dNozzleAlertOutline = MdiIconData(0xF11C1);
 
+  /// Icon for printer-3d-nozzle-heat.
+  static const printer3dNozzleHeat = MdiIconData(0xF18B8);
+
+  /// Icon for printer-3d-nozzle-heat-outline.
+  static const printer3dNozzleHeatOutline = MdiIconData(0xF18B9);
+
+  /// Icon for printer-3d-nozzle-off.
+  static const printer3dNozzleOff = MdiIconData(0xF1B19);
+
+  /// Icon for printer-3d-nozzle-off-outline.
+  static const printer3dNozzleOffOutline = MdiIconData(0xF1B1A);
+
   /// Icon for printer-3d-nozzle-outline.
   static const printer3dNozzleOutline = MdiIconData(0xF0E5C);
+
+  /// Icon for printer-3d-off.
+  static const printer3dOff = MdiIconData(0xF1B0E);
 
   /// Icon for printer-alert.
   static const printerAlert = MdiIconData(0xF042C);
@@ -12951,6 +15570,12 @@ class Mdi {
 
   /// Icon for printer-off.
   static const printerOff = MdiIconData(0xF0E5D);
+
+  /// Icon for printer-off-outline.
+  static const printerOffOutline = MdiIconData(0xF1785);
+
+  /// Icon for printer-outline.
+  static const printerOutline = MdiIconData(0xF1786);
 
   /// Icon for printer-pos.
   static const printerPos = MdiIconData(0xF1057);
@@ -12988,8 +15613,17 @@ class Mdi {
   /// Icon for progress-download.
   static const progressDownload = MdiIconData(0xF0997);
 
+  /// Icon for progress-helper.
+  static const progressHelper = MdiIconData(0xF1BA2);
+
+  /// Icon for progress-pencil.
+  static const progressPencil = MdiIconData(0xF1787);
+
   /// Icon for progress-question.
   static const progressQuestion = MdiIconData(0xF1522);
+
+  /// Icon for progress-star.
+  static const progressStar = MdiIconData(0xF1788);
 
   /// Icon for progress-upload.
   static const progressUpload = MdiIconData(0xF0998);
@@ -13000,8 +15634,32 @@ class Mdi {
   /// Icon for projector.
   static const projector = MdiIconData(0xF042E);
 
+  /// Icon for projector-off.
+  static const projectorOff = MdiIconData(0xF1A23);
+
   /// Icon for projector-screen.
   static const projectorScreen = MdiIconData(0xF042F);
+
+  /// Icon for projector-screen-off.
+  static const projectorScreenOff = MdiIconData(0xF180D);
+
+  /// Icon for projector-screen-off-outline.
+  static const projectorScreenOffOutline = MdiIconData(0xF180E);
+
+  /// Icon for projector-screen-outline.
+  static const projectorScreenOutline = MdiIconData(0xF1724);
+
+  /// Icon for projector-screen-variant.
+  static const projectorScreenVariant = MdiIconData(0xF180F);
+
+  /// Icon for projector-screen-variant-off.
+  static const projectorScreenVariantOff = MdiIconData(0xF1810);
+
+  /// Icon for projector-screen-variant-off-outline.
+  static const projectorScreenVariantOffOutline = MdiIconData(0xF1811);
+
+  /// Icon for projector-screen-variant-outline.
+  static const projectorScreenVariantOutline = MdiIconData(0xF1812);
 
   /// Icon for propane-tank.
   static const propaneTank = MdiIconData(0xF1357);
@@ -13015,11 +15673,17 @@ class Mdi {
   /// Icon for publish.
   static const publish = MdiIconData(0xF06A7);
 
+  /// Icon for publish-off.
+  static const publishOff = MdiIconData(0xF1945);
+
   /// Icon for pulse.
   static const pulse = MdiIconData(0xF0430);
 
   /// Icon for pump.
   static const pump = MdiIconData(0xF1402);
+
+  /// Icon for pump-off.
+  static const pumpOff = MdiIconData(0xF1B22);
 
   /// Icon for pumpkin.
   static const pumpkin = MdiIconData(0xF0BBF);
@@ -13078,6 +15742,12 @@ class Mdi {
   /// Icon for puzzle-star-outline.
   static const puzzleStarOutline = MdiIconData(0xF14DB);
 
+  /// Icon for pyramid.
+  static const pyramid = MdiIconData(0xF1952);
+
+  /// Icon for pyramid-off.
+  static const pyramidOff = MdiIconData(0xF1953);
+
   /// Icon for qi.
   static const qi = MdiIconData(0xF0999);
 
@@ -13120,6 +15790,12 @@ class Mdi {
   /// Icon for rabbit.
   static const rabbit = MdiIconData(0xF0907);
 
+  /// Icon for rabbit-variant.
+  static const rabbitVariant = MdiIconData(0xF1A61);
+
+  /// Icon for rabbit-variant-outline.
+  static const rabbitVariantOutline = MdiIconData(0xF1A62);
+
   /// Icon for racing-helmet.
   static const racingHelmet = MdiIconData(0xF0D93);
 
@@ -13159,6 +15835,12 @@ class Mdi {
   /// Icon for radioactive.
   static const radioactive = MdiIconData(0xF043C);
 
+  /// Icon for radioactive-circle.
+  static const radioactiveCircle = MdiIconData(0xF185D);
+
+  /// Icon for radioactive-circle-outline.
+  static const radioactiveCircleOutline = MdiIconData(0xF185E);
+
   /// Icon for radioactive-off.
   static const radioactiveOff = MdiIconData(0xF0EC1);
 
@@ -13189,6 +15871,12 @@ class Mdi {
   /// Icon for raspberry-pi.
   static const raspberryPi = MdiIconData(0xF043F);
 
+  /// Icon for raw.
+  static const raw = MdiIconData(0xF1A0F);
+
+  /// Icon for raw-off.
+  static const rawOff = MdiIconData(0xF1A10);
+
   /// Icon for ray-end.
   static const rayEnd = MdiIconData(0xF0440);
 
@@ -13210,6 +15898,12 @@ class Mdi {
   /// Icon for ray-vertex.
   static const rayVertex = MdiIconData(0xF0445);
 
+  /// Icon for razor-double-edge.
+  static const razorDoubleEdge = MdiIconData(0xF1997);
+
+  /// Icon for razor-single-edge.
+  static const razorSingleEdge = MdiIconData(0xF1998);
+
   /// Icon for react.
   static const react = MdiIconData(0xF0708);
 
@@ -13217,7 +15911,40 @@ class Mdi {
   static const read = MdiIconData(0xF0447);
 
   /// Icon for receipt.
-  static const receipt = MdiIconData(0xF0449);
+  static const receipt = MdiIconData(0xF0824);
+
+  /// Icon for receipt-outline.
+  static const receiptOutline = MdiIconData(0xF04F7);
+
+  /// Icon for receipt-text.
+  static const receiptText = MdiIconData(0xF0449);
+
+  /// Icon for receipt-text-check.
+  static const receiptTextCheck = MdiIconData(0xF1A63);
+
+  /// Icon for receipt-text-check-outline.
+  static const receiptTextCheckOutline = MdiIconData(0xF1A64);
+
+  /// Icon for receipt-text-minus.
+  static const receiptTextMinus = MdiIconData(0xF1A65);
+
+  /// Icon for receipt-text-minus-outline.
+  static const receiptTextMinusOutline = MdiIconData(0xF1A66);
+
+  /// Icon for receipt-text-outline.
+  static const receiptTextOutline = MdiIconData(0xF19DC);
+
+  /// Icon for receipt-text-plus.
+  static const receiptTextPlus = MdiIconData(0xF1A67);
+
+  /// Icon for receipt-text-plus-outline.
+  static const receiptTextPlusOutline = MdiIconData(0xF1A68);
+
+  /// Icon for receipt-text-remove.
+  static const receiptTextRemove = MdiIconData(0xF1A69);
+
+  /// Icon for receipt-text-remove-outline.
+  static const receiptTextRemoveOutline = MdiIconData(0xF1A6A);
 
   /// Icon for record.
   static const record = MdiIconData(0xF044A);
@@ -13266,6 +15993,9 @@ class Mdi {
 
   /// Icon for refresh.
   static const refresh = MdiIconData(0xF0450);
+
+  /// Icon for refresh-auto.
+  static const refreshAuto = MdiIconData(0xF18F2);
 
   /// Icon for refresh-circle.
   static const refreshCircle = MdiIconData(0xF1377);
@@ -13432,6 +16162,9 @@ class Mdi {
   /// Icon for repeat-once.
   static const repeatOnce = MdiIconData(0xF0458);
 
+  /// Icon for repeat-variant.
+  static const repeatVariant = MdiIconData(0xF0547);
+
   /// Icon for replay.
   static const replay = MdiIconData(0xF0459);
 
@@ -13489,8 +16222,14 @@ class Mdi {
   /// Icon for rewind-10.
   static const rewind10 = MdiIconData(0xF0D2A);
 
+  /// Icon for rewind-15.
+  static const rewind15 = MdiIconData(0xF1946);
+
   /// Icon for rewind-30.
   static const rewind30 = MdiIconData(0xF0D96);
+
+  /// Icon for rewind-45.
+  static const rewind45 = MdiIconData(0xF1B13);
 
   /// Icon for rewind-5.
   static const rewind5 = MdiIconData(0xF11F9);
@@ -13573,8 +16312,17 @@ class Mdi {
   /// Icon for robot-excited-outline.
   static const robotExcitedOutline = MdiIconData(0xF16A4);
 
+  /// Icon for robot-happy.
+  static const robotHappy = MdiIconData(0xF1719);
+
+  /// Icon for robot-happy-outline.
+  static const robotHappyOutline = MdiIconData(0xF171A);
+
   /// Icon for robot-industrial.
   static const robotIndustrial = MdiIconData(0xF0B46);
+
+  /// Icon for robot-industrial-outline.
+  static const robotIndustrialOutline = MdiIconData(0xF1A1A);
 
   /// Icon for robot-love.
   static const robotLove = MdiIconData(0xF16A5);
@@ -13600,8 +16348,14 @@ class Mdi {
   /// Icon for robot-vacuum.
   static const robotVacuum = MdiIconData(0xF070D);
 
+  /// Icon for robot-vacuum-alert.
+  static const robotVacuumAlert = MdiIconData(0xF1B5D);
+
   /// Icon for robot-vacuum-variant.
   static const robotVacuumVariant = MdiIconData(0xF0908);
+
+  /// Icon for robot-vacuum-variant-alert.
+  static const robotVacuumVariantAlert = MdiIconData(0xF1B5E);
 
   /// Icon for rocket.
   static const rocket = MdiIconData(0xF0463);
@@ -13618,6 +16372,12 @@ class Mdi {
   /// Icon for rodent.
   static const rodent = MdiIconData(0xF1327);
 
+  /// Icon for roller-shade.
+  static const rollerShade = MdiIconData(0xF1A6B);
+
+  /// Icon for roller-shade-closed.
+  static const rollerShadeClosed = MdiIconData(0xF1A6C);
+
   /// Icon for roller-skate.
   static const rollerSkate = MdiIconData(0xF0D2B);
 
@@ -13632,6 +16392,12 @@ class Mdi {
 
   /// Icon for rollupjs.
   static const rollupjs = MdiIconData(0xF0BC0);
+
+  /// Icon for rolodex.
+  static const rolodex = MdiIconData(0xF1AB9);
+
+  /// Icon for rolodex-outline.
+  static const rolodexOutline = MdiIconData(0xF1ABA);
 
   /// Icon for roman-numeral-1.
   static const romanNumeral1 = MdiIconData(0xF1088);
@@ -13668,6 +16434,9 @@ class Mdi {
 
   /// Icon for room-service-outline.
   static const roomServiceOutline = MdiIconData(0xF0D97);
+
+  /// Icon for rotate-360.
+  static const rotate360 = MdiIconData(0xF1999);
 
   /// Icon for rotate-3d.
   static const rotate3d = MdiIconData(0xF0EC7);
@@ -13771,8 +16540,14 @@ class Mdi {
   /// Icon for sail-boat.
   static const sailBoat = MdiIconData(0xF0EC8);
 
+  /// Icon for sail-boat-sink.
+  static const sailBoatSink = MdiIconData(0xF1AEF);
+
   /// Icon for sale.
   static const sale = MdiIconData(0xF046F);
+
+  /// Icon for sale-outline.
+  static const saleOutline = MdiIconData(0xF1A06);
 
   /// Icon for salesforce.
   static const salesforce = MdiIconData(0xF088E);
@@ -13791,6 +16566,9 @@ class Mdi {
 
   /// Icon for sausage.
   static const sausage = MdiIconData(0xF08BA);
+
+  /// Icon for sausage-off.
+  static const sausageOff = MdiIconData(0xF1789);
 
   /// Icon for saw-blade.
   static const sawBlade = MdiIconData(0xF0E61);
@@ -13813,6 +16591,9 @@ class Mdi {
   /// Icon for scale-off.
   static const scaleOff = MdiIconData(0xF105A);
 
+  /// Icon for scale-unbalanced.
+  static const scaleUnbalanced = MdiIconData(0xF19B8);
+
   /// Icon for scan-helper.
   static const scanHelper = MdiIconData(0xF13D8);
 
@@ -13827,6 +16608,12 @@ class Mdi {
 
   /// Icon for scatter-plot-outline.
   static const scatterPlotOutline = MdiIconData(0xF0ECA);
+
+  /// Icon for scent.
+  static const scent = MdiIconData(0xF1958);
+
+  /// Icon for scent-off.
+  static const scentOff = MdiIconData(0xF1959);
 
   /// Icon for school.
   static const school = MdiIconData(0xF0474);
@@ -13882,8 +16669,20 @@ class Mdi {
   /// Icon for script-text.
   static const scriptText = MdiIconData(0xF0BC2);
 
+  /// Icon for script-text-key.
+  static const scriptTextKey = MdiIconData(0xF1725);
+
+  /// Icon for script-text-key-outline.
+  static const scriptTextKeyOutline = MdiIconData(0xF1726);
+
   /// Icon for script-text-outline.
   static const scriptTextOutline = MdiIconData(0xF0BC3);
+
+  /// Icon for script-text-play.
+  static const scriptTextPlay = MdiIconData(0xF1727);
+
+  /// Icon for script-text-play-outline.
+  static const scriptTextPlayOutline = MdiIconData(0xF1728);
 
   /// Icon for sd.
   static const sd = MdiIconData(0xF0479);
@@ -13951,6 +16750,12 @@ class Mdi {
   /// Icon for seed-outline.
   static const seedOutline = MdiIconData(0xF0E63);
 
+  /// Icon for seed-plus.
+  static const seedPlus = MdiIconData(0xF1A6D);
+
+  /// Icon for seed-plus-outline.
+  static const seedPlusOutline = MdiIconData(0xF1A6E);
+
   /// Icon for seesaw.
   static const seesaw = MdiIconData(0xF15A4);
 
@@ -13962,6 +16767,12 @@ class Mdi {
 
   /// Icon for select-all.
   static const selectAll = MdiIconData(0xF0486);
+
+  /// Icon for select-arrow-down.
+  static const selectArrowDown = MdiIconData(0xF1B59);
+
+  /// Icon for select-arrow-up.
+  static const selectArrowUp = MdiIconData(0xF1B58);
 
   /// Icon for select-color.
   static const selectColor = MdiIconData(0xF0D31);
@@ -13993,6 +16804,9 @@ class Mdi {
   /// Icon for select-place.
   static const selectPlace = MdiIconData(0xF0FDA);
 
+  /// Icon for select-remove.
+  static const selectRemove = MdiIconData(0xF17C1);
+
   /// Icon for select-search.
   static const selectSearch = MdiIconData(0xF1204);
 
@@ -14008,6 +16822,9 @@ class Mdi {
   /// Icon for selection-ellipse-arrow-inside.
   static const selectionEllipseArrowInside = MdiIconData(0xF0F22);
 
+  /// Icon for selection-ellipse-remove.
+  static const selectionEllipseRemove = MdiIconData(0xF17C2);
+
   /// Icon for selection-marker.
   static const selectionMarker = MdiIconData(0xF1283);
 
@@ -14019,6 +16836,9 @@ class Mdi {
 
   /// Icon for selection-off.
   static const selectionOff = MdiIconData(0xF0777);
+
+  /// Icon for selection-remove.
+  static const selectionRemove = MdiIconData(0xF17C3);
 
   /// Icon for selection-search.
   static const selectionSearch = MdiIconData(0xF1205);
@@ -14182,11 +17002,17 @@ class Mdi {
   /// Icon for share-variant-outline.
   static const shareVariantOutline = MdiIconData(0xF1514);
 
+  /// Icon for shark.
+  static const shark = MdiIconData(0xF18BA);
+
   /// Icon for shark-fin.
   static const sharkFin = MdiIconData(0xF1673);
 
   /// Icon for shark-fin-outline.
   static const sharkFinOutline = MdiIconData(0xF1674);
+
+  /// Icon for shark-off.
+  static const sharkOff = MdiIconData(0xF18BB);
 
   /// Icon for sheep.
   static const sheep = MdiIconData(0xF0CC6);
@@ -14239,6 +17065,12 @@ class Mdi {
   /// Icon for shield-cross-outline.
   static const shieldCrossOutline = MdiIconData(0xF0CCA);
 
+  /// Icon for shield-crown.
+  static const shieldCrown = MdiIconData(0xF18BC);
+
+  /// Icon for shield-crown-outline.
+  static const shieldCrownOutline = MdiIconData(0xF18BD);
+
   /// Icon for shield-edit.
   static const shieldEdit = MdiIconData(0xF11A0);
 
@@ -14272,8 +17104,20 @@ class Mdi {
   /// Icon for shield-lock.
   static const shieldLock = MdiIconData(0xF099D);
 
+  /// Icon for shield-lock-open.
+  static const shieldLockOpen = MdiIconData(0xF199A);
+
+  /// Icon for shield-lock-open-outline.
+  static const shieldLockOpenOutline = MdiIconData(0xF199B);
+
   /// Icon for shield-lock-outline.
   static const shieldLockOutline = MdiIconData(0xF0CCC);
+
+  /// Icon for shield-moon.
+  static const shieldMoon = MdiIconData(0xF1828);
+
+  /// Icon for shield-moon-outline.
+  static const shieldMoonOutline = MdiIconData(0xF1829);
 
   /// Icon for shield-off.
   static const shieldOff = MdiIconData(0xF099E);
@@ -14317,14 +17161,26 @@ class Mdi {
   /// Icon for shield-sun-outline.
   static const shieldSunOutline = MdiIconData(0xF105E);
 
+  /// Icon for shield-sword.
+  static const shieldSword = MdiIconData(0xF18BE);
+
+  /// Icon for shield-sword-outline.
+  static const shieldSwordOutline = MdiIconData(0xF18BF);
+
   /// Icon for shield-sync.
   static const shieldSync = MdiIconData(0xF11A2);
 
   /// Icon for shield-sync-outline.
   static const shieldSyncOutline = MdiIconData(0xF11A3);
 
+  /// Icon for shimmer.
+  static const shimmer = MdiIconData(0xF1545);
+
   /// Icon for ship-wheel.
   static const shipWheel = MdiIconData(0xF0833);
+
+  /// Icon for shipping-pallet.
+  static const shippingPallet = MdiIconData(0xF184E);
 
   /// Icon for shoe-ballet.
   static const shoeBallet = MdiIconData(0xF15CA);
@@ -14356,6 +17212,9 @@ class Mdi {
   /// Icon for shopping-search.
   static const shoppingSearch = MdiIconData(0xF0F84);
 
+  /// Icon for shopping-search-outline.
+  static const shoppingSearchOutline = MdiIconData(0xF1A6F);
+
   /// Icon for shore.
   static const shore = MdiIconData(0xF14F9);
 
@@ -14386,6 +17245,9 @@ class Mdi {
   /// Icon for shuriken.
   static const shuriken = MdiIconData(0xF137F);
 
+  /// Icon for sickle.
+  static const sickle = MdiIconData(0xF18C0);
+
   /// Icon for sigma.
   static const sigma = MdiIconData(0xF04A0);
 
@@ -14407,6 +17269,12 @@ class Mdi {
   /// Icon for sign-direction-remove.
   static const signDirectionRemove = MdiIconData(0xF0FDD);
 
+  /// Icon for sign-language.
+  static const signLanguage = MdiIconData(0xF1B4D);
+
+  /// Icon for sign-language-outline.
+  static const signLanguageOutline = MdiIconData(0xF1B4E);
+
   /// Icon for sign-pole.
   static const signPole = MdiIconData(0xF14F8);
 
@@ -14415,6 +17283,9 @@ class Mdi {
 
   /// Icon for sign-text.
   static const signText = MdiIconData(0xF0782);
+
+  /// Icon for sign-yield.
+  static const signYield = MdiIconData(0xF1BAF);
 
   /// Icon for signal.
   static const signal = MdiIconData(0xF04A2);
@@ -14471,7 +17342,10 @@ class Mdi {
   static const signatureText = MdiIconData(0xF0DFE);
 
   /// Icon for silo.
-  static const silo = MdiIconData(0xF0B49);
+  static const silo = MdiIconData(0xF1B9F);
+
+  /// Icon for silo-outline.
+  static const siloOutline = MdiIconData(0xF0B49);
 
   /// Icon for silverware.
   static const silverware = MdiIconData(0xF04A3);
@@ -14521,6 +17395,9 @@ class Mdi {
   /// Icon for sitemap.
   static const sitemap = MdiIconData(0xF04AA);
 
+  /// Icon for sitemap-outline.
+  static const sitemapOutline = MdiIconData(0xF199C);
+
   /// Icon for size-l.
   static const sizeL = MdiIconData(0xF13A6);
 
@@ -14548,8 +17425,14 @@ class Mdi {
   /// Icon for skate.
   static const skate = MdiIconData(0xF0D35);
 
+  /// Icon for skate-off.
+  static const skateOff = MdiIconData(0xF0699);
+
   /// Icon for skateboard.
   static const skateboard = MdiIconData(0xF14C2);
+
+  /// Icon for skateboarding.
+  static const skateboarding = MdiIconData(0xF0501);
 
   /// Icon for skew-less.
   static const skewLess = MdiIconData(0xF0D36);
@@ -14635,6 +17518,9 @@ class Mdi {
   /// Icon for slash-forward-box.
   static const slashForwardBox = MdiIconData(0xF0FE0);
 
+  /// Icon for sledding.
+  static const sledding = MdiIconData(0xF041B);
+
   /// Icon for sleep.
   static const sleep = MdiIconData(0xF04B2);
 
@@ -14659,6 +17545,12 @@ class Mdi {
   /// Icon for smart-card.
   static const smartCard = MdiIconData(0xF10BD);
 
+  /// Icon for smart-card-off.
+  static const smartCardOff = MdiIconData(0xF18F7);
+
+  /// Icon for smart-card-off-outline.
+  static const smartCardOffOutline = MdiIconData(0xF18F8);
+
   /// Icon for smart-card-outline.
   static const smartCardOutline = MdiIconData(0xF10BE);
 
@@ -14671,8 +17563,35 @@ class Mdi {
   /// Icon for smog.
   static const smog = MdiIconData(0xF0A71);
 
+  /// Icon for smoke.
+  static const smoke = MdiIconData(0xF1799);
+
   /// Icon for smoke-detector.
   static const smokeDetector = MdiIconData(0xF0392);
+
+  /// Icon for smoke-detector-alert.
+  static const smokeDetectorAlert = MdiIconData(0xF192E);
+
+  /// Icon for smoke-detector-alert-outline.
+  static const smokeDetectorAlertOutline = MdiIconData(0xF192F);
+
+  /// Icon for smoke-detector-off.
+  static const smokeDetectorOff = MdiIconData(0xF1809);
+
+  /// Icon for smoke-detector-off-outline.
+  static const smokeDetectorOffOutline = MdiIconData(0xF180A);
+
+  /// Icon for smoke-detector-outline.
+  static const smokeDetectorOutline = MdiIconData(0xF1808);
+
+  /// Icon for smoke-detector-variant.
+  static const smokeDetectorVariant = MdiIconData(0xF180B);
+
+  /// Icon for smoke-detector-variant-alert.
+  static const smokeDetectorVariantAlert = MdiIconData(0xF1930);
+
+  /// Icon for smoke-detector-variant-off.
+  static const smokeDetectorVariantOff = MdiIconData(0xF180C);
 
   /// Icon for smoking.
   static const smoking = MdiIconData(0xF04B4);
@@ -14704,17 +17623,29 @@ class Mdi {
   /// Icon for snowflake-alert.
   static const snowflakeAlert = MdiIconData(0xF0F29);
 
+  /// Icon for snowflake-check.
+  static const snowflakeCheck = MdiIconData(0xF1A70);
+
   /// Icon for snowflake-melt.
   static const snowflakeMelt = MdiIconData(0xF12CB);
 
   /// Icon for snowflake-off.
   static const snowflakeOff = MdiIconData(0xF14E3);
 
+  /// Icon for snowflake-thermometer.
+  static const snowflakeThermometer = MdiIconData(0xF1A71);
+
   /// Icon for snowflake-variant.
   static const snowflakeVariant = MdiIconData(0xF0F2A);
 
   /// Icon for snowman.
   static const snowman = MdiIconData(0xF04B7);
+
+  /// Icon for snowmobile.
+  static const snowmobile = MdiIconData(0xF06DD);
+
+  /// Icon for snowshoeing.
+  static const snowshoeing = MdiIconData(0xF1A72);
 
   /// Icon for soccer.
   static const soccer = MdiIconData(0xF04B8);
@@ -14748,6 +17679,12 @@ class Mdi {
 
   /// Icon for solar-power.
   static const solarPower = MdiIconData(0xF0A72);
+
+  /// Icon for solar-power-variant.
+  static const solarPowerVariant = MdiIconData(0xF1A73);
+
+  /// Icon for solar-power-variant-outline.
+  static const solarPowerVariantOutline = MdiIconData(0xF1A74);
 
   /// Icon for soldering-iron.
   static const solderingIron = MdiIconData(0xF1092);
@@ -14839,8 +17776,14 @@ class Mdi {
   /// Icon for sort-variant-lock-open.
   static const sortVariantLockOpen = MdiIconData(0xF0CCE);
 
+  /// Icon for sort-variant-off.
+  static const sortVariantOff = MdiIconData(0xF1ABB);
+
   /// Icon for sort-variant-remove.
   static const sortVariantRemove = MdiIconData(0xF1147);
+
+  /// Icon for soundbar.
+  static const soundbar = MdiIconData(0xF17DB);
 
   /// Icon for soundcloud.
   static const soundcloud = MdiIconData(0xF04C0);
@@ -14923,14 +17866,14 @@ class Mdi {
   /// Icon for spade.
   static const spade = MdiIconData(0xF0E65);
 
-  /// Icon for sparkles.
-  static const sparkles = MdiIconData(0xF1545);
-
   /// Icon for speaker.
   static const speaker = MdiIconData(0xF04C3);
 
   /// Icon for speaker-bluetooth.
   static const speakerBluetooth = MdiIconData(0xF09A2);
+
+  /// Icon for speaker-message.
+  static const speakerMessage = MdiIconData(0xF1B11);
 
   /// Icon for speaker-multiple.
   static const speakerMultiple = MdiIconData(0xF0D38);
@@ -14938,8 +17881,20 @@ class Mdi {
   /// Icon for speaker-off.
   static const speakerOff = MdiIconData(0xF04C4);
 
+  /// Icon for speaker-pause.
+  static const speakerPause = MdiIconData(0xF1B73);
+
+  /// Icon for speaker-play.
+  static const speakerPlay = MdiIconData(0xF1B72);
+
+  /// Icon for speaker-stop.
+  static const speakerStop = MdiIconData(0xF1B74);
+
   /// Icon for speaker-wireless.
   static const speakerWireless = MdiIconData(0xF071F);
+
+  /// Icon for spear.
+  static const spear = MdiIconData(0xF1845);
 
   /// Icon for speedometer.
   static const speedometer = MdiIconData(0xF04C5);
@@ -14952,6 +17907,12 @@ class Mdi {
 
   /// Icon for spellcheck.
   static const spellcheck = MdiIconData(0xF04C6);
+
+  /// Icon for sphere.
+  static const sphere = MdiIconData(0xF1954);
+
+  /// Icon for sphere-off.
+  static const sphereOff = MdiIconData(0xF1955);
 
   /// Icon for spider.
   static const spider = MdiIconData(0xF11EA);
@@ -14986,6 +17947,9 @@ class Mdi {
   /// Icon for sprinkler.
   static const sprinkler = MdiIconData(0xF105F);
 
+  /// Icon for sprinkler-fire.
+  static const sprinklerFire = MdiIconData(0xF199D);
+
   /// Icon for sprinkler-variant.
   static const sprinklerVariant = MdiIconData(0xF1060);
 
@@ -15016,6 +17980,9 @@ class Mdi {
   /// Icon for square-off-outline.
   static const squareOffOutline = MdiIconData(0xF12EF);
 
+  /// Icon for square-opacity.
+  static const squareOpacity = MdiIconData(0xF1854);
+
   /// Icon for square-outline.
   static const squareOutline = MdiIconData(0xF0763);
 
@@ -15027,6 +17994,12 @@ class Mdi {
 
   /// Icon for square-rounded.
   static const squareRounded = MdiIconData(0xF14FB);
+
+  /// Icon for square-rounded-badge.
+  static const squareRoundedBadge = MdiIconData(0xF1A07);
+
+  /// Icon for square-rounded-badge-outline.
+  static const squareRoundedBadgeOutline = MdiIconData(0xF1A08);
 
   /// Icon for square-rounded-outline.
   static const squareRoundedOutline = MdiIconData(0xF14FC);
@@ -15054,6 +18027,9 @@ class Mdi {
 
   /// Icon for stadium.
   static const stadium = MdiIconData(0xF0FF9);
+
+  /// Icon for stadium-outline.
+  static const stadiumOutline = MdiIconData(0xF1B03);
 
   /// Icon for stadium-variant.
   static const stadiumVariant = MdiIconData(0xF0720);
@@ -15109,6 +18085,12 @@ class Mdi {
   /// Icon for star-cog-outline.
   static const starCogOutline = MdiIconData(0xF1669);
 
+  /// Icon for star-crescent.
+  static const starCrescent = MdiIconData(0xF0979);
+
+  /// Icon for star-david.
+  static const starDavid = MdiIconData(0xF097A);
+
   /// Icon for star-face.
   static const starFace = MdiIconData(0xF09A5);
 
@@ -15156,6 +18138,12 @@ class Mdi {
 
   /// Icon for star-settings-outline.
   static const starSettingsOutline = MdiIconData(0xF166B);
+
+  /// Icon for star-shooting.
+  static const starShooting = MdiIconData(0xF1741);
+
+  /// Icon for star-shooting-outline.
+  static const starShootingOutline = MdiIconData(0xF1742);
 
   /// Icon for star-three-points.
   static const starThreePoints = MdiIconData(0xF0AE4);
@@ -15232,11 +18220,23 @@ class Mdi {
   /// Icon for sticker-remove-outline.
   static const stickerRemoveOutline = MdiIconData(0xF136F);
 
+  /// Icon for sticker-text.
+  static const stickerText = MdiIconData(0xF178E);
+
+  /// Icon for sticker-text-outline.
+  static const stickerTextOutline = MdiIconData(0xF178F);
+
   /// Icon for stocking.
   static const stocking = MdiIconData(0xF04DA);
 
   /// Icon for stomach.
   static const stomach = MdiIconData(0xF1093);
+
+  /// Icon for stool.
+  static const stool = MdiIconData(0xF195D);
+
+  /// Icon for stool-outline.
+  static const stoolOutline = MdiIconData(0xF195E);
 
   /// Icon for stop.
   static const stop = MdiIconData(0xF04DB);
@@ -15247,14 +18247,65 @@ class Mdi {
   /// Icon for stop-circle-outline.
   static const stopCircleOutline = MdiIconData(0xF0667);
 
+  /// Icon for storage-tank.
+  static const storageTank = MdiIconData(0xF1A75);
+
+  /// Icon for storage-tank-outline.
+  static const storageTankOutline = MdiIconData(0xF1A76);
+
   /// Icon for store.
   static const store = MdiIconData(0xF04DC);
 
   /// Icon for store-24-hour.
   static const store24Hour = MdiIconData(0xF04DD);
 
+  /// Icon for store-alert.
+  static const storeAlert = MdiIconData(0xF18C1);
+
+  /// Icon for store-alert-outline.
+  static const storeAlertOutline = MdiIconData(0xF18C2);
+
+  /// Icon for store-check.
+  static const storeCheck = MdiIconData(0xF18C3);
+
+  /// Icon for store-check-outline.
+  static const storeCheckOutline = MdiIconData(0xF18C4);
+
+  /// Icon for store-clock.
+  static const storeClock = MdiIconData(0xF18C5);
+
+  /// Icon for store-clock-outline.
+  static const storeClockOutline = MdiIconData(0xF18C6);
+
+  /// Icon for store-cog.
+  static const storeCog = MdiIconData(0xF18C7);
+
+  /// Icon for store-cog-outline.
+  static const storeCogOutline = MdiIconData(0xF18C8);
+
+  /// Icon for store-edit.
+  static const storeEdit = MdiIconData(0xF18C9);
+
+  /// Icon for store-edit-outline.
+  static const storeEditOutline = MdiIconData(0xF18CA);
+
+  /// Icon for store-marker.
+  static const storeMarker = MdiIconData(0xF18CB);
+
+  /// Icon for store-marker-outline.
+  static const storeMarkerOutline = MdiIconData(0xF18CC);
+
   /// Icon for store-minus.
   static const storeMinus = MdiIconData(0xF165E);
+
+  /// Icon for store-minus-outline.
+  static const storeMinusOutline = MdiIconData(0xF18CD);
+
+  /// Icon for store-off.
+  static const storeOff = MdiIconData(0xF18CE);
+
+  /// Icon for store-off-outline.
+  static const storeOffOutline = MdiIconData(0xF18CF);
 
   /// Icon for store-outline.
   static const storeOutline = MdiIconData(0xF1361);
@@ -15262,14 +18313,62 @@ class Mdi {
   /// Icon for store-plus.
   static const storePlus = MdiIconData(0xF165F);
 
+  /// Icon for store-plus-outline.
+  static const storePlusOutline = MdiIconData(0xF18D0);
+
   /// Icon for store-remove.
   static const storeRemove = MdiIconData(0xF1660);
+
+  /// Icon for store-remove-outline.
+  static const storeRemoveOutline = MdiIconData(0xF18D1);
+
+  /// Icon for store-search.
+  static const storeSearch = MdiIconData(0xF18D2);
+
+  /// Icon for store-search-outline.
+  static const storeSearchOutline = MdiIconData(0xF18D3);
+
+  /// Icon for store-settings.
+  static const storeSettings = MdiIconData(0xF18D4);
+
+  /// Icon for store-settings-outline.
+  static const storeSettingsOutline = MdiIconData(0xF18D5);
 
   /// Icon for storefront.
   static const storefront = MdiIconData(0xF07C7);
 
+  /// Icon for storefront-check.
+  static const storefrontCheck = MdiIconData(0xF1B7D);
+
+  /// Icon for storefront-check-outline.
+  static const storefrontCheckOutline = MdiIconData(0xF1B7E);
+
+  /// Icon for storefront-edit.
+  static const storefrontEdit = MdiIconData(0xF1B7F);
+
+  /// Icon for storefront-edit-outline.
+  static const storefrontEditOutline = MdiIconData(0xF1B80);
+
+  /// Icon for storefront-minus.
+  static const storefrontMinus = MdiIconData(0xF1B83);
+
+  /// Icon for storefront-minus-outline.
+  static const storefrontMinusOutline = MdiIconData(0xF1B84);
+
   /// Icon for storefront-outline.
   static const storefrontOutline = MdiIconData(0xF10C1);
+
+  /// Icon for storefront-plus.
+  static const storefrontPlus = MdiIconData(0xF1B81);
+
+  /// Icon for storefront-plus-outline.
+  static const storefrontPlusOutline = MdiIconData(0xF1B82);
+
+  /// Icon for storefront-remove.
+  static const storefrontRemove = MdiIconData(0xF1B85);
+
+  /// Icon for storefront-remove-outline.
+  static const storefrontRemoveOutline = MdiIconData(0xF1B86);
 
   /// Icon for stove.
   static const stove = MdiIconData(0xF04DE);
@@ -15316,8 +18415,44 @@ class Mdi {
   /// Icon for summit.
   static const summit = MdiIconData(0xF0786);
 
+  /// Icon for sun-angle.
+  static const sunAngle = MdiIconData(0xF1B27);
+
+  /// Icon for sun-angle-outline.
+  static const sunAngleOutline = MdiIconData(0xF1B28);
+
+  /// Icon for sun-clock.
+  static const sunClock = MdiIconData(0xF1A77);
+
+  /// Icon for sun-clock-outline.
+  static const sunClockOutline = MdiIconData(0xF1A78);
+
+  /// Icon for sun-compass.
+  static const sunCompass = MdiIconData(0xF19A5);
+
+  /// Icon for sun-snowflake.
+  static const sunSnowflake = MdiIconData(0xF1796);
+
+  /// Icon for sun-snowflake-variant.
+  static const sunSnowflakeVariant = MdiIconData(0xF1A79);
+
+  /// Icon for sun-thermometer.
+  static const sunThermometer = MdiIconData(0xF18D6);
+
+  /// Icon for sun-thermometer-outline.
+  static const sunThermometerOutline = MdiIconData(0xF18D7);
+
+  /// Icon for sun-wireless.
+  static const sunWireless = MdiIconData(0xF17FE);
+
+  /// Icon for sun-wireless-outline.
+  static const sunWirelessOutline = MdiIconData(0xF17FF);
+
   /// Icon for sunglasses.
   static const sunglasses = MdiIconData(0xF04E0);
+
+  /// Icon for surfing.
+  static const surfing = MdiIconData(0xF1746);
 
   /// Icon for surround-sound.
   static const surroundSound = MdiIconData(0xF05C5);
@@ -15325,11 +18460,17 @@ class Mdi {
   /// Icon for surround-sound-2-0.
   static const surroundSound20 = MdiIconData(0xF07F0);
 
+  /// Icon for surround-sound-2-1.
+  static const surroundSound21 = MdiIconData(0xF1729);
+
   /// Icon for surround-sound-3-1.
   static const surroundSound31 = MdiIconData(0xF07F1);
 
   /// Icon for surround-sound-5-1.
   static const surroundSound51 = MdiIconData(0xF07F2);
+
+  /// Icon for surround-sound-5-1-2.
+  static const surroundSound512 = MdiIconData(0xF172A);
 
   /// Icon for surround-sound-7-1.
   static const surroundSound71 = MdiIconData(0xF07F3);
@@ -15397,6 +18538,12 @@ class Mdi {
   /// Icon for symfony.
   static const symfony = MdiIconData(0xF0AE6);
 
+  /// Icon for synagogue.
+  static const synagogue = MdiIconData(0xF1B04);
+
+  /// Icon for synagogue-outline.
+  static const synagogueOutline = MdiIconData(0xF1B05);
+
   /// Icon for sync.
   static const syncIcon = MdiIconData(0xF04E6);
 
@@ -15420,6 +18567,9 @@ class Mdi {
 
   /// Icon for tab-remove.
   static const tabRemove = MdiIconData(0xF0B4C);
+
+  /// Icon for tab-search.
+  static const tabSearch = MdiIconData(0xF199E);
 
   /// Icon for tab-unselected.
   static const tabUnselected = MdiIconData(0xF04EA);
@@ -15487,6 +18637,9 @@ class Mdi {
   /// Icon for table-eye-off.
   static const tableEyeOff = MdiIconData(0xF13C3);
 
+  /// Icon for table-filter.
+  static const tableFilter = MdiIconData(0xF1B8C);
+
   /// Icon for table-furniture.
   static const tableFurniture = MdiIconData(0xF05BC);
 
@@ -15532,8 +18685,17 @@ class Mdi {
   /// Icon for table-off.
   static const tableOff = MdiIconData(0xF13CA);
 
+  /// Icon for table-picnic.
+  static const tablePicnic = MdiIconData(0xF1743);
+
+  /// Icon for table-pivot.
+  static const tablePivot = MdiIconData(0xF183C);
+
   /// Icon for table-plus.
   static const tablePlus = MdiIconData(0xF0A75);
+
+  /// Icon for table-question.
+  static const tableQuestion = MdiIconData(0xF1B21);
 
   /// Icon for table-refresh.
   static const tableRefresh = MdiIconData(0xF13A0);
@@ -15577,23 +18739,47 @@ class Mdi {
   /// Icon for tablet.
   static const tablet = MdiIconData(0xF04F6);
 
-  /// Icon for tablet-android.
-  static const tabletAndroid = MdiIconData(0xF04F7);
-
   /// Icon for tablet-cellphone.
   static const tabletCellphone = MdiIconData(0xF09A7);
 
   /// Icon for tablet-dashboard.
   static const tabletDashboard = MdiIconData(0xF0ECE);
 
-  /// Icon for tablet-ipad.
-  static const tabletIpad = MdiIconData(0xF04F8);
-
   /// Icon for taco.
   static const taco = MdiIconData(0xF0762);
 
   /// Icon for tag.
   static const tag = MdiIconData(0xF04F9);
+
+  /// Icon for tag-arrow-down.
+  static const tagArrowDown = MdiIconData(0xF172B);
+
+  /// Icon for tag-arrow-down-outline.
+  static const tagArrowDownOutline = MdiIconData(0xF172C);
+
+  /// Icon for tag-arrow-left.
+  static const tagArrowLeft = MdiIconData(0xF172D);
+
+  /// Icon for tag-arrow-left-outline.
+  static const tagArrowLeftOutline = MdiIconData(0xF172E);
+
+  /// Icon for tag-arrow-right.
+  static const tagArrowRight = MdiIconData(0xF172F);
+
+  /// Icon for tag-arrow-right-outline.
+  static const tagArrowRightOutline = MdiIconData(0xF1730);
+
+  /// Icon for tag-arrow-up.
+  static const tagArrowUp = MdiIconData(0xF1731);
+
+  /// Icon for tag-arrow-up-outline.
+  static const tagArrowUpOutline = MdiIconData(0xF1732);
+
+  /// Icon for tag-check.
+  static const tagCheck = MdiIconData(0xF1A7A);
+
+  /// Icon for tag-check-outline.
+  static const tagCheckOutline = MdiIconData(0xF1A7B);
 
   /// Icon for tag-faces.
   static const tagFaces = MdiIconData(0xF04FA);
@@ -15637,6 +18823,12 @@ class Mdi {
   /// Icon for tag-remove-outline.
   static const tagRemoveOutline = MdiIconData(0xF1223);
 
+  /// Icon for tag-search.
+  static const tagSearch = MdiIconData(0xF1907);
+
+  /// Icon for tag-search-outline.
+  static const tagSearchOutline = MdiIconData(0xF1908);
+
   /// Icon for tag-text.
   static const tagText = MdiIconData(0xF1224);
 
@@ -15645,6 +18837,24 @@ class Mdi {
 
   /// Icon for tailwind.
   static const tailwind = MdiIconData(0xF13FF);
+
+  /// Icon for tally-mark-1.
+  static const tallyMark1 = MdiIconData(0xF1ABC);
+
+  /// Icon for tally-mark-2.
+  static const tallyMark2 = MdiIconData(0xF1ABD);
+
+  /// Icon for tally-mark-3.
+  static const tallyMark3 = MdiIconData(0xF1ABE);
+
+  /// Icon for tally-mark-4.
+  static const tallyMark4 = MdiIconData(0xF1ABF);
+
+  /// Icon for tally-mark-5.
+  static const tallyMark5 = MdiIconData(0xF1AC0);
+
+  /// Icon for tangram.
+  static const tangram = MdiIconData(0xF04F8);
 
   /// Icon for tank.
   static const tank = MdiIconData(0xF0D3A);
@@ -15676,14 +18886,11 @@ class Mdi {
   /// Icon for tea-outline.
   static const teaOutline = MdiIconData(0xF0D9F);
 
-  /// Icon for teach.
-  static const teach = MdiIconData(0xF0890);
-
   /// Icon for teamviewer.
   static const teamviewer = MdiIconData(0xF0500);
 
-  /// Icon for telegram.
-  static const telegram = MdiIconData(0xF0501);
+  /// Icon for teddy-bear.
+  static const teddyBear = MdiIconData(0xF18FB);
 
   /// Icon for telescope.
   static const telescope = MdiIconData(0xF0B4E);
@@ -15703,9 +18910,6 @@ class Mdi {
   /// Icon for television-classic-off.
   static const televisionClassicOff = MdiIconData(0xF083A);
 
-  /// Icon for television-clean.
-  static const televisionClean = MdiIconData(0xF1110);
-
   /// Icon for television-guide.
   static const televisionGuide = MdiIconData(0xF0503);
 
@@ -15718,6 +18922,15 @@ class Mdi {
   /// Icon for television-play.
   static const televisionPlay = MdiIconData(0xF0ECF);
 
+  /// Icon for television-shimmer.
+  static const televisionShimmer = MdiIconData(0xF1110);
+
+  /// Icon for television-speaker.
+  static const televisionSpeaker = MdiIconData(0xF1B1B);
+
+  /// Icon for television-speaker-off.
+  static const televisionSpeakerOff = MdiIconData(0xF1B1C);
+
   /// Icon for television-stop.
   static const televisionStop = MdiIconData(0xF0F8A);
 
@@ -15729,6 +18942,18 @@ class Mdi {
 
   /// Icon for temperature-kelvin.
   static const temperatureKelvin = MdiIconData(0xF0506);
+
+  /// Icon for temple-buddhist.
+  static const templeBuddhist = MdiIconData(0xF1B06);
+
+  /// Icon for temple-buddhist-outline.
+  static const templeBuddhistOutline = MdiIconData(0xF1B07);
+
+  /// Icon for temple-hindu.
+  static const templeHindu = MdiIconData(0xF1B08);
+
+  /// Icon for temple-hindu-outline.
+  static const templeHinduOutline = MdiIconData(0xF1B09);
 
   /// Icon for tennis.
   static const tennis = MdiIconData(0xF0DA0);
@@ -15769,6 +18994,12 @@ class Mdi {
   /// Icon for text-box-check-outline.
   static const textBoxCheckOutline = MdiIconData(0xF0EA7);
 
+  /// Icon for text-box-edit.
+  static const textBoxEdit = MdiIconData(0xF1A7C);
+
+  /// Icon for text-box-edit-outline.
+  static const textBoxEditOutline = MdiIconData(0xF1A7D);
+
   /// Icon for text-box-minus.
   static const textBoxMinus = MdiIconData(0xF0EA8);
 
@@ -15802,26 +19033,23 @@ class Mdi {
   /// Icon for text-box-search-outline.
   static const textBoxSearchOutline = MdiIconData(0xF0EAF);
 
+  /// Icon for text-long.
+  static const textLong = MdiIconData(0xF09AA);
+
   /// Icon for text-recognition.
   static const textRecognition = MdiIconData(0xF113D);
 
   /// Icon for text-search.
   static const textSearch = MdiIconData(0xF13B8);
 
+  /// Icon for text-search-variant.
+  static const textSearchVariant = MdiIconData(0xF1A7E);
+
   /// Icon for text-shadow.
   static const textShadow = MdiIconData(0xF0669);
 
   /// Icon for text-short.
   static const textShort = MdiIconData(0xF09A9);
-
-  /// Icon for text-subject.
-  static const textSubject = MdiIconData(0xF09AA);
-
-  /// Icon for text-to-speech.
-  static const textToSpeech = MdiIconData(0xF050A);
-
-  /// Icon for text-to-speech-off.
-  static const textToSpeechOff = MdiIconData(0xF050B);
 
   /// Icon for texture.
   static const texture = MdiIconData(0xF050C);
@@ -15840,6 +19068,15 @@ class Mdi {
 
   /// Icon for thermometer-alert.
   static const thermometerAlert = MdiIconData(0xF0E01);
+
+  /// Icon for thermometer-auto.
+  static const thermometerAuto = MdiIconData(0xF1B0F);
+
+  /// Icon for thermometer-bluetooth.
+  static const thermometerBluetooth = MdiIconData(0xF1895);
+
+  /// Icon for thermometer-check.
+  static const thermometerCheck = MdiIconData(0xF1A7F);
 
   /// Icon for thermometer-chevron-down.
   static const thermometerChevronDown = MdiIconData(0xF0E02);
@@ -15865,11 +19102,26 @@ class Mdi {
   /// Icon for thermometer-plus.
   static const thermometerPlus = MdiIconData(0xF0E05);
 
+  /// Icon for thermometer-probe.
+  static const thermometerProbe = MdiIconData(0xF1B2B);
+
+  /// Icon for thermometer-probe-off.
+  static const thermometerProbeOff = MdiIconData(0xF1B2C);
+
+  /// Icon for thermometer-water.
+  static const thermometerWater = MdiIconData(0xF1A80);
+
   /// Icon for thermostat.
   static const thermostat = MdiIconData(0xF0393);
 
+  /// Icon for thermostat-auto.
+  static const thermostatAuto = MdiIconData(0xF1B17);
+
   /// Icon for thermostat-box.
   static const thermostatBox = MdiIconData(0xF0891);
+
+  /// Icon for thermostat-box-auto.
+  static const thermostatBoxAuto = MdiIconData(0xF1B18);
 
   /// Icon for thought-bubble.
   static const thoughtBubble = MdiIconData(0xF07F6);
@@ -15891,6 +19143,9 @@ class Mdi {
 
   /// Icon for thumbs-up-down.
   static const thumbsUpDown = MdiIconData(0xF0515);
+
+  /// Icon for thumbs-up-down-outline.
+  static const thumbsUpDownOutline = MdiIconData(0xF1914);
 
   /// Icon for ticket.
   static const ticket = MdiIconData(0xF0516);
@@ -15919,6 +19174,9 @@ class Mdi {
   /// Icon for tilde.
   static const tilde = MdiIconData(0xF0725);
 
+  /// Icon for tilde-off.
+  static const tildeOff = MdiIconData(0xF18F3);
+
   /// Icon for timelapse.
   static const timelapse = MdiIconData(0xF051A);
 
@@ -15943,12 +19201,6 @@ class Mdi {
   /// Icon for timeline-clock-outline.
   static const timelineClockOutline = MdiIconData(0xF11FC);
 
-  /// Icon for timeline-help.
-  static const timelineHelp = MdiIconData(0xF0F99);
-
-  /// Icon for timeline-help-outline.
-  static const timelineHelpOutline = MdiIconData(0xF0F9A);
-
   /// Icon for timeline-minus.
   static const timelineMinus = MdiIconData(0xF1534);
 
@@ -15963,6 +19215,12 @@ class Mdi {
 
   /// Icon for timeline-plus-outline.
   static const timelinePlusOutline = MdiIconData(0xF0F97);
+
+  /// Icon for timeline-question.
+  static const timelineQuestion = MdiIconData(0xF0F99);
+
+  /// Icon for timeline-question-outline.
+  static const timelineQuestionOutline = MdiIconData(0xF0F9A);
 
   /// Icon for timeline-remove.
   static const timelineRemove = MdiIconData(0xF1536);
@@ -15985,6 +19243,66 @@ class Mdi {
   /// Icon for timer-3.
   static const timer3 = MdiIconData(0xF051D);
 
+  /// Icon for timer-alert.
+  static const timerAlert = MdiIconData(0xF1ACC);
+
+  /// Icon for timer-alert-outline.
+  static const timerAlertOutline = MdiIconData(0xF1ACD);
+
+  /// Icon for timer-cancel.
+  static const timerCancel = MdiIconData(0xF1ACE);
+
+  /// Icon for timer-cancel-outline.
+  static const timerCancelOutline = MdiIconData(0xF1ACF);
+
+  /// Icon for timer-check.
+  static const timerCheck = MdiIconData(0xF1AD0);
+
+  /// Icon for timer-check-outline.
+  static const timerCheckOutline = MdiIconData(0xF1AD1);
+
+  /// Icon for timer-cog.
+  static const timerCog = MdiIconData(0xF1925);
+
+  /// Icon for timer-cog-outline.
+  static const timerCogOutline = MdiIconData(0xF1926);
+
+  /// Icon for timer-edit.
+  static const timerEdit = MdiIconData(0xF1AD2);
+
+  /// Icon for timer-edit-outline.
+  static const timerEditOutline = MdiIconData(0xF1AD3);
+
+  /// Icon for timer-lock.
+  static const timerLock = MdiIconData(0xF1AD4);
+
+  /// Icon for timer-lock-open.
+  static const timerLockOpen = MdiIconData(0xF1AD5);
+
+  /// Icon for timer-lock-open-outline.
+  static const timerLockOpenOutline = MdiIconData(0xF1AD6);
+
+  /// Icon for timer-lock-outline.
+  static const timerLockOutline = MdiIconData(0xF1AD7);
+
+  /// Icon for timer-marker.
+  static const timerMarker = MdiIconData(0xF1AD8);
+
+  /// Icon for timer-marker-outline.
+  static const timerMarkerOutline = MdiIconData(0xF1AD9);
+
+  /// Icon for timer-minus.
+  static const timerMinus = MdiIconData(0xF1ADA);
+
+  /// Icon for timer-minus-outline.
+  static const timerMinusOutline = MdiIconData(0xF1ADB);
+
+  /// Icon for timer-music.
+  static const timerMusic = MdiIconData(0xF1ADC);
+
+  /// Icon for timer-music-outline.
+  static const timerMusicOutline = MdiIconData(0xF1ADD);
+
   /// Icon for timer-off.
   static const timerOff = MdiIconData(0xF13AC);
 
@@ -15994,8 +19312,41 @@ class Mdi {
   /// Icon for timer-outline.
   static const timerOutline = MdiIconData(0xF051B);
 
+  /// Icon for timer-pause.
+  static const timerPause = MdiIconData(0xF1ADE);
+
+  /// Icon for timer-pause-outline.
+  static const timerPauseOutline = MdiIconData(0xF1ADF);
+
+  /// Icon for timer-play.
+  static const timerPlay = MdiIconData(0xF1AE0);
+
+  /// Icon for timer-play-outline.
+  static const timerPlayOutline = MdiIconData(0xF1AE1);
+
+  /// Icon for timer-plus.
+  static const timerPlus = MdiIconData(0xF1AE2);
+
+  /// Icon for timer-plus-outline.
+  static const timerPlusOutline = MdiIconData(0xF1AE3);
+
+  /// Icon for timer-refresh.
+  static const timerRefresh = MdiIconData(0xF1AE4);
+
+  /// Icon for timer-refresh-outline.
+  static const timerRefreshOutline = MdiIconData(0xF1AE5);
+
+  /// Icon for timer-remove.
+  static const timerRemove = MdiIconData(0xF1AE6);
+
+  /// Icon for timer-remove-outline.
+  static const timerRemoveOutline = MdiIconData(0xF1AE7);
+
   /// Icon for timer-sand.
   static const timerSand = MdiIconData(0xF051F);
+
+  /// Icon for timer-sand-complete.
+  static const timerSandComplete = MdiIconData(0xF199F);
 
   /// Icon for timer-sand-empty.
   static const timerSandEmpty = MdiIconData(0xF06AD);
@@ -16003,8 +19354,38 @@ class Mdi {
   /// Icon for timer-sand-full.
   static const timerSandFull = MdiIconData(0xF078C);
 
+  /// Icon for timer-sand-paused.
+  static const timerSandPaused = MdiIconData(0xF19A0);
+
+  /// Icon for timer-settings.
+  static const timerSettings = MdiIconData(0xF1923);
+
+  /// Icon for timer-settings-outline.
+  static const timerSettingsOutline = MdiIconData(0xF1924);
+
+  /// Icon for timer-star.
+  static const timerStar = MdiIconData(0xF1AE8);
+
+  /// Icon for timer-star-outline.
+  static const timerStarOutline = MdiIconData(0xF1AE9);
+
+  /// Icon for timer-stop.
+  static const timerStop = MdiIconData(0xF1AEA);
+
+  /// Icon for timer-stop-outline.
+  static const timerStopOutline = MdiIconData(0xF1AEB);
+
+  /// Icon for timer-sync.
+  static const timerSync = MdiIconData(0xF1AEC);
+
+  /// Icon for timer-sync-outline.
+  static const timerSyncOutline = MdiIconData(0xF1AED);
+
   /// Icon for timetable.
   static const timetable = MdiIconData(0xF0520);
+
+  /// Icon for tire.
+  static const tire = MdiIconData(0xF1896);
 
   /// Icon for toaster.
   static const toaster = MdiIconData(0xF1063);
@@ -16027,6 +19408,12 @@ class Mdi {
   /// Icon for toggle-switch-outline.
   static const toggleSwitchOutline = MdiIconData(0xF0A1A);
 
+  /// Icon for toggle-switch-variant.
+  static const toggleSwitchVariant = MdiIconData(0xF1A25);
+
+  /// Icon for toggle-switch-variant-off.
+  static const toggleSwitchVariantOff = MdiIconData(0xF1A26);
+
   /// Icon for toilet.
   static const toilet = MdiIconData(0xF09AB);
 
@@ -16044,6 +19431,9 @@ class Mdi {
 
   /// Icon for tooltip-account.
   static const tooltipAccount = MdiIconData(0xF000C);
+
+  /// Icon for tooltip-cellphone.
+  static const tooltipCellphone = MdiIconData(0xF183B);
 
   /// Icon for tooltip-check.
   static const tooltipCheck = MdiIconData(0xF155C);
@@ -16126,6 +19516,9 @@ class Mdi {
   /// Icon for tower-fire.
   static const towerFire = MdiIconData(0xF0682);
 
+  /// Icon for town-hall.
+  static const townHall = MdiIconData(0xF1875);
+
   /// Icon for toy-brick.
   static const toyBrick = MdiIconData(0xF1288);
 
@@ -16165,6 +19558,9 @@ class Mdi {
   /// Icon for track-light.
   static const trackLight = MdiIconData(0xF0914);
 
+  /// Icon for track-light-off.
+  static const trackLightOff = MdiIconData(0xF1B01);
+
   /// Icon for trackpad.
   static const trackpad = MdiIconData(0xF07F8);
 
@@ -16186,11 +19582,80 @@ class Mdi {
   /// Icon for traffic-light.
   static const trafficLight = MdiIconData(0xF052B);
 
+  /// Icon for traffic-light-outline.
+  static const trafficLightOutline = MdiIconData(0xF182A);
+
   /// Icon for train.
   static const train = MdiIconData(0xF052C);
 
   /// Icon for train-car.
   static const trainCar = MdiIconData(0xF0BD8);
+
+  /// Icon for train-car-autorack.
+  static const trainCarAutorack = MdiIconData(0xF1B2D);
+
+  /// Icon for train-car-box.
+  static const trainCarBox = MdiIconData(0xF1B2E);
+
+  /// Icon for train-car-box-full.
+  static const trainCarBoxFull = MdiIconData(0xF1B2F);
+
+  /// Icon for train-car-box-open.
+  static const trainCarBoxOpen = MdiIconData(0xF1B30);
+
+  /// Icon for train-car-caboose.
+  static const trainCarCaboose = MdiIconData(0xF1B31);
+
+  /// Icon for train-car-centerbeam.
+  static const trainCarCenterbeam = MdiIconData(0xF1B32);
+
+  /// Icon for train-car-centerbeam-full.
+  static const trainCarCenterbeamFull = MdiIconData(0xF1B33);
+
+  /// Icon for train-car-container.
+  static const trainCarContainer = MdiIconData(0xF1B34);
+
+  /// Icon for train-car-flatbed.
+  static const trainCarFlatbed = MdiIconData(0xF1B35);
+
+  /// Icon for train-car-flatbed-car.
+  static const trainCarFlatbedCar = MdiIconData(0xF1B36);
+
+  /// Icon for train-car-flatbed-tank.
+  static const trainCarFlatbedTank = MdiIconData(0xF1B37);
+
+  /// Icon for train-car-gondola.
+  static const trainCarGondola = MdiIconData(0xF1B38);
+
+  /// Icon for train-car-gondola-full.
+  static const trainCarGondolaFull = MdiIconData(0xF1B39);
+
+  /// Icon for train-car-hopper.
+  static const trainCarHopper = MdiIconData(0xF1B3A);
+
+  /// Icon for train-car-hopper-covered.
+  static const trainCarHopperCovered = MdiIconData(0xF1B3B);
+
+  /// Icon for train-car-hopper-full.
+  static const trainCarHopperFull = MdiIconData(0xF1B3C);
+
+  /// Icon for train-car-intermodal.
+  static const trainCarIntermodal = MdiIconData(0xF1B3D);
+
+  /// Icon for train-car-passenger.
+  static const trainCarPassenger = MdiIconData(0xF1733);
+
+  /// Icon for train-car-passenger-door.
+  static const trainCarPassengerDoor = MdiIconData(0xF1734);
+
+  /// Icon for train-car-passenger-door-open.
+  static const trainCarPassengerDoorOpen = MdiIconData(0xF1735);
+
+  /// Icon for train-car-passenger-variant.
+  static const trainCarPassengerVariant = MdiIconData(0xF1736);
+
+  /// Icon for train-car-tank.
+  static const trainCarTank = MdiIconData(0xF1B3E);
 
   /// Icon for train-variant.
   static const trainVariant = MdiIconData(0xF08C4);
@@ -16252,8 +19717,20 @@ class Mdi {
   /// Icon for translate-off.
   static const translateOff = MdiIconData(0xF0E06);
 
+  /// Icon for translate-variant.
+  static const translateVariant = MdiIconData(0xF1B99);
+
   /// Icon for transmission-tower.
   static const transmissionTower = MdiIconData(0xF0D3E);
+
+  /// Icon for transmission-tower-export.
+  static const transmissionTowerExport = MdiIconData(0xF192C);
+
+  /// Icon for transmission-tower-import.
+  static const transmissionTowerImport = MdiIconData(0xF192D);
+
+  /// Icon for transmission-tower-off.
+  static const transmissionTowerOff = MdiIconData(0xF19DD);
 
   /// Icon for trash-can.
   static const trashCan = MdiIconData(0xF0A79);
@@ -16266,6 +19743,12 @@ class Mdi {
 
   /// Icon for tray-alert.
   static const trayAlert = MdiIconData(0xF1295);
+
+  /// Icon for tray-arrow-down.
+  static const trayArrowDown = MdiIconData(0xF0120);
+
+  /// Icon for tray-arrow-up.
+  static const trayArrowUp = MdiIconData(0xF011D);
 
   /// Icon for tray-full.
   static const trayFull = MdiIconData(0xF1296);
@@ -16306,6 +19789,12 @@ class Mdi {
   /// Icon for triangle-outline.
   static const triangleOutline = MdiIconData(0xF0537);
 
+  /// Icon for triangle-small-down.
+  static const triangleSmallDown = MdiIconData(0xF1A09);
+
+  /// Icon for triangle-small-up.
+  static const triangleSmallUp = MdiIconData(0xF1A0A);
+
   /// Icon for triangle-wave.
   static const triangleWave = MdiIconData(0xF147C);
 
@@ -16333,6 +19822,15 @@ class Mdi {
   /// Icon for truck.
   static const truck = MdiIconData(0xF053D);
 
+  /// Icon for truck-alert.
+  static const truckAlert = MdiIconData(0xF19DE);
+
+  /// Icon for truck-alert-outline.
+  static const truckAlertOutline = MdiIconData(0xF19DF);
+
+  /// Icon for truck-cargo-container.
+  static const truckCargoContainer = MdiIconData(0xF18D8);
+
   /// Icon for truck-check.
   static const truckCheck = MdiIconData(0xF0CD4);
 
@@ -16351,8 +19849,32 @@ class Mdi {
   /// Icon for truck-fast-outline.
   static const truckFastOutline = MdiIconData(0xF129C);
 
+  /// Icon for truck-flatbed.
+  static const truckFlatbed = MdiIconData(0xF1891);
+
+  /// Icon for truck-minus.
+  static const truckMinus = MdiIconData(0xF19AE);
+
+  /// Icon for truck-minus-outline.
+  static const truckMinusOutline = MdiIconData(0xF19BD);
+
   /// Icon for truck-outline.
   static const truckOutline = MdiIconData(0xF129D);
+
+  /// Icon for truck-plus.
+  static const truckPlus = MdiIconData(0xF19AD);
+
+  /// Icon for truck-plus-outline.
+  static const truckPlusOutline = MdiIconData(0xF19BC);
+
+  /// Icon for truck-remove.
+  static const truckRemove = MdiIconData(0xF19AF);
+
+  /// Icon for truck-remove-outline.
+  static const truckRemoveOutline = MdiIconData(0xF19BE);
+
+  /// Icon for truck-snowflake.
+  static const truckSnowflake = MdiIconData(0xF19A6);
 
   /// Icon for truck-trailer.
   static const truckTrailer = MdiIconData(0xF0727);
@@ -16371,6 +19893,9 @@ class Mdi {
 
   /// Icon for tshirt-v-outline.
   static const tshirtVOutline = MdiIconData(0xF0540);
+
+  /// Icon for tsunami.
+  static const tsunami = MdiIconData(0xF1A81);
 
   /// Icon for tumble-dryer.
   static const tumbleDryer = MdiIconData(0xF0917);
@@ -16393,6 +19918,18 @@ class Mdi {
   /// Icon for tune-vertical-variant.
   static const tuneVerticalVariant = MdiIconData(0xF1543);
 
+  /// Icon for tunnel.
+  static const tunnel = MdiIconData(0xF183D);
+
+  /// Icon for tunnel-outline.
+  static const tunnelOutline = MdiIconData(0xF183E);
+
+  /// Icon for turbine.
+  static const turbine = MdiIconData(0xF1A82);
+
+  /// Icon for turkey.
+  static const turkey = MdiIconData(0xF171B);
+
   /// Icon for turnstile.
   static const turnstile = MdiIconData(0xF0CD5);
 
@@ -16407,9 +19944,6 @@ class Mdi {
 
   /// Icon for twitter.
   static const twitter = MdiIconData(0xF0544);
-
-  /// Icon for twitter-retweet.
-  static const twitterRetweet = MdiIconData(0xF0547);
 
   /// Icon for two-factor-authentication.
   static const twoFactorAuthentication = MdiIconData(0xF09AF);
@@ -16437,6 +19971,12 @@ class Mdi {
 
   /// Icon for umbrella.
   static const umbrella = MdiIconData(0xF054A);
+
+  /// Icon for umbrella-beach.
+  static const umbrellaBeach = MdiIconData(0xF188A);
+
+  /// Icon for umbrella-beach-outline.
+  static const umbrellaBeachOutline = MdiIconData(0xF188B);
 
   /// Icon for umbrella-closed.
   static const umbrellaClosed = MdiIconData(0xF09B0);
@@ -16489,9 +20029,6 @@ class Mdi {
   /// Icon for unreal.
   static const unreal = MdiIconData(0xF09B1);
 
-  /// Icon for untappd.
-  static const untappd = MdiIconData(0xF0551);
-
   /// Icon for update.
   static const update = MdiIconData(0xF06B0);
 
@@ -16533,6 +20070,12 @@ class Mdi {
 
   /// Icon for usb-port.
   static const usbPort = MdiIconData(0xF11F0);
+
+  /// Icon for vacuum.
+  static const vacuum = MdiIconData(0xF19A1);
+
+  /// Icon for vacuum-outline.
+  static const vacuumOutline = MdiIconData(0xF19A2);
 
   /// Icon for valve.
   static const valve = MdiIconData(0xF1066);
@@ -16607,10 +20150,25 @@ class Mdi {
   static const vectorLink = MdiIconData(0xF0FE8);
 
   /// Icon for vector-point.
-  static const vectorPoint = MdiIconData(0xF055F);
+  static const vectorPoint = MdiIconData(0xF01C4);
+
+  /// Icon for vector-point-edit.
+  static const vectorPointEdit = MdiIconData(0xF09E8);
+
+  /// Icon for vector-point-minus.
+  static const vectorPointMinus = MdiIconData(0xF1B78);
+
+  /// Icon for vector-point-plus.
+  static const vectorPointPlus = MdiIconData(0xF1B79);
+
+  /// Icon for vector-point-select.
+  static const vectorPointSelect = MdiIconData(0xF055F);
 
   /// Icon for vector-polygon.
   static const vectorPolygon = MdiIconData(0xF0560);
+
+  /// Icon for vector-polygon-variant.
+  static const vectorPolygonVariant = MdiIconData(0xF1856);
 
   /// Icon for vector-polyline.
   static const vectorPolyline = MdiIconData(0xF0561);
@@ -16639,6 +20197,24 @@ class Mdi {
   /// Icon for vector-square.
   static const vectorSquare = MdiIconData(0xF0001);
 
+  /// Icon for vector-square-close.
+  static const vectorSquareClose = MdiIconData(0xF1857);
+
+  /// Icon for vector-square-edit.
+  static const vectorSquareEdit = MdiIconData(0xF18D9);
+
+  /// Icon for vector-square-minus.
+  static const vectorSquareMinus = MdiIconData(0xF18DA);
+
+  /// Icon for vector-square-open.
+  static const vectorSquareOpen = MdiIconData(0xF1858);
+
+  /// Icon for vector-square-plus.
+  static const vectorSquarePlus = MdiIconData(0xF18DB);
+
+  /// Icon for vector-square-remove.
+  static const vectorSquareRemove = MdiIconData(0xF18DC);
+
   /// Icon for vector-triangle.
   static const vectorTriangle = MdiIconData(0xF0563);
 
@@ -16656,6 +20232,9 @@ class Mdi {
 
   /// Icon for video.
   static const video = MdiIconData(0xF0567);
+
+  /// Icon for video-2d.
+  static const video2d = MdiIconData(0xF1A1C);
 
   /// Icon for video-3d.
   static const video3d = MdiIconData(0xF07FD);
@@ -16704,6 +20283,12 @@ class Mdi {
 
   /// Icon for video-input-svideo.
   static const videoInputSvideo = MdiIconData(0xF0842);
+
+  /// Icon for video-marker.
+  static const videoMarker = MdiIconData(0xF19A9);
+
+  /// Icon for video-marker-outline.
+  static const videoMarkerOutline = MdiIconData(0xF19AA);
 
   /// Icon for video-minus.
   static const videoMinus = MdiIconData(0xF09B2);
@@ -16783,6 +20368,12 @@ class Mdi {
   /// Icon for view-dashboard.
   static const viewDashboard = MdiIconData(0xF056E);
 
+  /// Icon for view-dashboard-edit.
+  static const viewDashboardEdit = MdiIconData(0xF1947);
+
+  /// Icon for view-dashboard-edit-outline.
+  static const viewDashboardEditOutline = MdiIconData(0xF1948);
+
   /// Icon for view-dashboard-outline.
   static const viewDashboardOutline = MdiIconData(0xF0A1D);
 
@@ -16797,6 +20388,12 @@ class Mdi {
 
   /// Icon for view-day-outline.
   static const viewDayOutline = MdiIconData(0xF148A);
+
+  /// Icon for view-gallery.
+  static const viewGallery = MdiIconData(0xF1888);
+
+  /// Icon for view-gallery-outline.
+  static const viewGalleryOutline = MdiIconData(0xF1889);
 
   /// Icon for view-grid.
   static const viewGrid = MdiIconData(0xF0570);
@@ -16873,23 +20470,32 @@ class Mdi {
   /// Icon for virus.
   static const virus = MdiIconData(0xF13B6);
 
+  /// Icon for virus-off.
+  static const virusOff = MdiIconData(0xF18E1);
+
+  /// Icon for virus-off-outline.
+  static const virusOffOutline = MdiIconData(0xF18E2);
+
   /// Icon for virus-outline.
   static const virusOutline = MdiIconData(0xF13B7);
-
-  /// Icon for vk.
-  static const vk = MdiIconData(0xF0579);
 
   /// Icon for vlc.
   static const vlc = MdiIconData(0xF057C);
 
-  /// Icon for voice-off.
-  static const voiceOff = MdiIconData(0xF0ED4);
-
   /// Icon for voicemail.
   static const voicemail = MdiIconData(0xF057D);
 
+  /// Icon for volcano.
+  static const volcano = MdiIconData(0xF1A83);
+
+  /// Icon for volcano-outline.
+  static const volcanoOutline = MdiIconData(0xF1A84);
+
   /// Icon for volleyball.
   static const volleyball = MdiIconData(0xF09B4);
+
+  /// Icon for volume-equal.
+  static const volumeEqual = MdiIconData(0xF1B10);
 
   /// Icon for volume-high.
   static const volumeHigh = MdiIconData(0xF057E);
@@ -16942,20 +20548,38 @@ class Mdi {
   /// Icon for wall.
   static const wall = MdiIconData(0xF07FE);
 
+  /// Icon for wall-fire.
+  static const wallFire = MdiIconData(0xF1A11);
+
   /// Icon for wall-sconce.
   static const wallSconce = MdiIconData(0xF091C);
 
   /// Icon for wall-sconce-flat.
   static const wallSconceFlat = MdiIconData(0xF091D);
 
+  /// Icon for wall-sconce-flat-outline.
+  static const wallSconceFlatOutline = MdiIconData(0xF17C9);
+
   /// Icon for wall-sconce-flat-variant.
   static const wallSconceFlatVariant = MdiIconData(0xF041C);
+
+  /// Icon for wall-sconce-flat-variant-outline.
+  static const wallSconceFlatVariantOutline = MdiIconData(0xF17CA);
+
+  /// Icon for wall-sconce-outline.
+  static const wallSconceOutline = MdiIconData(0xF17CB);
 
   /// Icon for wall-sconce-round.
   static const wallSconceRound = MdiIconData(0xF0748);
 
+  /// Icon for wall-sconce-round-outline.
+  static const wallSconceRoundOutline = MdiIconData(0xF17CC);
+
   /// Icon for wall-sconce-round-variant.
   static const wallSconceRoundVariant = MdiIconData(0xF091E);
+
+  /// Icon for wall-sconce-round-variant-outline.
+  static const wallSconceRoundVariantOutline = MdiIconData(0xF17CD);
 
   /// Icon for wallet.
   static const wallet = MdiIconData(0xF0584);
@@ -17041,6 +20665,9 @@ class Mdi {
   /// Icon for water-boiler-alert.
   static const waterBoilerAlert = MdiIconData(0xF11B3);
 
+  /// Icon for water-boiler-auto.
+  static const waterBoilerAuto = MdiIconData(0xF1B98);
+
   /// Icon for water-boiler-off.
   static const waterBoilerOff = MdiIconData(0xF11B4);
 
@@ -17049,6 +20676,9 @@ class Mdi {
 
   /// Icon for water-check-outline.
   static const waterCheckOutline = MdiIconData(0xF1505);
+
+  /// Icon for water-circle.
+  static const waterCircle = MdiIconData(0xF1806);
 
   /// Icon for water-minus.
   static const waterMinus = MdiIconData(0xF1506);
@@ -17061,6 +20691,9 @@ class Mdi {
 
   /// Icon for water-off-outline.
   static const waterOffOutline = MdiIconData(0xF1508);
+
+  /// Icon for water-opacity.
+  static const waterOpacity = MdiIconData(0xF1855);
 
   /// Icon for water-outline.
   static const waterOutline = MdiIconData(0xF0E0A);
@@ -17092,11 +20725,23 @@ class Mdi {
   /// Icon for water-remove-outline.
   static const waterRemoveOutline = MdiIconData(0xF150D);
 
+  /// Icon for water-sync.
+  static const waterSync = MdiIconData(0xF17C6);
+
+  /// Icon for water-thermometer.
+  static const waterThermometer = MdiIconData(0xF1A85);
+
+  /// Icon for water-thermometer-outline.
+  static const waterThermometerOutline = MdiIconData(0xF1A86);
+
   /// Icon for water-well.
   static const waterWell = MdiIconData(0xF106B);
 
   /// Icon for water-well-outline.
   static const waterWellOutline = MdiIconData(0xF106C);
+
+  /// Icon for waterfall.
+  static const waterfall = MdiIconData(0xF1849);
 
   /// Icon for watering-can.
   static const wateringCan = MdiIconData(0xF1481);
@@ -17116,6 +20761,15 @@ class Mdi {
   /// Icon for waves.
   static const waves = MdiIconData(0xF078D);
 
+  /// Icon for waves-arrow-left.
+  static const wavesArrowLeft = MdiIconData(0xF1859);
+
+  /// Icon for waves-arrow-right.
+  static const wavesArrowRight = MdiIconData(0xF185A);
+
+  /// Icon for waves-arrow-up.
+  static const wavesArrowUp = MdiIconData(0xF185B);
+
   /// Icon for waze.
   static const waze = MdiIconData(0xF0BDE);
 
@@ -17127,6 +20781,12 @@ class Mdi {
 
   /// Icon for weather-cloudy-arrow-right.
   static const weatherCloudyArrowRight = MdiIconData(0xF0E6E);
+
+  /// Icon for weather-cloudy-clock.
+  static const weatherCloudyClock = MdiIconData(0xF18F6);
+
+  /// Icon for weather-dust.
+  static const weatherDust = MdiIconData(0xF1B5A);
 
   /// Icon for weather-fog.
   static const weatherFog = MdiIconData(0xF0591);
@@ -17215,11 +20875,38 @@ class Mdi {
   /// Icon for web-box.
   static const webBox = MdiIconData(0xF0F94);
 
+  /// Icon for web-cancel.
+  static const webCancel = MdiIconData(0xF1790);
+
+  /// Icon for web-check.
+  static const webCheck = MdiIconData(0xF0789);
+
   /// Icon for web-clock.
   static const webClock = MdiIconData(0xF124A);
 
+  /// Icon for web-minus.
+  static const webMinus = MdiIconData(0xF10A0);
+
+  /// Icon for web-off.
+  static const webOff = MdiIconData(0xF0A8E);
+
+  /// Icon for web-plus.
+  static const webPlus = MdiIconData(0xF0033);
+
+  /// Icon for web-refresh.
+  static const webRefresh = MdiIconData(0xF1791);
+
+  /// Icon for web-remove.
+  static const webRemove = MdiIconData(0xF0551);
+
+  /// Icon for web-sync.
+  static const webSync = MdiIconData(0xF1792);
+
   /// Icon for webcam.
   static const webcam = MdiIconData(0xF05A0);
+
+  /// Icon for webcam-off.
+  static const webcamOff = MdiIconData(0xF1737);
 
   /// Icon for webhook.
   static const webhook = MdiIconData(0xF062F);
@@ -17253,6 +20940,9 @@ class Mdi {
 
   /// Icon for wheel-barrow.
   static const wheelBarrow = MdiIconData(0xF14F2);
+
+  /// Icon for wheelchair.
+  static const wheelchair = MdiIconData(0xF1A87);
 
   /// Icon for wheelchair-accessibility.
   static const wheelchairAccessibility = MdiIconData(0xF05A4);
@@ -17416,8 +21106,20 @@ class Mdi {
   /// Icon for wikipedia.
   static const wikipedia = MdiIconData(0xF05AC);
 
+  /// Icon for wind-power.
+  static const windPower = MdiIconData(0xF1A88);
+
+  /// Icon for wind-power-outline.
+  static const windPowerOutline = MdiIconData(0xF1A89);
+
   /// Icon for wind-turbine.
   static const windTurbine = MdiIconData(0xF0DA5);
+
+  /// Icon for wind-turbine-alert.
+  static const windTurbineAlert = MdiIconData(0xF19AB);
+
+  /// Icon for wind-turbine-check.
+  static const windTurbineCheck = MdiIconData(0xF19AC);
 
   /// Icon for window-close.
   static const windowClose = MdiIconData(0xF05AD);
@@ -17449,8 +21151,17 @@ class Mdi {
   /// Icon for window-shutter-alert.
   static const windowShutterAlert = MdiIconData(0xF111D);
 
+  /// Icon for window-shutter-auto.
+  static const windowShutterAuto = MdiIconData(0xF1BA3);
+
+  /// Icon for window-shutter-cog.
+  static const windowShutterCog = MdiIconData(0xF1A8A);
+
   /// Icon for window-shutter-open.
   static const windowShutterOpen = MdiIconData(0xF111E);
+
+  /// Icon for window-shutter-settings.
+  static const windowShutterSettings = MdiIconData(0xF1A8B);
 
   /// Icon for windsock.
   static const windsock = MdiIconData(0xF15FA);
@@ -17460,6 +21171,9 @@ class Mdi {
 
   /// Icon for wiper-wash.
   static const wiperWash = MdiIconData(0xF0DA6);
+
+  /// Icon for wiper-wash-alert.
+  static const wiperWashAlert = MdiIconData(0xF18DF);
 
   /// Icon for wizard-hat.
   static const wizardHat = MdiIconData(0xF1477);
@@ -17476,26 +21190,35 @@ class Mdi {
   /// Icon for wrench.
   static const wrench = MdiIconData(0xF05B7);
 
+  /// Icon for wrench-check.
+  static const wrenchCheck = MdiIconData(0xF1B8F);
+
+  /// Icon for wrench-check-outline.
+  static const wrenchCheckOutline = MdiIconData(0xF1B90);
+
+  /// Icon for wrench-clock.
+  static const wrenchClock = MdiIconData(0xF19A3);
+
+  /// Icon for wrench-clock-outline.
+  static const wrenchClockOutline = MdiIconData(0xF1B93);
+
+  /// Icon for wrench-cog.
+  static const wrenchCog = MdiIconData(0xF1B91);
+
+  /// Icon for wrench-cog-outline.
+  static const wrenchCogOutline = MdiIconData(0xF1B92);
+
   /// Icon for wrench-outline.
   static const wrenchOutline = MdiIconData(0xF0BE0);
 
   /// Icon for xamarin.
   static const xamarin = MdiIconData(0xF0845);
 
-  /// Icon for xamarin-outline.
-  static const xamarinOutline = MdiIconData(0xF0846);
-
-  /// Icon for xing.
-  static const xing = MdiIconData(0xF05BE);
-
   /// Icon for xml.
   static const xml = MdiIconData(0xF05C0);
 
   /// Icon for xmpp.
   static const xmpp = MdiIconData(0xF07FF);
-
-  /// Icon for y-combinator.
-  static const yCombinator = MdiIconData(0xF0624);
 
   /// Icon for yahoo.
   static const yahoo = MdiIconData(0xF0B4F);

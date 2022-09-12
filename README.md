@@ -1,7 +1,5 @@
 # Material Design Icons for Flutter
 
-![pub version](https://badgen.net/pub/v/mdi) ![likes](https://badgen.net/pub/likes/mdi) ![sdk version](https://badgen.net/pub/sdk-version/mdi) ![platform](https://badgen.net/pub/flutter-platform/mdi) ![license](https://badgen.net/pub/license/mdi)
-
 Material Design Icons generated using `@mdi/util` provided by [materialdesignicons.com](https://materialdesignicons.com).
 
 ### Installation
@@ -10,7 +8,10 @@ Add this to your package's pubspec.yaml file:
 
 ```yaml
 dependencies:
-  mdi: ^5.0.0-nullsafety.0
+  mdi:
+    git:
+      url: https://github.com/bleonard252/mdi-dart
+      path: mdi
 ```
 
 ### Usage
