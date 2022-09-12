@@ -1,7 +1,7 @@
 name: mdi
 description: Material Design Icons for Flutter from the materialdesignicons.com community.
 version: 7.0.96
-homepage: https://github.com/bleonard252/mdi-dart
+homepage: https://github.com/pepsighan/mdi-dart
 
 environment:
   sdk: ">=2.12.0-0 <3.0.0"

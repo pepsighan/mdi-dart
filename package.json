@@ -2,7 +2,7 @@
   "name": "mdi-dart",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/vyperium/mdi-dart.git",
+  "repository": "https://github.com/pepsighan/mdi-dart.git",
   "author": "Sharad Chand <pepsighan@sharadchand.com>",
   "license": "MIT",
   "scripts": {
