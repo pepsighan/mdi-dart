@@ -9,7 +9,7 @@
     "build": "node index.js"
   },
   "dependencies": {
-    "@mdi/svg": "^5.0.45",
+    "@mdi/svg": "^7.0.96",
     "@mdi/util": "^0.3.0"
   }
 }
